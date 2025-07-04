@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/houmizuka/Desktop/my-hugo-site",
+	"sourceRoot": "/Users/houmizuka/Desktop/daytradelog",
 	"sources": [
 		"ananke/css/main.css"
 	],
