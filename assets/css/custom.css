@@ -1,0 +1,26 @@
+/* custom.css の内容例 */
+
+/* ページの背景色を薄い水色に変更 */
+body {
+    background-color: #f0f8ff; /* AliceBlue */
+}
+
+/* サイトのメインタイトル（ヘッダー部分）の色を変更 */
+/* .site-title a はClarityテーマの標準的なセレクタですが、ブラウザの開発者ツールで確認することを推奨します */
+.site-title a {
+    color: #0056b3; /* 濃い青色 */
+    font-family: 'Arial Black', sans-serif; /* フォントも変更 */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3); /* 影をつけて立体感を出す */
+}
+
+/* 記事のタイトル（H1など）の色を変更 */
+/* .post-title や .single-page h1 もテーマのHTML構造に合わせて確認してください */
+h1.post-title, .single-page h1 {
+    color: #28a745; /* 緑色 */
+}
+
+/* 記事内の段落の文字サイズを少し大きくする */
+p {
+    font-size: 1.1em;
+    line-height: 1.6; /* 行間を調整 */
+}

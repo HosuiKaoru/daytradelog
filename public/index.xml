@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>宝水香のトレード戦略</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 宝水香のトレード戦略</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jul 2025 14:07:34 +0900</lastBuildDate>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 04 Jul 2025 11:34:28 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;宝水香&#34;&gt;宝水香&lt;/h1&gt;&#xA;&lt;h2 id=&#34;駆け出しトレーダー&#34;&gt;駆け出しトレーダー&lt;/h2&gt;</description>
+      <description>&lt;p&gt;宝水香&lt;br&gt;&#xA;駆け出しトレーダー&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

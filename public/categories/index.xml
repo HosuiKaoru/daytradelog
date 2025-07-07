@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on 宝水香のトレード戦略</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on 宝水香のトレード戦略</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jul 2025 14:07:34 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>デイトレード戦略</title>
-      <link>http://localhost:1313/categories/%E3%83%87%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E6%88%A6%E7%95%A5/</link>
+      <title>ブレイク戦略</title>
+      <link>http://localhost:1313/categories/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E6%88%A6%E7%95%A5/</link>
       <pubDate>Fri, 04 Jul 2025 14:07:34 +0900</pubDate>
-      <guid>http://localhost:1313/categories/%E3%83%87%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E6%88%A6%E7%95%A5/</guid>
+      <guid>http://localhost:1313/categories/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E6%88%A6%E7%95%A5/</guid>
       <description></description>
     </item>
   </channel>

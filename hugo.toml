@@ -1,9 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '宝水香のトレード戦略'
 
 theme = "Clarity"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# hugo.toml または config.toml に追加 (既存のparamsセクションに追記する可能性あり)
+[params]
+   theme_css = ["css/custom.css"] # テーマによってはこのような設定があることも
+   customCSS = ["css/custom.css"] # 別途設定が必要な場合
