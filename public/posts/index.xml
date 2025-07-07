@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/2025/07/04-trade-record/</link>
       <pubDate>Fri, 04 Jul 2025 14:07:34 +0900</pubDate>
       <guid>http://localhost:1313/posts/2025/07/04-trade-record/</guid>
-      <description>&lt;p&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;br&gt;&#xA;「今日の参加者全員が含み損になるタイミング」の需給の悪さを利用する&lt;br&gt;&#xA;　　1. 朝一の上昇時より出来高減少が条件 &lt;br&gt;&#xA;　　2. 5分足が25MAと離れている高い位置なら下落の勢いが強く、25MAが近い場合はリバウンド勢も入ってくる危険性がある&lt;br&gt;&#xA;　　3. 日足が高値圏にいる時・日足の反転シグナル確認後が狙い目&lt;br&gt;&#xA;　　4. イグジットは5分足のレジサポライン&lt;br&gt;&#xA;　　5. 4. 損切りは始値より少し上とする（需給が悪いのでリバらない前提）&lt;/p&gt;&#xA;   &lt;img src=&#34;http://localhost:1313/images/short/3671/5minutes.png&#34; alt=&#34;ショート戦略の5分足チャート&#34; width=&#34;100&#34; height=&#34;50&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;</description>
+      <description>&lt;div style=&#34;display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1;&#34;&gt;&#xA;    &lt;p&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;/p&gt;&#xA;    &lt;p&gt;「今日の参加者全員が含み損になるタイミング」の需給の悪さを利用する&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;1. 朝一の上昇時より出来高減少が条件&#xA;2. 5分足が25MAと離れている高い位置なら下落の勢いが強く、25MAが近い場合はリバウンド勢も入ってくる危険性がある&#xA;3. 日足が高値圏にいる時・日足の反転シグナル確認後が狙い目&#xA;4. イグジットは5分足のレジサポライン&#xA;5. 損切りは始値より少し上とする（需給が悪いのでリバらない前提）&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex-shrink: 0; display: flex; gap: 10px;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/short/3671/5minutes.png&#34; alt=&#34;逆V戦略の5分足&#34; width=&#34;300&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/short/3671/day.png&#34; alt=&#34;逆V戦略の日足&#34; width=&#34;300&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
+      <title>自己紹介</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 04 Jul 2025 11:34:28 +0900</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;私の名前は宝水香だ&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;宝水香&#34;&gt;宝水香&lt;/h1&gt;&#xA;&lt;h2 id=&#34;駆け出しトレーダー&#34;&gt;駆け出しトレーダー&lt;/h2&gt;&#xA;&lt;p&gt;トレーダーになった理由は楽に自由を手に入れられると思ったから&lt;br&gt;&#xA;自由の定義は&lt;br&gt;&#xA;1.「無駄な人間関係がない」&lt;br&gt;&#xA;2.「金銭的不自由がない」&lt;br&gt;&#xA;3.「やりたいことに没頭できる」&lt;/p&gt;&#xA;&lt;h2 id=&#34;実現したいこと&#34;&gt;実現したいこと&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;u&gt;母に豊かな暮らしを提供する&lt;/u&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;u&gt;30歳で資産2億円&lt;/u&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
