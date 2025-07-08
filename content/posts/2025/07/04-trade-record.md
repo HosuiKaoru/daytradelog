@@ -91,7 +91,7 @@ title = '逆V戦略'
 </div>
 </div>
 
-<u>失敗例 2025/07/07 『2334』</u>  
+<u>失敗例① 2025/07/07 『2334』</u>  
 日足は高値圏だが逆V波発生が10時05分かつギャップアップしていない
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
@@ -100,6 +100,19 @@ title = '逆V戦略'
 </div>
 <div style="text-align: center;">
 <img src="/images/short/2334/day.png" alt="逆V戦略の日足" width="200" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>失敗例② 2025/07/08 『7603』</u>  
+確定足ではない不完全な逆V波・日足の高値掴み勢を狙いたいが逆V失敗から下支え勢もいると判断できるので戻り売りを狙ってはいけない
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/short/7603/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/short/7603/day.png" alt="逆V戦略の日足" width="200" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
