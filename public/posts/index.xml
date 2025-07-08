@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 宝水香のトレード戦略</title>
+    <title>Posts on デイトレード戦略と日々の記録</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on 宝水香のトレード戦略</description>
-    <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Fri, 04 Jul 2025 14:07:34 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 04 Jul 2025 14:07:34 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>逆V戦略</title>
       <link>http://localhost:1313/posts/2025/07/04-trade-record/</link>
       <pubDate>Fri, 04 Jul 2025 14:07:34 +0900</pubDate>
+      
       <guid>http://localhost:1313/posts/2025/07/04-trade-record/</guid>
-      <description>&lt;p&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;/p&gt;&#xA;&lt;p&gt;「今日の参加者全員が含み損になるタイミング」の需給の悪さを利用する&lt;/p&gt;</description>
+      
+      <description>&lt;p&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;/p&gt;
+&lt;p&gt;「今日の参加者全員が含み損になるタイミング」の需給の悪さを利用する&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>自己紹介</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 04 Jul 2025 11:34:28 +0900</pubDate>
+      
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;宝水香&lt;br&gt;&#xA;駆け出しトレーダー&lt;/p&gt;</description>
+      
+      <description>&lt;p&gt;宝水香&lt;br&gt;
+駆け出しトレーダー&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
