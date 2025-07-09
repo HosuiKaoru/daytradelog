@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+
+{{/* allow website developer to enforce default dark mode */}}
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
+<html lang="{{ .Site.LanguageCode }}">
+{{- end -}}
+
+{{- partial "head.html" . -}}
+
+<body data-theme="{{ $defaultColor }}" class="notransition">
+    {{- partial "scriptsBodyStart.html" . -}}
+    {{- partial "header.html" . -}}
+    <div class="wrapper">
+        {{ partial "bio" . }}
+        <main aria-label="Content">
+            <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
+            {{/* Show last 5 posts in reverse date order */}}
+            {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+            {{ $posts := $pagesToShow.ByDate.Reverse }}
+            {{ range first 5 $posts }}
+            {{ partial "postCard" . }}
+            {{ end }}
+            {{ if gt (len $posts) 5 }}
+            <p>
+                {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
+                <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
+                {{ end }}
+            </p>
+            {{ end }}
+
+            <section class="section">
+                <div class="container">
+                    <h2 class="title is-4 has-text-centered">戦略カテゴリ一覧</h2>
+                     <div class="columns is-multiline is-centered">
+                         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                            {{ if gt (len $taxonomy.Pages) 0 }} {{/* 記事が1つ以上あるカテゴリのみ表示 */}}
+                                <div class="column is-one-quarter-desktop is-half-tablet is-full-mobile">
+                                    <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}/" class="box has-text-centered category-link">
+                                        <p class="title is-5">{{ $name }} ({{ len $taxonomy.Pages }})</p>
+                                    </a>
+                                </div>
+                            {{ end }}
+                         {{ end }}
+                    </div>
+                 </div>
+            </section>
+        </main>
+    </div>
+    {{- partial "footer.html" . -}}
+    {{- partial "scriptsBodyEnd.html" . -}}
+
+    <style>
+    .category-link {
+      display: block;
+      padding: 1rem;
+      border-radius: 8px;
+      background-color: #f0f0f0; /* 明るい背景色 */
+      color: #333; /* 文字色 */
+      text-decoration: none;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .category-link:hover {
+      background-color: #e0e0e0; /* ホバー時の背景色 */
+      transform: translateY(-3px); /* わずかに上に移動 */
+    }
+
+    .category-link .title {
+      margin-bottom: 0;
+    }
+
+    .columns.is-multiline {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px; /* カラム間のスペース */
+    }
+
+    .column {
+      flex-basis: calc(25% - 20px); /* デスクトップで4カラム */
+      max-width: calc(25% - 20px);
+    }
+
+    @media screen and (max-width: 768px) { /* タブレットサイズ */
+      .column {
+        flex-basis: calc(50% - 20px); /* 2カラム */
+        max-width: calc(50% - 20px);
+      }
+    }
+
+    @media screen and (max-width: 480px) { /* モバイルサイズ */
+      .column {
+        flex-basis: 100%; /* 1カラム */
+        max-width: 100%;
+      }
+    }
+    </style>
+</body>
+
+</html>
