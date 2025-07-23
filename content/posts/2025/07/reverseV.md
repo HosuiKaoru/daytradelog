@@ -10,13 +10,14 @@ title = '逆V戦略'
 <!--more-->
 
 # 条件
-1. 朝一の上昇時より出来高減少が条件 
-2. ギャップアップスタートが条件 
-3. エントリー時間は9:00~10:00（時間帯が遅くなるほど逃げ切れる人が増えてしまうため）  
-4. 日足が高値圏・高値掴み勢が多い状況が狙い目
+1. 朝一の上昇時より出来高減少が条件   
+2. エントリー時間は9:00~10:00（時間帯が遅くなるほど逃げ切れる人が増えてしまうため）  
+3. 日足が高値圏・高値掴み勢が多い状況が狙い目  
+4. ギャップアップスタートする時は成功率が高い  
 5. 5分足が25MAと離れている高い位置なら下落の勢いが強く、25MAが近い場合はリバウンド勢も入ってくる危険性がある  
 6. 利確は3%ルール or 5分足のレジサポライン  
 7. 損切りは始値より少し上とする（需給が悪いのでリバれない前提）  
+8. 日足の形を見て戻り売りのロットを調節する
 
 # 成功例
 <u>成功例① 2025/06/04 『184A』</u>  
@@ -59,7 +60,7 @@ title = '逆V戦略'
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/3671/day.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/3671/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -73,7 +74,7 @@ title = '逆V戦略'
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/4594/day.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/4594/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -88,7 +89,7 @@ title = '逆V戦略'
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/6734/day.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/6734/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -108,35 +109,68 @@ SLは遠くなってしまうのでVWAPを変わりに目安として利用す�
 </div>
 </div>
 
-# 失敗例
-<u>失敗例① 2025/07/07 『2334』</u>  
-逆V波発生が10時05分かつギャップアップしていない
+<u>成功例⑦ 2025/07/11 『3905』</u>  
+条件にほぼ合致している完璧なパターン  
+ギャップアップだけしてないように見えるが、昨日の後場でスト高張り付きなので実質GU  
+日足ベースでの戻り売り期待は少ないので小ロットで
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/2334/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/short/3905/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/2334/day.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/3905/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
-<u>失敗例② 2025/07/09 『281A』</u>  
-ギャップダウンして始まっているので条件を満たしていない
+<u>成功例⑧ 2025/07/23 『9854』</u>  
+場中GU後の逆V波  
+材料が出たわけではなく出来高減少も確認できるので、変則的だが条件合致
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/short/9854/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/short/9854/day.png" alt="逆V戦略の日足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+# 失敗例
+## 損切りパターン
+<u>損切り① 2025/07/09 『281A』</u>  
+成功例③と日足の状況は似ているのでエントリーできるが小陽線出現で即損切り  
+ギャップダウンスタートなので下落の勢いは微妙かなと想像できる
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
 <img src="/images/short/281A/5minutes1.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/281A/day1.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/281A/day1.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
-<u>失敗例③ 2025/07/08 『7603』</u>  
-確定足ではない不完全な逆V波  
+
+## エントリーしたらダメパターン
+<u>① 2025/07/07 『2334』</u>  
+逆V波発生が10時05分なのでエントリーしたらダメ
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/short/2334/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/short/2334/day.png" alt="逆V戦略の日足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>② 2025/07/08 『7603』</u>  
+確定足ではない不完全な逆V波なのでエントリーしたらダメ  
 下髭ロウソク足からリバウンド勢もいると判断できるので戻り売りも狙ってはいけない
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
@@ -144,7 +178,7 @@ SLは遠くなってしまうのでVWAPを変わりに目安として利用す�
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/7603/day.png" alt="逆V戦略の日足" width="200" height="400">
+<img src="/images/short/7603/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
