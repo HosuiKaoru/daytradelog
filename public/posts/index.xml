@@ -6,7 +6,30 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 09 Jul 2025 14:07:34 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Aug 2025 00:32:24 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>押し目買い戦略（言語化途中）</title>
+      <link>http://localhost:1313/posts/2025/07/buying-on-dips/</link>
+      <pubDate>Sat, 02 Aug 2025 00:32:24 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025/07/buying-on-dips/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;下値リスクの低い押し目でロング&lt;/b&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>戻り売り戦略</title>
+      <link>http://localhost:1313/posts/2025/07/sell-on-rallies/</link>
+      <pubDate>Sat, 26 Jul 2025 00:32:24 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025/07/sell-on-rallies/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;明確な下落後の戻しでショート&lt;/b&gt;&lt;br&gt;
+損切りできていない&lt;span style=&#34;color: red;&#34;&gt;「戻ったら売ろう勢」&lt;/span&gt;の売り圧を利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>逆V戦略</title>
       <link>http://localhost:1313/posts/2025/07/reversev/</link>

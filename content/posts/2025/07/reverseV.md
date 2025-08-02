@@ -20,16 +20,16 @@ title = '逆V戦略'
 8. 日足の形を見て戻り売りのロットを調節する
 
 # 成功例
+## 基本形
 <u>成功例① 2025/06/04 『184A』</u>  
-2連続ストップ高後に発生  
-日足ベースでの戻り売り勢力は少なめなので戻り売りは小ロットで
+2連ストップ高後に発生  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/184A/5minutes1.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/184A/5minutes1.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/184A/day1.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/184A/day1.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -37,89 +37,82 @@ title = '逆V戦略'
 <u>成功例② 2025/06/25 『184A』</u>  
 日足が上昇トレンド回帰失敗  
 高値掴み勢に負けて押し戻されている状況  
-→日足ベースでの戻り売り勢が多数いるので戻り売りは大ロットで    
-（出来高減小が根拠を後押し）
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/184A/5minutes2.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/184A/5minutes2.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/184A/day2.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/184A/day2.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <u>成功例③ 2025/07/07 『3671』</u>  
-日足が高値をつけた後の調整期間中に発生（未だに高値圏）  
-これも日足ベースでの戻り売りが期待できるので大ロットで  
-（出来高減少が根拠を後押し）
+日足が高値をつけた後の調整期間中に発生  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/3671/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/3671/5minutes.png" alt="逆V戦略の5分足" width="350" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/3671/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/3671/day.png" alt="逆V戦略の日足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <u>成功例④ 2025/07/07 『4594』</u>  
-日足が相当高値圏で発生  
-日足ベースでの戻り売り期待は少なめなので戻り売りは小ロットで
+日足が高値圏で発生  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/4594/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/4594/5minutes.png" alt="逆V戦略の5分足" width="350" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/4594/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/4594/day.png" alt="逆V戦略の日足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
+## 応用形
 <u>成功例⑤ 2025/07/07 『6734』</u>  
 日足が何度も上髭で跳ね返されているラインで発生  
-日足ベースでの戻り売り期待はそこそこなので戻り売りは中ロットで  
-だが今回は戻しを対して形成していないのでエントリーはできない
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/6734/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/6734/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/6734/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/6734/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <u>成功例⑥ 2025/07/03 『281A』</u>  
-日足は明確な戻り高値で跳ね返し翌日のため売り圧強いと予想（カップウィズハンドル）  
-条件を全て満たしているので大陰線でもエントリーする  
+日足が戻り高値で跳ね返された翌日のため売り圧強いと予想（cup with hundle形成か）  
+条件を満たしているので大陰線でもエントリーする  
 SLは遠くなってしまうのでVWAPを変わりに目安として利用する
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/281A/5minutes2.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/281A/5minutes2.png" alt="逆V戦略の5分足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/281A/day2.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/281A/day2.png" alt="逆V戦略の日足" width="350" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <u>成功例⑦ 2025/07/11 『3905』</u>  
-条件にほぼ合致している完璧なパターン  
-ギャップアップだけしてないように見えるが、昨日の後場でスト高張り付きなので実質GU  
-日足ベースでの戻り売り期待は少ないので小ロットで
+GUしてないように見えるが、昨日の後場でスト高張り付きなので実質GU  
+ほぼ始値でエントリーとなるのでSLは機械的に5~10tick上とする
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/3905/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/3905/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/3905/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/3905/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -129,27 +122,56 @@ SLは遠くなってしまうのでVWAPを変わりに目安として利用す�
 材料が出たわけではなく出来高減少も確認できるので、変則的だが条件合致
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/9854/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/9854/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/9854/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/9854/day.png" alt="逆V戦略の日足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>成功例⑨ 2025/07/15 『4889』</u>  
+日足が高値圏・高値をつけた後に発生  
+基本形ではあるが最速逆V波のため応用とした  
+9:10にエントリーする珍しいパターン
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/reverseV/4889/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/reverseV/4889/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 # 失敗例
 ## 損切りパターン
-<u>損切り① 2025/07/09 『281A』</u>  
-成功例③と日足の状況は似ているのでエントリーできるが小陽線出現で即損切り  
-ギャップダウンスタートなので下落の勢いは微妙かなと想像できる
+<u>損切り① 2025/07/23 『5597』</u>  
+条件に合致しているのでエントリーする場面だが上髭コマで始値到達のため損切り  
+日足ベースでも戻り売り勢の期待ができる場面だが上手くいかなかったパターン
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/281A/5minutes1.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/5597/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/281A/day1.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/5597/day.png" alt="逆V戦略の日足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>損切り② 2025/07/09 『281A』</u>  
+成功例③と日足の状況は似ているのでエントリーできるが小陽線出現で即損切り  
+ギャップダウンスタートはやはり上手くいきづらい
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/reverseV/281A/5minutes1.png" alt="逆V戦略の5分足" width="300" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/reverseV/281A/day1.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
@@ -160,25 +182,26 @@ SLは遠くなってしまうのでVWAPを変わりに目安として利用す�
 逆V波発生が10時05分なのでエントリーしたらダメ
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/2334/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/2334/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/2334/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/2334/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <u>② 2025/07/08 『7603』</u>  
 確定足ではない不完全な逆V波なのでエントリーしたらダメ  
+こういう時に確定を待たずに早漏エントリーすると損切りになる  
 下髭ロウソク足からリバウンド勢もいると判断できるので戻り売りも狙ってはいけない
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/short/7603/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
+<img src="/images/reverseV/7603/5minutes.png" alt="逆V戦略の5分足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/short/7603/day.png" alt="逆V戦略の日足" width="300" height="400">
+<img src="/images/reverseV/7603/day.png" alt="逆V戦略の日足" width="300" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
