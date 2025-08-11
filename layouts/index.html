@@ -35,7 +35,7 @@
 
             <section class="section">
                 <div class="container">
-                    <h2 class="title is-4 has-text-centered">戦略カテゴリ一覧</h2>
+                    <h2 class="title is-4 has-text-centered">カテゴリ一覧</h2>
                      <div class="columns is-multiline is-centered">
                          {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
                             {{ if gt (len $taxonomy.Pages) 0 }} {{/* 記事が1つ以上あるカテゴリのみ表示 */}}
