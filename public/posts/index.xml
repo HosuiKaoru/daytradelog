@@ -2,28 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:60028/posts/</link>
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Aug 2025 16:44:31 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 16:15:27 +0900</lastBuildDate><atom:link href="http://localhost:60028/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>8/8（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/2025/08/daily-trade-record-01/</link>
-      <pubDate>Mon, 11 Aug 2025 16:44:31 +0900</pubDate>
+      <title>12</title>
+      <link>http://localhost:60028/posts/log/08/12/</link>
+      <pubDate>Tue, 12 Aug 2025 16:15:27 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/08/daily-trade-record-01/</guid>
+      <guid>http://localhost:60028/posts/log/08/12/</guid>
       
       <description></description>
       
     </item>
     
     <item>
+      <title>8/8（金）のデイトレ結果</title>
+      <link>http://localhost:60028/posts/log/08/08/</link>
+      <pubDate>Mon, 11 Aug 2025 16:44:31 +0900</pubDate>
+      
+      <guid>http://localhost:60028/posts/log/08/08/</guid>
+      
+      <description>&lt;p&gt;＋3,382円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;今日から結果を記録していく&lt;br&gt;
+利益を残せたことはよかったが、機会損失が多い日だと感じた&lt;br&gt;
+しっかり反省して次に活かそう&lt;/p&gt;
+&lt;h1 id=&#34;やってはいけないトレード&#34;&gt;やってはいけないトレード&lt;/h1&gt;
+&lt;p&gt;[6444]&lt;br&gt;
+黄色でロングした、終わってる&lt;br&gt;
+身についていないのに板読みスキャみたいなことしてる病気トレード&lt;br&gt;
+次こういうことしたらその次の日はトレード禁止にする。&lt;br&gt;
+こんなことしてたら一生勝てないので、自分の得意なショート中心で組み立てていく。ただロング戦略を作らないと強く勝てていけないのでこれは今後の課題。&lt;br&gt;
+何度も繰り返してしまう悪い癖なので何度も見て眼に焼き付ける💢&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:60028/images/dailylog/6444/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:60028/images/dailylog/6444/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;やるべきトレード&#34;&gt;やるべきトレード&lt;/h1&gt;
+&lt;p&gt;[2321]&lt;br&gt;
+黄色でショートできていたが、次の陽線で損切りしてしまった&lt;br&gt;
+下目線なのは日足と合わせても自信もてるから損切り幅は横横ラインに設定すべき&lt;br&gt;
+せめて建玉の半分だけ損切りするべきだと反省&lt;br&gt;
+75MAと始値だからリバする可能性も考慮してロットを少なくし、陽線でRR強くとれるタイミングで大ロットでショートすることが損小利大のトレードになると理解した&lt;/p&gt;
+&lt;p&gt;オレンジで下落の勢いが弱まったとがロウソク足の形と出来高減少からわかるのでロングする&lt;br&gt;
+逆張りになってしまうせいで見送ったが、ここは言語化して戦略にとりこめそう&lt;/p&gt;
+&lt;p&gt;ピンクの部分も順張りリバウンドショートとれる場面だったが15:15のため見送ってしまった&lt;br&gt;
+ここもRR強くとれる場面なので今後は大ロットでショートする&lt;/p&gt;
+&lt;p&gt;クロージングオークション制度忘れてた笑→最悪引けで逃げれはする&lt;br&gt;
+需給銘柄が日足弱くなりそうな時は引けで売られる可能性が高いのかなあ&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:60028/images/dailylog/2321/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:60028/images/dailylog/2321/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[155A]&lt;br&gt;
+黄色で2回ショートチャンスがあったがチキって見逃した。特に2個目は見ていたのに〜&lt;br&gt;
+ロットに精神面が耐えられなかったことが原因&lt;br&gt;
+はじめは小ロットでもいいからチャンスだと感じた場面はとにかくinして期待値を集計しよう&lt;br&gt;
+1つ目は上髭陽線で狩られそうだが、SLを横横に設定していたら狩られずに住むので2321と同じようなトレード戦略がとれる。まず安値更新で小ロットショート→戻しの動きを引き付けて大ロットショートの2段構え&lt;br&gt;
+日足がWトップで弱いので下目線という環境認識は素晴らしい！&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>高値圏の下抜け戦略</title>
-      <link>http://localhost:1313/posts/2025/08/trapezoid/</link>
+      <link>http://localhost:60028/posts/strategy/trapezoid/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/08/trapezoid/</guid>
+      <guid>http://localhost:60028/posts/strategy/trapezoid/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;5分足の高値圏の揉み合い下抜けショート&lt;/b&gt;&lt;br&gt;
 まだ上がるとタカをくくっていた&lt;span style=&#34;color: red;&#34;&gt;「高値掴み勢」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
@@ -32,10 +92,10 @@
     
     <item>
       <title>日足の押し目買い戦略</title>
-      <link>http://localhost:1313/posts/2025/08/buying-on-dips/</link>
+      <link>http://localhost:60028/posts/strategy/buying-on-dips/</link>
       <pubDate>Sat, 02 Aug 2025 00:32:24 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/08/buying-on-dips/</guid>
+      <guid>http://localhost:60028/posts/strategy/buying-on-dips/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;下値リスクの低い押し目でロング&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -43,10 +103,10 @@
     
     <item>
       <title>戻り売り戦略</title>
-      <link>http://localhost:1313/posts/2025/08/sell-on-rallies/</link>
+      <link>http://localhost:60028/posts/strategy/sell-on-rallies/</link>
       <pubDate>Sat, 26 Jul 2025 00:32:24 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/08/sell-on-rallies/</guid>
+      <guid>http://localhost:60028/posts/strategy/sell-on-rallies/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;明確な下落後の戻しでショート&lt;/b&gt;&lt;br&gt;
 損切りできていない&lt;span style=&#34;color: red;&#34;&gt;「戻ったら売ろう勢」&lt;/span&gt;の売り圧を利用する&lt;/p&gt;</description>
@@ -55,10 +115,10 @@
     
     <item>
       <title>逆V戦略</title>
-      <link>http://localhost:1313/posts/2025/08/reversev/</link>
+      <link>http://localhost:60028/posts/strategy/reversev/</link>
       <pubDate>Wed, 09 Jul 2025 14:07:34 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/08/reversev/</guid>
+      <guid>http://localhost:60028/posts/strategy/reversev/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;/b&gt;&lt;br&gt;
 &lt;span style=&#34;color: red;&#34;&gt;「今日の参加者全員が含み損になるタイミング」&lt;/span&gt;の需給の悪さを利用する&lt;/p&gt;</description>
