@@ -54,3 +54,19 @@ title = '日足の押し目買い戦略'
 </div>
 </div>
 
+<u>成功例③　2025/08/12　『3077』</u>
+日足が上昇トレンド  
+翌日の引けに決算発表があるがそれに向けてジリジリ上昇中の状況  
+一旦爆上げしてストップ高張り付いた後に15万株の成り売りで黄色まで下落  
+日足をの5MAかる前日のサポートラインまで落ちてきて乖離していないので下値リスク低いと判断できるのでここでロング  
+再びストップ高に張り付いたがここまで引っ張るのは無理なので、1つ目の大陽線で80%捌いて残りはコマで捌くイメージ  
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/buying on dips/3077/0812-5minutes.png" alt="押し目買い戦略の5分足" width="400" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/buying on dips/3077/0812-day.png" alt="押し目買い戦略の日足" width="200" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
