@@ -6,7 +6,70 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 13 Aug 2025 14:19:07 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Aug 2025 08:16:39 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/14 (木)のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/08/14/</link>
+      <pubDate>Sat, 16 Aug 2025 08:16:39 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/08/14/</guid>
+      
+      <description>&lt;p&gt;-19,950円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;前場+10,000からの急転落&lt;br&gt;
+精神的にかなり効いた一日&lt;br&gt;
+やるべきでないポジポジ病が発動したため大負けした&lt;br&gt;
+ルールを破ったので明日はトレードを禁止し、デモトレのみ行う&lt;/p&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;p&gt;自分の病気トレード（高値更新追随スキャ）だが、サンコールは上手くいったが堀田は上手くいかなかった。&lt;br&gt;
+この２つの違いは、サンコールのほうが明らかに板に勢いがあったということ。&lt;br&gt;
+めちゃくちゃ活発に売り板が食われ、一瞬下に行ってからまたどんどん上がっていく動きだった。&lt;br&gt;
+一方、堀田は少しずつ売り板が食われるような動きだった。&lt;br&gt;
+また、サンコールはストップ高後の高値を更新していく状況だったが、堀田は２日前の高値は更新しておらず、当日の高値を更新するタイミングだった。&lt;br&gt;
+以上のことから、まず高値追随スキャは&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;板がめちゃくちゃに動いていること&lt;/li&gt;
+&lt;li&gt;当日だけではなく直近の高値を明確に高値更新していく状況であること&lt;/li&gt;
+&lt;li&gt;朝一（〜9:20）や材料が出た直後などの時間帯に限定すること&lt;br&gt;
+以上の条件が揃っている場合に限定して行うルールとする&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;低位株全部ではないが、先物と同じトレンドの方が上手くいきやすいことがわかった&lt;br&gt;
+倍率1倍未満であればわりかし冷静でいられるが1000単元だと緊張するので500単元をメインとする&lt;/p&gt;
+&lt;h1 id=&#34;やってはいけないトレード&#34;&gt;やってはいけないトレード&lt;/h1&gt;
+&lt;p&gt;[7071]&lt;br&gt;
+黄色でショートした&lt;br&gt;
+髭を含めたブレイクではないし、コマなのでブレイクショートしてはいけない&lt;br&gt;
+「日足が相当高値圏だから強い下落くるだろう」という前提でトレードしてしまっている&lt;br&gt;
+これは明らかに自分の都合のいいように解釈してしまっている&lt;br&gt;
+テクニカル分析は結果（事実）を分析するもののはず&lt;br&gt;
+予想するのではなく、動いた事実から反応するようなトレードをしないと一生勝てない&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7071/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7071/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[5985]&lt;br&gt;
+7071と同じで反省案件&lt;br&gt;
+どう見ても安値更新していないのでブレイクショートの条件に当てはまっていない&lt;br&gt;
+また高値圏だから強い下落が来る前提で解釈してしまっている&lt;br&gt;
+市場参加者の多数が「やべえ」と考えないと下落はこないし、むしろ勢いがある銘柄は上にいくことも多々ある&lt;br&gt;
+同じミスを次は繰り返さないようにしよう&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/13（水）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/08/13/</link>

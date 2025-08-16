@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/log/08/15/</loc>
+    <lastmod>2025-08-16T09:24:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-08-16T09:24:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-16T09:24:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-16T09:24:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E3%83%87%E3%83%A2%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</loc>
+    <lastmod>2025-08-16T09:24:22+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/log/08/14/</loc>
+    <lastmod>2025-08-16T08:16:39+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</loc>
+    <lastmod>2025-08-16T08:16:39+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/strategy/gd/</loc>
     <lastmod>2025-08-13T18:37:22+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-13T18:37:22+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</loc>
     <lastmod>2025-08-13T18:37:22+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/log/08/13/</loc>
-    <lastmod>2025-08-13T14:19:07+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-13T14:19:07+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</loc>
     <lastmod>2025-08-13T14:19:07+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/log/08/12/</loc>
@@ -31,9 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/strategy/trapezoid/</loc>
     <lastmod>2025-08-07T21:59:55+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</loc>
-    <lastmod>2025-08-02T00:32:24+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/strategy/buying-on-dips/</loc>
     <lastmod>2025-08-02T00:32:24+09:00</lastmod>
