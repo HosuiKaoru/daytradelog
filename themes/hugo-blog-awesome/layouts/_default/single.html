@@ -3,7 +3,15 @@
     <main class="page-content" aria-label="Content">
         <article>
             <header class="header">
-                <h1 class="header-title">{{ .Title }}</h1>
+                <h1 class="page-title" style="display:flex; align-items:center;">
+                    {{ .Title }}
+                    {{ if eq .Title "自己紹介" }}
+                        <img src="{{ "images/Hosui2.png" | relURL }}"
+                             alt="icon"
+                             style="width:140px; height:200px; border-radius:20%; margin-left:10px;">
+                    {{ end }}
+                </h1>
+
                 {{ $configDateFormat := .Site.Params.dateFormat | default ":date_medium" }}
                 {{ with .Date }}
                 {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}

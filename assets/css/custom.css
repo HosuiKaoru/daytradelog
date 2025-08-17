@@ -1,0 +1,4 @@
+/* ホームページのアバターアイコンの表示位置を調整 */
+.author-avatar {
+    object-position: top !important; /* 画像の上端を基準に切り取る */
+}

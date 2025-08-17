@@ -6,7 +6,19 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Aug 2025 09:24:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 14:11:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>イナゴ戦略</title>
+      <link>http://localhost:1313/posts/strategy/inago/</link>
+      <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/inago/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
+大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/15（金）のデモトレード結果</title>
       <link>http://localhost:1313/posts/log/08/15/</link>
@@ -288,14 +300,14 @@ GD銘柄の寄り付きロング&lt;br&gt;
     </item>
     
     <item>
-      <title>高値圏の下抜け戦略（途中）</title>
+      <title>台形戦略</title>
       <link>http://localhost:1313/posts/strategy/trapezoid/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/strategy/trapezoid/</guid>
       
-      <description>&lt;p&gt;&lt;b&gt;5分足の高値圏の揉み合い下抜けショート&lt;/b&gt;&lt;br&gt;
-まだ上がるとタカをくくっていた&lt;span style=&#34;color: red;&#34;&gt;「高値掴み勢」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;5分足の高値圏のレンジ下抜け確定でショート&lt;/b&gt;&lt;br&gt;
+まだ上がると考えていた市場参加者が&lt;span style=&#34;color: red;&#34;&gt;「一気に含み損になる瞬間」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
       
     </item>
     
@@ -341,15 +353,17 @@ GD銘柄の寄り付きロング&lt;br&gt;
       
       <guid>http://localhost:1313/about/</guid>
       
-      <description>&lt;p&gt;宝水香&lt;br&gt;
+      <description>&lt;p&gt;宝水香（ほうすい かおる）&lt;br&gt;
+24歳&lt;br&gt;
 駆け出しトレーダー&lt;/p&gt;
-&lt;p&gt;トレーダーになった理由は楽に自由を手に入れられると思ったから&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;自由の定義は&lt;/u&gt;&lt;br&gt;
-1.「人間関係の最適化」&lt;br&gt;
-2.「金銭的悩みの消失」&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;そのためにどうするか？&lt;/u&gt;&lt;br&gt;
-1.「不必要な人間関係」を遮断&lt;br&gt;
-2.「金融」資産2億円&lt;/p&gt;</description>
+&lt;p&gt;1ヶ月平均で達成したらクリアとする &lt;br&gt;
+レベル1：1日1万円（新卒）&lt;br&gt;
+レベル2：1日3万円（武蔵野市役所）&lt;br&gt;
+レベル3：1日5万円（ソニー）&lt;br&gt;
+レベル4：1日10万円（キーエンス）&lt;br&gt;
+レベル5：1日20万円（google部長）&lt;br&gt;
+レベル6：1日50万円（年収1億）&lt;br&gt;
+レベル7：1日100万円（テスタさん全盛期）&lt;/p&gt;</description>
       
     </item>
     

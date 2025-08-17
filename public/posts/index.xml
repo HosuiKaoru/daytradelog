@@ -6,7 +6,19 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 16 Aug 2025 09:24:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 14:11:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>イナゴ戦略</title>
+      <link>http://localhost:1313/posts/strategy/inago/</link>
+      <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/inago/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
+大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/15（金）のデモトレード結果</title>
       <link>http://localhost:1313/posts/log/08/15/</link>
@@ -288,14 +300,14 @@ GD銘柄の寄り付きロング&lt;br&gt;
     </item>
     
     <item>
-      <title>高値圏の下抜け戦略（途中）</title>
+      <title>台形戦略</title>
       <link>http://localhost:1313/posts/strategy/trapezoid/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/strategy/trapezoid/</guid>
       
-      <description>&lt;p&gt;&lt;b&gt;5分足の高値圏の揉み合い下抜けショート&lt;/b&gt;&lt;br&gt;
-まだ上がるとタカをくくっていた&lt;span style=&#34;color: red;&#34;&gt;「高値掴み勢」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;5分足の高値圏のレンジ下抜け確定でショート&lt;/b&gt;&lt;br&gt;
+まだ上がると考えていた市場参加者が&lt;span style=&#34;color: red;&#34;&gt;「一気に含み損になる瞬間」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
       
     </item>
     

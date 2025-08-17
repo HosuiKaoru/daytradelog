@@ -6,7 +6,19 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 13 Aug 2025 18:37:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 14:11:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>イナゴ戦略</title>
+      <link>http://localhost:1313/posts/strategy/inago/</link>
+      <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/inago/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
+大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>GD戦略</title>
       <link>http://localhost:1313/posts/strategy/gd/</link>
