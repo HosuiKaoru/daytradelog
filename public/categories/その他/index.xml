@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>その他 on デイトレード戦略と日々の記録</title>
+    <link>http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+    <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 18 Aug 2025 22:22:56 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メモ</title>
+      <link>http://localhost:1313/posts/strategy/notice/</link>
+      <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/notice/</guid>
+      
+      <description>&lt;ol&gt;
+&lt;li&gt;ド・ストライクだけを狙いに行く&lt;/li&gt;
+&lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
+&lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
+&lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;このパターンの時はエントリーするな&#34;&gt;このパターンの時はエントリーするな&lt;/h1&gt;
+&lt;p&gt;「長いレンジの後に一度上昇してから下落したパターン」&lt;br&gt;
+→一度上昇しているからレンジ勢は利確できているか戻ってきたときに手仕舞いできている可能性が高い。ロウソクが確定したタイミングで含み損の人は一部に限られるため。&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/notice/1.png&#34; alt=&#34;メモ&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

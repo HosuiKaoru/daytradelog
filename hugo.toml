@@ -59,7 +59,7 @@ theme = "hugo-blog-awesome"
   rssFeedDescription = "summary"
 
 [params.author]
-    avatar = "obito.png" 
+    avatar = "obito2.png" 
     intro = "宝水香のホームページ"
     name = "Kaoru Hosui" 
     description = "デイトレード戦略と日々の記録"

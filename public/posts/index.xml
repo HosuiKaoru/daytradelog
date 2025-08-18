@@ -6,7 +6,30 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 18 Aug 2025 16:28:24 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Aug 2025 22:22:56 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メモ</title>
+      <link>http://localhost:1313/posts/strategy/notice/</link>
+      <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/notice/</guid>
+      
+      <description>&lt;ol&gt;
+&lt;li&gt;ド・ストライクだけを狙いに行く&lt;/li&gt;
+&lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
+&lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
+&lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;このパターンの時はエントリーするな&#34;&gt;このパターンの時はエントリーするな&lt;/h1&gt;
+&lt;p&gt;「長いレンジの後に一度上昇してから下落したパターン」&lt;br&gt;
+→一度上昇しているからレンジ勢は利確できているか戻ってきたときに手仕舞いできている可能性が高い。ロウソクが確定したタイミングで含み損の人は一部に限られるため。&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/notice/1.png&#34; alt=&#34;メモ&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/18（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/08/18/</link>
@@ -14,7 +37,55 @@
       
       <guid>http://localhost:1313/posts/log/08/18/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;+6820円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;最初は冷静だったが暇になってからポジポジ病が発動した&lt;br&gt;
+これのせいで-10,000くらったので本当に勿体ない&lt;br&gt;
+スキャも勝ったり負けたりだが、なんとなくリスクが低い状況がわかったかも&lt;br&gt;
+まだ言語化は難しいがここで入ると数tickとれそうと考えてあたることが多かった&lt;/p&gt;
+&lt;h1 id=&#34;今日のメイン銘柄&#34;&gt;今日のメイン銘柄&lt;/h1&gt;
+&lt;p&gt;[5985]
+黄色でショートしなければならなかった&lt;br&gt;
+1つ目は安値更新確定ショート（日足高値圏かつ形悪い）、2つ目は明確な戻り売り&lt;br&gt;
+1つ目はブレイク戦略なので得意ではないので見逃したのはまあ悪くない
+が、2つ目に関してはエントリーしようと何度も考えたが前場の利益を失いたくない恐怖感からトレードできず&lt;br&gt;
+前場で＋10,000円とれていた状況なので、むしろこの利益を原資に勝負すると考えないといけない&lt;br&gt;
+特に反省すべき点はピンクのところで800目前の指値注文を取り消したこと&lt;br&gt;
+出来高の推移を見とこのまま上抜けていくことは考えづらいのでちゃんとショートしないと&lt;br&gt;
+しかもここで謎に板読みスキャをガチャガチャやって損失を出すという前代未聞の行動&lt;br&gt;
+ただそのおかげか少し板の動き方（数tickの取り方）の雰囲気を掴むことはできた&lt;br&gt;
+でも別にこれはエントリーせずとも監視して学べばいいことなので反省&lt;/p&gt;
+&lt;p&gt;こういう超高値圏銘柄で、板が階段状に成売で下がっていく時は大口がポジションを手仕舞っているサインなのでショートする時はこういう動き方がないか注目してみるといいかもしれない&lt;br&gt;
+また、途中で90,000株くらいの超大ロットの売り注文が取り消された時があったけど、あれはほぼ100%見せ板で少しでも株価を上げてから売り抜けようとする大口の小賢しい手なのではないかと分析した。次に同じようなことがあったら、「あ、大口の売りぬきたいロット数のおおよそはこれくらいか」と考えよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;やるべきトレード&#34;&gt;やるべきトレード&lt;/h1&gt;
+&lt;p&gt;これ2つとも逆V戦略ど真ん中やないか&lt;br&gt;
+147Aは売り禁だったけど、4316は制度信用でショートできたのにもったいない。&lt;br&gt;
+[147A]&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/147A/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/147A/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+[4316]
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4316/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
