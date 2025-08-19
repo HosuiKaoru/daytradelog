@@ -6,7 +6,73 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 18 Aug 2025 22:22:56 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 14:00:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/19（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/08/19/</link>
+      <pubDate>Tue, 19 Aug 2025 14:00:22 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/08/19/</guid>
+      
+      <description>&lt;p&gt;-17,596円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;とりあえずこのままではいけないことはわかった&lt;br&gt;
+自分の戻り売りやブレイクショートとかは短期の5分足だと騙しにあいまくることがわかったので作戦を変える必要がある&lt;br&gt;
+どう変えるかというと、&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;5分足ベースで考えるべき場面とそうでない場面をしっかり分ける&lt;br&gt;
+1分足で振り返ると自分の戦略がうまくいく場面が多々あったので、1分足で明日はやってみる&lt;br&gt;
+5分足だともうトレンドの終盤で遅い場面がどういう場面かを、上手くいかなかったトレードから分析する必要がある&lt;/li&gt;
+&lt;li&gt;戻り売りに関してはできるだけ騙しにあわないように条件をより厳格にする必要がある&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;後場の終盤は、板読みのみにフォーカスしたスキャをしたが、これはわりとうまくいった&lt;br&gt;
+だが、やはりエントリーしたいと思った瞬間にマウス操作を行わないと遅い場面が何回もあったのでこれは慣れる必要があるな&lt;/p&gt;
+&lt;p&gt;自分の強みは環境認識で弱みはエントリーの遅さと戦略がまだ定まりきっていないこと&lt;br&gt;
+スキャとデイとその他もろもろをやりすぎると全部中途半端になるので、一つづつ攻略していく&lt;br&gt;
+明日は逆V戦略・GD戦略・台形戦略の適応可能場面以外は板読みスキャ一本でやってみる&lt;br&gt;
+戻り売りと押し目買いは禁止とする&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[3541]&lt;br&gt;
+１つ目は出来高減少して上髭ピンバー後に陰線だったのでショート入れた&lt;br&gt;
+考え方はいいけど返済注文を入れるのが遅れて2%の利確チャンスを逃し、損切りさせられた&lt;br&gt;
+当たり前だけど返済注文は通ったらすぐに出すようにする&lt;br&gt;
+２つ目は他の銘柄見てて戻ったら上昇していたからロングしたら見事にジャンピングキャッチ&lt;br&gt;
+いつも高値掴みするタイミングでロングしてしまうのが弱点&lt;br&gt;
+日足から環境認識は上目線なんだから、700の節目あたりでリバウンド狙いでロングするほうがいいかも&lt;br&gt;
+変にショートにこだわりすぎない方がいいですね&lt;br&gt;
+そして問題の３つ目&lt;br&gt;
+朝から意識されていた700で戻り売り狙いの大ロットショートしたが見事に焼かれた&lt;br&gt;
+戻り売りっていうのはまず下落トレンドがあってからその戻りを狙うものだったはず&lt;br&gt;
+下落トレンドっていうのは高値と安値が切り下がる状態のことだから、今回は戻り高値がまだ形成されていないよね&lt;br&gt;
+だからそもそも下落トレンドが存在しているというのは誤った解釈だったということ&lt;/p&gt;
+&lt;p&gt;むしろ狙うべきはオレンジの高値圏のレンジ下抜けショートだね&lt;br&gt;
+これは出来高上昇しつつ朝の高値圏の人間たちが一気に含み損になる瞬間だから条件にばっちりあってるよな&lt;br&gt;
+銘柄をあっちこっち見てると分析が甘くなって飛び乗ることが多いので、明日は最大8銘柄として厳選してcheckするようにしてみよう&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3541/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3541/0819-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[4017]&lt;br&gt;
+芸術的なジャンピングキャッチ&lt;br&gt;
+完璧すぎて逆に笑けてきますね&lt;br&gt;
+303くらいでの買い注文が刺さらずに見事に防寒した後にエントリーした&lt;br&gt;
+農業総合研究所もそうだけど低位株の急騰を狙う場合は第一波の初動で入れなかったら諦めるべき&lt;br&gt;
+出来高が多くてトレンドが継続する傾向のある大型株とは違うのだからこれは意識しないといけない&lt;br&gt;
+メモに乗り遅れたら入っちゃいけないって書いておいたんだけどな&lt;br&gt;
+同じミスは絶対しないようにしよう&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4017/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>メモ</title>
       <link>http://localhost:1313/posts/strategy/notice/</link>
@@ -26,7 +92,10 @@
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/notice/1.png&#34; alt=&#34;メモ&#34; width=&#34;500&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;
+&lt;h1 id=&#34;板読み&#34;&gt;板読み&lt;/h1&gt;
+&lt;p&gt;&lt;u&gt;2025/08/19 『5985』&lt;/u&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/9z7dpGvZyC0&#34;&gt;https://youtu.be/9z7dpGvZyC0&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -42,7 +111,12 @@
 &lt;p&gt;最初は冷静だったが暇になってからポジポジ病が発動した&lt;br&gt;
 これのせいで-10,000くらったので本当に勿体ない&lt;br&gt;
 スキャも勝ったり負けたりだが、なんとなくリスクが低い状況がわかったかも&lt;br&gt;
-まだ言語化は難しいがここで入ると数tickとれそうと考えてあたることが多かった&lt;/p&gt;
+まだ言語化は難しいがここで入ると数tickとれそうと考えて当たることが多かった&lt;/p&gt;
+&lt;p&gt;振り返ってみてわかったことは、エントリーが遅いこと&lt;br&gt;
+ちゃんと上昇中に乗れているがトレンドの終盤に入ることが多いので高値掴みさせられることがある&lt;br&gt;
+5分足の1本目に乗れたか、板の動きは強いか、出来高は上昇したかという条件が揃ったときだけ入るようにする&lt;br&gt;
+スキャではなくデイの方は環境認識は素晴らしいので、利伸ばしできるかだけが課題&lt;br&gt;
+明日は早めに半分利益を確保してロットの残りを利伸ばしする方針でやってみよう&lt;/p&gt;
 &lt;h1 id=&#34;今日のメイン銘柄&#34;&gt;今日のメイン銘柄&lt;/h1&gt;
 &lt;p&gt;[5985]
 黄色でショートしなければならなかった&lt;br&gt;
@@ -51,12 +125,12 @@
 が、2つ目に関してはエントリーしようと何度も考えたが前場の利益を失いたくない恐怖感からトレードできず&lt;br&gt;
 前場で＋10,000円とれていた状況なので、むしろこの利益を原資に勝負すると考えないといけない&lt;br&gt;
 特に反省すべき点はピンクのところで800目前の指値注文を取り消したこと&lt;br&gt;
-出来高の推移を見とこのまま上抜けていくことは考えづらいのでちゃんとショートしないと&lt;br&gt;
+出来高の推移を見るとこのまま上抜けていくことは考えづらいのでちゃんとショートしないと&lt;br&gt;
 しかもここで謎に板読みスキャをガチャガチャやって損失を出すという前代未聞の行動&lt;br&gt;
 ただそのおかげか少し板の動き方（数tickの取り方）の雰囲気を掴むことはできた&lt;br&gt;
 でも別にこれはエントリーせずとも監視して学べばいいことなので反省&lt;/p&gt;
 &lt;p&gt;こういう超高値圏銘柄で、板が階段状に成売で下がっていく時は大口がポジションを手仕舞っているサインなのでショートする時はこういう動き方がないか注目してみるといいかもしれない&lt;br&gt;
-また、途中で90,000株くらいの超大ロットの売り注文が取り消された時があったけど、あれはほぼ100%見せ板で少しでも株価を上げてから売り抜けようとする大口の小賢しい手なのではないかと分析した。次に同じようなことがあったら、「あ、大口の売りぬきたいロット数のおおよそはこれくらいか」と考えよう。&lt;/p&gt;
+また、途中で90,000株くらいの超大ロットの売り注文が取り消された時があったけど、あれはほぼ100%見せ板で少しでも株価を上げてから売り抜けようとする大口の小賢しい手なのではないかなあ。次に同じようなことがあったら、「あ、大口の売りたいロット数のおおよそはこれくらいか」と考えてみよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
@@ -78,14 +152,7 @@
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/dailylog/147A/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-[4316]
-&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4316/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     

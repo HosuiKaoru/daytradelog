@@ -18,3 +18,7 @@ categories = ["その他"]
 <img src="/images/notice/1.png" alt="メモ" width="500" height="500">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
+
+# 板読み
+<u>2025/08/19 『5985』</u>  
+https://youtu.be/9z7dpGvZyC0
