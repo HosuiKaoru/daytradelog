@@ -28,7 +28,7 @@ categories = ['ロング戦略']
 2. 企業存続に関わる不祥事・主力事業の撤退　→　ダメ！
 
 # トレード方法
-1. 寄り成りでロング（寄り付きよりも少し下で買ったほうがいい場合の条件はまだわからないので試行回数を重ねる）
+1. 寄り成りでロング（寄り付きよりも少し下で買ったほうがいい場合の条件はまだわからない）
 2. ポジションの半分を1分足チャートで1本目の陽線で決済（5%以上戻った場合は100%ここで売り切る）
 3. 買い板がが厚ければ残り半分を1分足チャートのコマ・陰線出現まで引っ張る
 4. 損切りは寄り付き価格から機械的に1%の所で行う
@@ -92,11 +92,28 @@ GD率は12.6%
 1分足の1つ目の陽線で半分捌いて、もう半分は次の陰線の上髭で到達した5%の所
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/GD/3905/0813-1minute.png" alt="GD戦略の5分足" width="250" height="400">
+<img src="/images/GD/3905/0813-1minute.png" alt="GD戦略の1分足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">1分足</p>
 </div>
 <div style="text-align: center;">
 <img src="/images/GD/3905/0813-day.png" alt="GD戦略の日足" width="250" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>成功例⑤ 2025/08/20 『6613』</u>  
+GD率は9.7%  
+売られた理由は特になし（単純な需給要因）  
+上昇トレンドで一時的につけた高値からの戻しに該当  
+2tick下がっているが損切り位置は3~4tickなので狩られずに上昇  
+1本目の陽線の終値で半分利確してもう半分は5%戻しの所で捌く
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/GD/6613/0820-1minute.png" alt="GD戦略の1分足" width="250" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">1分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/GD/6613/0820-day.png" alt="GD戦略の日足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
