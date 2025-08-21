@@ -1,7 +1,7 @@
 +++
 date = '2025-08-17T14:11:17+09:00'
 draft = false
-title = 'イナゴ戦略'
+title = '高速イナゴ戦略'
 categories = ['ロング戦略']
 +++
 

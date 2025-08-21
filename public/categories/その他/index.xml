@@ -9,16 +9,17 @@
     <lastBuildDate>Mon, 18 Aug 2025 22:22:56 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>メモ</title>
-      <link>http://localhost:1313/posts/strategy/notice/</link>
+      <link>http://localhost:1313/posts/strategy/memo/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/notice/</guid>
+      <guid>http://localhost:1313/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;ド・ストライクだけを狙いに行く&lt;/li&gt;
 &lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
 &lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
+&lt;li&gt;ストップ高近くでガチャガチャトレードは5tickくらい余裕があって勢いがある時に限定&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;このパターンの時はエントリーするな&#34;&gt;このパターンの時はエントリーするな&lt;/h1&gt;
 &lt;p&gt;「長いレンジの後に一度上昇してから下落したパターン」&lt;br&gt;
