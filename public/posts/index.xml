@@ -6,7 +6,18 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 21 Aug 2025 11:53:06 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 13:39:45 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/22（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/08/22/</link>
+      <pubDate>Fri, 22 Aug 2025 13:39:45 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/08/22/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>8/21（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/08/21/</link>
@@ -16,7 +27,8 @@
       
       <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;+14,070円&lt;/p&gt;
-&lt;p&gt;今日は1分足を利用したリバウンド戦略（スキャ）を初めてやってみた&lt;br&gt;
+&lt;p&gt;今日は13:00まで&lt;br&gt;
+今日は1分足を利用したリバウンド戦略（スキャ）を初めてやってみた&lt;br&gt;
 前場では+6,000円で、今までは高値掴みしてたけど安く買って高く売るが初めてできた&lt;br&gt;
 しかし、いい位置でエントリーできても全部逃げるようにすぐ利確したので、波形を見て一部は利伸ばしする戦略にするとよさそう&lt;br&gt;
 後場のアステリアで強くとれた。でも改善すべき点はあるので復習しよう。&lt;br&gt;
@@ -177,7 +189,7 @@
       <guid>http://localhost:1313/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
-&lt;li&gt;ド・ストライクだけを狙いに行く&lt;/li&gt;
+&lt;li&gt;強い下落のリバウンドをとる戦略は含み益がでるタイミングが早いので自分の性格とあっているか&lt;/li&gt;
 &lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
 &lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
