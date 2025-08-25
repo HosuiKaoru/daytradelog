@@ -6,7 +6,18 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 22 Aug 2025 13:39:45 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Aug 2025 23:45:34 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/25（月）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/08/25/</link>
+      <pubDate>Mon, 25 Aug 2025 23:45:34 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/08/25/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>8/22（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/08/22/</link>
@@ -16,7 +27,7 @@
       
       <description>&lt;p&gt;+1,095円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
-&lt;p&gt;相場の動き方が悪くリバウンド狙いでたくさん入ってみたが、数千円勝ったり負けたりの繰り返し&lt;br&gt;
+&lt;p&gt;リバウンド狙いでたくさん入ってみたが、数千円勝ったり負けたりの繰り返し&lt;br&gt;
 反省点はあるけど地合いが悪い時はどうしようもないな&lt;br&gt;
 フィスコのリバウンド狙いの指値を低く設定しすぎて刺さらずに発射されてしまった&lt;br&gt;
 勢いがある銘柄はリバウンドの指値も1~2円上げたほうが良さそうだな
@@ -24,7 +35,49 @@
 リバウンド戦略が上手く行きやすい場面をチャートから要素を抽出する作業の週末に行う&lt;br&gt;
 またトレードワークスが戻り売り上手くいってたのでこちらも分析して戦略の改善を行う&lt;br&gt;
 数少ないチャンスを見落とす場面が多いのでモニター買おうかなあ&lt;/p&gt;
-&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;</description>
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[2673]&lt;br&gt;
+大きくGUした後上昇しストップ高直前まで朝に上昇した後、値幅のあるレンジを形成して下離れ&lt;br&gt;
+直近の高値の部分できれいに反発して落とされた模様（日足より）&lt;br&gt;
+材料もなく、昨日はストップ高となっていたので完全に需給要因（てか仕手株？）&lt;br&gt;
+リバウンド戦略の優位性の高い場面として昨日のストップ高ラインが一つよさそう&lt;br&gt;
+まず日足が5MA上で下がったら買いをいれようと考える人が多い場面で昨日のストップ高ラインまで落ちるタイミングだったので、1分足でコマとなりしっかり反発&lt;br&gt;
+利確は3%ルールは余裕でクリアしているが、半分は1つ目のピンク（一旦利確する人が多そうな場面）でもう半分は次の利確妥当ラインの2つ目のピンクあたりがチャート的にはいいかな&lt;br&gt;
+板が反発ラインを割るくらいの弱含みしない限りはホールドしよう&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+再び反発優位性の高い昨日のストップ高ラインを引け前に強くブレイクする場面があったのでここはショート  
+理由は、「材料特になし＋優位性のあったラインのブレイク＋日足は高値圏＋金曜の引け近く」ということで市場参加者がここから買い上げる論理性が見えない場面のため  
+このまま超下落していくぞとは考えすぎずに、ブレイク戦略は機械的に3%ルールで利確するようにする  
+損切りはライン上まで戻ってきたら投げるイメージで  
+ブレイクショート戦略もここからさらに条件をブラッシュアップできそう  
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-1minute2.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[5985]&lt;br&gt;
+こちらもリバウンド戦略の優位性がある場面と予想される&lt;br&gt;
+このラインは今日の朝でつけた今日の安値ライン&lt;br&gt;
+安値なら何でもリバウンドする訳ではないが日足を見ると5MA上で需給が良い&lt;br&gt;
+そのため下がり過ぎたらリバウンド狙いの買いが入ってくる人が多いと推測される状況ではないか&lt;br&gt;
+1分足5分足をみてもしっかり反発されている&lt;br&gt;
+利確は3%ラインまで届いてはいるが（1分足の75MA付近）、値動きが先程の夢みつけ隊より緩やかな銘柄という特徴や金曜の後場ということも考慮して、1%~2%の所で早めに利確するのが筋&lt;br&gt;
+引っ張るとしても建玉の半分をラインを割らない限り持っておいて3%まで引っ張る感じだな&lt;br&gt;
+日足が強い銘柄で、朝から上昇した銘柄が落ちてくる状況の時、朝の最安値ラインでの反発という戦略が優位性が高い可能性が見て取れたので、8/24（日）に最近の低位株祭りの銘柄チャートを復習して勝率をバックテストしてみよう&lt;/p&gt;</description>
       
     </item>
     
