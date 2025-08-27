@@ -14,7 +14,7 @@ title = '戻り売り戦略'
 2. 1の下落トレンドよりも明確な出来高減少が条件
 3. 日足で高値掴み勢が多い状況が条件  
 4. 小型で直近の値動きが良かった個人投資家銘柄で適用する  
-5. ピンバーの髭先やレジサポラインより数tick下をエントリー目安とする
+5. ピンバーの髭先やレジサポラインより数tick下をエントリー目安とする（板読みから反発ポイントを探る）
 6. イグジットは半分は3%ルール・もう半分は日足のMAやレジサポまで引っ張る
 7. 損切りはエントリー位置から5tick上が基本・板の厚さで判断（リバれない前提のため）
 
@@ -84,6 +84,23 @@ title = '戻り売り戦略'
 </div>
 <div style="text-align: center;">
 <img src="/images/sell on rallies/6731/day.png" alt="戻り売り戦略の日足" width="250" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>成功例⑤ 2025/08/22 『3997』</u>  
+昨日からの明確な下落トレンドが存在  
+日足が高値圏（高値掴み勢が多い）で上髭陰線という最悪の形で前日は引けた  
+想像以上に戻してきたが、売り板を食う動きがなくなり板が明確に弱含みし始めた所なので、黄色の陰線の上髭あたりでエントリーできる  
+半分は3%で利確し、もう半分はPPPなのでトレンドが壊れない限りガチホ  
+損切りは高値の1tick上の売り板が喰われたのを見たらすぐ逃げる
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/sell on rallies/3997/0822-5minutes.png" alt="戻り売り戦略の5分足" width="400" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/sell on rallies/3997/0822-day.png" alt="戻り売り戦略の日足" width="200" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
