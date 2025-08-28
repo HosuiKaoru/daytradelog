@@ -6,15 +6,27 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 27 Aug 2025 19:27:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Aug 2025 15:52:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rebound</title>
+      <title>8/28（木）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/08/28/</link>
+      <pubDate>Thu, 28 Aug 2025 15:52:35 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/08/28/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（作成中）</title>
       <link>http://localhost:1313/posts/strategy/rebound/</link>
       <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/strategy/rebound/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;大幅に下落した銘柄にロング&lt;/b&gt;&lt;br&gt;
+大幅な下落の&lt;span style=&#34;color: red;&#34;&gt;「歪み」&lt;/span&gt;の是正を利用する&lt;/p&gt;</description>
       
     </item>
     
