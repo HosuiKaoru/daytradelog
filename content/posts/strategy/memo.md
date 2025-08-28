@@ -17,3 +17,26 @@ categories = ["その他"]
 # 板読み
 <u>2025/08/19 『5985』</u>  
 https://youtu.be/9z7dpGvZyC0
+
+# 二階堂さんのナンピン・ルール
+1. 短期間の勝負でしかしない
+2. ダウ理論で上昇トレンドの時に限定
+3. 買い下がるのは「押し安値」まで
+4. 買いを入れる間隔は「押し安値までの値幅÷買いを入れる回数」で算出
+5. 株価が押し安値の少し下を下抜けたら損切りする（安値が下抜けても終値が下抜けしていなければ上昇トレンドは継続のため少し余裕をもたせる）
+6. なるべく上位足チャートが上昇トレンドの時にする
+7. なるべく好材料が出た銘柄や市場のテーマに沿った銘柄でする
+   
+<u>押し安値を下抜けても株価が大きく崩れず、持ち直した銘柄で翌日に上昇の流れの継続を確認できたら、高値を更新する可能性が高い</u>  
+9/21に赤色の押し安値をご場で崩されたが258円で反発し持ち直した  
+9/22に上昇の継続を確認してロングエントリー  
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/notice/nikaido1.png" alt="メモの5分足" width="500" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">2025/09/21 『8260』5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/notice/nikaido2.png" alt="メモの5分足" width="500" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">2025/09/22 『8260』5分足</p>
+</div>

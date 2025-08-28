@@ -26,30 +26,30 @@ categories = ["ロング戦略"]
 損切りは安値の419をわったら（RR1:4の素晴らしいトレード）
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/0827-5minutes.png" alt="デイトレ記録の5分足" width="400" height="500">
+<img src="/images/dailylog/7455/0827-5minutes.png" alt="リバウンド戦略の5分足" width="400" height="500">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/0827-day.png" alt="デイトレ記録の日足" width="200" height="500">
+<img src="/images/dailylog/7455/0827-day.png" alt="リバウンド戦略の日足" width="200" height="500">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/ita1.png" alt="デイトレ記録の板" width="200" height="600">
+<img src="/images/dailylog/7455/ita1.png" alt="リバウンド戦略の板" width="200" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値1</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/ita2.png" alt="デイトレ記録の板" width="200" height="600">
+<img src="/images/dailylog/7455/ita2.png" alt="リバウンド戦略の板" width="200" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値2</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/ita3.png" alt="デイトレ記録の板" width="200" height="600">
+<img src="/images/dailylog/7455/ita3.png" alt="リバウンド戦略の板" width="200" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値3</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/ita4.png" alt="デイトレ記録の板" width="200" height="600">
+<img src="/images/dailylog/7455/ita4.png" alt="リバウンド戦略の板" width="200" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値4</p>
 </div>
 <div style="text-align: center;">
@@ -57,6 +57,27 @@ categories = ["ロング戦略"]
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値5</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/dailylog/7455/ita6.png" alt="デイトレ記録の板" width="200" height="600">
+<img src="/images/dailylog/7455/ita6.png" alt="リバウンド戦略の板" width="200" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値6</p>
+</div>
+</div>
+
+<u>成功例② 2025/08/28 『3807』</u>  
+大幅な下落までではないが少しの下落の後に揉み合い。  
+黄色の位置で指値注文で待ち構えていた。（上昇の起点かつ一昨日の安値）  
+買い板もここがとても暑くなっていたので下値リスクは極限まで低かった。  
+しかし、そこまで下落せずにリバウンドした。  
+歩み値を見ると、140で継続的に買いが入り続けていたので、買い支え勢が140に多くいることが観察できる。  
+値動きもかなり落ち着いていたので、そこまでは下落しないと予想し、140で入るべき案件。  
+日足の上昇の起点で入るのではなく、上昇の起点に引き付けて入るものだから参考程度にする。  
+ここに関しては板の値動き次第になるので、やりながら学んでいくしかない。
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/rebound/0828-5minutes.png" alt="リバウンド戦略の5分足" width="400" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/rebound/0828-day.png" alt="リバウンド戦略の5分足" width="200" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
 </div>
