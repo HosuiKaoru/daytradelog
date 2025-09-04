@@ -1,10 +1,7 @@
 const auth = require('basic-auth');
 
 exports.handler = async (event) => {
-  // `basic-auth`関数はヘッダー全体を引数として受け取る
   const credentials = auth({ headers: event.headers });
-
-  // 環境変数からユーザー名とパスワードを取得
   const validUser = process.env.BASIC_AUTH_USER;
   const validPassword = process.env.BASIC_AUTH_PASSWORD;
 
@@ -18,9 +15,12 @@ exports.handler = async (event) => {
     };
   }
 
-  // 認証が成功した場合、次のリクエストを許可する
+  // 認証が成功した場合、以下のヘッダーを追加してサイトコンテンツを返す
   return {
     statusCode: 200,
-    body: 'Authenticated successfully.'
+    headers: {
+      'X-Netlify-Auth-Success': 'true',
+    },
+    body: 'Authenticated successfully.' // このメッセージは通常表示されません
   };
 };
