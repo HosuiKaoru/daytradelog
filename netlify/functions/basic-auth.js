@@ -1,10 +1,10 @@
 const auth = require('basic-auth');
-const fs = require('fs').promises;
-const path = require('path');
 
 exports.handler = async (event) => {
+  // `basic-auth`関数はヘッダー全体を引数として受け取る
   const credentials = auth({ headers: event.headers });
 
+  // 環境変数からユーザー名とパスワードを取得
   const validUser = process.env.BASIC_AUTH_USER;
   const validPassword = process.env.BASIC_AUTH_PASSWORD;
 
@@ -18,23 +18,9 @@ exports.handler = async (event) => {
     };
   }
 
-  // 認証に成功したら、サイトのコンテンツを返す
-  let requestPath = event.path.endsWith('/') ? event.path + 'index.html' : event.path;
-  
-  const filePath = path.join(process.env.NETLIFY_BUILD_BASE, 'repo', 'public', requestPath);
-  let fileContent;
-  
-  try {
-    fileContent = await fs.readFile(filePath, 'utf8');
-  } catch (error) {
-    return {
-      statusCode: 404,
-      body: 'Page not found.',
-    };
-  }
-
+  // 認証が成功した場合、次のリクエストを許可する
   return {
     statusCode: 200,
-    body: fileContent,
+    body: 'Authenticated successfully.'
   };
 };
