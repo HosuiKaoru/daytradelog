@@ -1,7 +1,10 @@
 const auth = require('basic-auth');
+const fs = require('fs').promises; // ファイルシステムを操作するためのモジュールを追加
+const path = require('path');
 
 exports.handler = async (event) => {
   const credentials = auth({ headers: event.headers });
+
   const validUser = process.env.BASIC_AUTH_USER;
   const validPassword = process.env.BASIC_AUTH_PASSWORD;
 
@@ -15,12 +18,22 @@ exports.handler = async (event) => {
     };
   }
 
-  // 認証が成功した場合、以下のヘッダーを追加してサイトコンテンツを返す
+  // 認証に成功したら、サイトのコンテンツを返す
+  const filePath = path.join(__dirname, '..', '..', 'public', event.path);
+  let fileContent;
+  
+  try {
+    fileContent = await fs.readFile(filePath, 'utf8');
+  } catch (error) {
+    // ファイルが存在しない場合、404エラーを返す
+    return {
+      statusCode: 404,
+      body: 'Page not found.',
+    };
+  }
+
   return {
     statusCode: 200,
-    headers: {
-      'X-Netlify-Auth-Success': 'true',
-    },
-    body: 'Authenticated successfully.' // このメッセージは通常表示されません
+    body: fileContent,
   };
 };
