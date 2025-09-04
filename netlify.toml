@@ -1,11 +1,11 @@
 [[redirects]]
   from = "/*"
   to = "/.netlify/functions/basic-auth"
-  status = 302
+  status = 200
   force = true
 
 [[redirects]]
   from = "/authenticated/*"
-  to = "/:splat"
-  status = 200
+  to = "https://xn--pbty99adk8a.com/:splat"
+  status = 302
   force = true
