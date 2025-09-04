@@ -20,5 +20,8 @@
   "homepage": "https://github.com/HosuiKaoru/daytradelog#readme",
   "devDependencies": {
     "staticrypt": "^3.5.4"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1"
   }
 }
