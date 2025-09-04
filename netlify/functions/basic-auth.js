@@ -1,5 +1,5 @@
 const auth = require('basic-auth');
-const fs = require('fs').promises; // ファイルシステムを操作するためのモジュールを追加
+const fs = require('fs').promises;
 const path = require('path');
 
 exports.handler = async (event) => {
@@ -18,14 +18,12 @@ exports.handler = async (event) => {
     };
   }
 
-  // 認証に成功したら、サイトのコンテンツを返す
   const filePath = path.join(__dirname, '..', '..', 'public', event.path);
   let fileContent;
   
   try {
     fileContent = await fs.readFile(filePath, 'utf8');
   } catch (error) {
-    // ファイルが存在しない場合、404エラーを返す
     return {
       statusCode: 404,
       body: 'Page not found.',
