@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>その他 on デイトレード戦略と日々の記録</title>
-    <link>https://xn--pbty99adk8a.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+    <link>http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 03 Sep 2025 21:21:04 +0900</lastBuildDate><atom:link href="https://xn--pbty99adk8a.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Sep 2025 21:21:04 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>やってはいけないトレード</title>
-      <link>https://xn--pbty99adk8a.com/posts/strategy/reflection/</link>
+      <link>http://localhost:1313/posts/strategy/reflection/</link>
       <pubDate>Wed, 03 Sep 2025 21:21:04 +0900</pubDate>
       
-      <guid>https://xn--pbty99adk8a.com/posts/strategy/reflection/</guid>
+      <guid>http://localhost:1313/posts/strategy/reflection/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;[4596]&lt;br&gt;
@@ -23,7 +23,7 @@
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;https://xn--pbty99adk8a.com/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>二階堂さんのデイトレ戦略</title>
-      <link>https://xn--pbty99adk8a.com/posts/strategy/nikaido/</link>
+      <link>http://localhost:1313/posts/strategy/nikaido/</link>
       <pubDate>Wed, 03 Sep 2025 00:16:38 +0900</pubDate>
       
-      <guid>https://xn--pbty99adk8a.com/posts/strategy/nikaido/</guid>
+      <guid>http://localhost:1313/posts/strategy/nikaido/</guid>
       
       <description>&lt;p&gt;寄り付きからの30分間でその日の収入が決まる&lt;br&gt;
 デイトレで大きく稼ぎたいのであれば、この時間帯に大きく稼げるスキルを身につける必要がある&lt;br&gt;
@@ -88,17 +88,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 と同時に「明日、上昇の流れが継続されるなら、乗っていこう」と思った。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;https://xn--pbty99adk8a.com/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>メモ</title>
-      <link>https://xn--pbty99adk8a.com/posts/strategy/memo/</link>
+      <link>http://localhost:1313/posts/strategy/memo/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>https://xn--pbty99adk8a.com/posts/strategy/memo/</guid>
+      <guid>http://localhost:1313/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;板読みスキャはどんな相場でも利益は出し続けられるのでこれを極める&lt;/li&gt;
