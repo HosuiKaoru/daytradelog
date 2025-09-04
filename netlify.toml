@@ -3,7 +3,7 @@
   publish = "public"
   functions = "netlify/functions"
 [[redirects]]
-  from = "/private/*"
+  from = "/*"
   to = "/.netlify/functions/basic-auth"
   status = 200
   force = true
