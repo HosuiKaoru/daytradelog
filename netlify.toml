@@ -7,3 +7,4 @@
   to = "/.netlify/functions/basic-auth"
   status = 200
   force = true
+  conditions = { "x-netlify-auth-success" = "true" }
