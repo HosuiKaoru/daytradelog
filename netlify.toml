@@ -1,3 +1,3 @@
 [build]
+  command = "hugo && npx staticrypt public/ --recursive --password=$site_password -o public_protected/ --template-builtin basic"
   publish = "public_protected"
-  command = "hugo && npx staticrypt public/ --recursive --password=$SITE_PASSWORD -o public_protected/ --template-builtin basic"
