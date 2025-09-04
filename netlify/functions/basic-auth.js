@@ -18,7 +18,10 @@ exports.handler = async (event) => {
     };
   }
 
-  const filePath = path.join(__dirname, '..', '..', 'public', event.path);
+  // 認証に成功したら、サイトのコンテンツを返す
+  let requestPath = event.path.endsWith('/') ? event.path + 'index.html' : event.path;
+  
+  const filePath = path.join(process.env.NETLIFY_BUILD_BASE, 'repo', 'public', requestPath);
   let fileContent;
   
   try {
