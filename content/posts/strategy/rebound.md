@@ -1,7 +1,7 @@
 +++
 date = '2025-08-27T19:27:05+09:00'
 draft = false
-title = 'リバウンド戦略（作成中）'
+title = 'リバウンド戦略（デイトレ）'
 categories = ["ロング戦略"]
 +++
 <b>大幅に下落し、リバりそうな銘柄にロング</b>  
@@ -13,15 +13,16 @@ categories = ["ロング戦略"]
 2. 大幅な下落
 3. 下げ止まりの確認
 4. 買い支え勢の確認
-5. 利確は売り板を食う動きがおさまり、買い板が喰われ初めたタイミング
-6. 損切りは反発予想最安値の1tick下で
+5. 明確な買い優勢のトリガー発動（大口の買い）
+6. 利確は5MAを割られるタイミング
+7. 損切りは反発予想最安値の1tick下で
 # 成功例
 <u>成功例① 2025/08/27 『7455』</u>  
 個人投資家注目銘柄  
 明確なレンジを下抜けてぶん投げ祭りで大幅下落  
 ぶん投げ終了の確認と、買い支えの確認が歩み値より可能のためセットアップ完了  
 今回は425あたりで仕込む  
-利確は買い板が明確に喰われ始めるタイミングかつ、レンジの戻りあたりの450  
+利確は5分足の5MAが割られるタイミングなので450あたり
 損切りは安値の419をわったら（RR1:4の素晴らしいトレード）
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
@@ -61,22 +62,34 @@ categories = ["ロング戦略"]
 </div>
 </div>
 
-<u>成功例② 2025/08/28 『3807』</u>  
-大幅な下落までではないが少しの下落の後に揉み合い。  
-黄色の位置で指値注文で待ち構えていた。（上昇の起点かつ一昨日の安値）  
-買い板もここがとても厚くなっていたので下値リスクは極限まで低かった。  
-しかし、そこまで下落せずにリバウンドした。  
-歩み値を見ると、140で継続的に買いが入り続けていたので、買い支え勢が140に多くいることが観察できる。  
-値動きもかなり落ち着いていたので、そこまでは下落しないと予想し、140で入るべき案件。  
-日足の上昇の起点で入るのではなく、上昇の起点に引き付けて入るもの。  
-この指値の部分に関してはやりながら学んでいくしかない。
+<u>成功例② 2025/08/29　『6177』</u>  
+2連続ストップ安後の陰線翌日。
+投げ売りがまだあると考えていたそんなに出ずに、むしろ、定期的な売りを買いが支えている様子。  
+昨日からの流れでショートがかなり溜まっていることが板からわかった。  
+280の厚い売り板を突破させて踏み上げ狙われてるかもと考えられるのでロングで仕込む。  
+嵐の前の静けさのような静寂ののち、歩み値1からわかるように大口のカチアゲが発生。（ここで追加買い）  
+日足も調整された後だったので、リバウンド勢も続々と入り、歩み値2からわかるように305で特買い。  
+特買いから寄り付いたら一度、300まで落とされたが（とりあえずの早売り利確勢）、300を下回らずに踏み上げ開始。  
+最終的にストップ高まで到達し、張り付いた。  
+これだけ勢いが良いのは低位株で注目銘柄だからこそ。  
+利確は5MA割られる所で半分。もう半分は板が強い時はそのままガチホ。  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/rebound/0828-5minutes.png" alt="リバウンド戦略の5分足" width="400" height="600">
+<img src="/images/dailylog/6177/0829-5minutes.png" alt="デイトレ記録の5分足" width="200" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/rebound/0828-day.png" alt="リバウンド戦略の5分足" width="200" height="600">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+<img src="/images/dailylog/6177/0829-day.png" alt="デイトレ記録の日足" width="200" height="400">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/dailylog/6177/0829-ayumine1.png" alt="デイトレ記録の歩み値" width="200" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値1</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/dailylog/6177/0829-ayumine2.png" alt="デイトレ記録の歩み値" width="200" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値2</p>
 </div>
 </div>

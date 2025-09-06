@@ -6,9 +6,20 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 27 Aug 2025 19:27:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 15:57:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>リバウンド戦略（作成中）</title>
+      <title>リバウンド戦略（スキャ）</title>
+      <link>http://localhost:1313/posts/strategy/rebound2/</link>
+      <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/rebound2/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（デイトレ）</title>
       <link>http://localhost:1313/posts/strategy/rebound/</link>
       <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
       
