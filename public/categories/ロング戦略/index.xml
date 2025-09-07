@@ -6,9 +6,21 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 06 Sep 2025 15:57:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 08:56:10 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>リバウンド戦略（スキャ・作成中）</title>
+      <title>リバウンド戦略（ロウソク足パターン）</title>
+      <link>http://localhost:1313/posts/strategy/rebound3/</link>
+      <pubDate>Sun, 07 Sep 2025 08:56:10 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/rebound3/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;リバウンドパターンでロング&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;「多くの市場参加者の考えるロウソク足パターン」&lt;/span&gt;と同じ解釈をして流れに乗る&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（スキャ・上昇中）</title>
       <link>http://localhost:1313/posts/strategy/rebound2/</link>
       <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
       

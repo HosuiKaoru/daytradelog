@@ -6,9 +6,33 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 06 Sep 2025 15:57:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Sep 2025 09:25:53 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>リバウンド戦略（スキャ・作成中）</title>
+      <title>ライン・アタック戦略</title>
+      <link>http://localhost:1313/posts/strategy/longbreak/</link>
+      <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/longbreak/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;高値切り下げラインを確定足でブレイクしたらロング&lt;/b&gt;&lt;br&gt;
+上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有名なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（ロウソク足パターン）</title>
+      <link>http://localhost:1313/posts/strategy/rebound3/</link>
+      <pubDate>Sun, 07 Sep 2025 08:56:10 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/rebound3/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;リバウンドパターンでロング&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;「多くの市場参加者の考えるロウソク足パターン」&lt;/span&gt;と同じ解釈をして流れに乗る&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（スキャ・上昇中）</title>
       <link>http://localhost:1313/posts/strategy/rebound2/</link>
       <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
       
@@ -152,6 +176,7 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
 &lt;li&gt;[4596]&lt;br&gt;
 根拠がかなり薄い状態で大ロットでロングしてしまった。&lt;br&gt;
 高値更新追随スキャは波乗りできるくらい強い板か、波の初動のみのはず。&lt;br&gt;
+てかそもそも、高値更新してねえし。マジで適当にエントリーしちゃってるな。 &lt;br&gt;
 原因：地合いが悪くて暇すぎて、無理矢理エントリーしようと考えたことによるもの。&lt;br&gt;
 対策：時間があれば、監視銘柄の「こうなったらこうする」と分析する時間に当てる。&lt;/li&gt;
 &lt;/ol&gt;
@@ -962,9 +987,8 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 &lt;li&gt;むちゃくちゃ動く銘柄よりもある程度落ち着いた板の銘柄を選択する&lt;/li&gt;
 &lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
-&lt;li&gt;ストップ高近くでガチャガチャトレードは5tickくらい余裕があって勢いがある時に限定&lt;/li&gt;
 &lt;li&gt;MAが入り乱れる or ロウソク足がMAの中にいる状況でブレイク戦略禁止&lt;/li&gt;
-&lt;li&gt;利確は2:1:1理論&lt;/li&gt;
+&lt;li&gt;カチアガッた状況の利確は2:1:1理論&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;板読み&#34;&gt;板読み&lt;/h1&gt;
 &lt;p&gt;&lt;u&gt;2025/08/19 『5985』&lt;/u&gt;&lt;br&gt;
@@ -972,15 +996,14 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 &lt;p&gt;&lt;u&gt;板読みの気づき&lt;/u&gt;&lt;br&gt;
 厚い売り板を食って上抜いていこうとする動きはあくまで「見せられているもの」&lt;br&gt;
 抜けたら買おうと考える人に、既存のホルダーが売りをぶつけて売り抜けようと考えるからドカンと下がる。&lt;br&gt;
-変えないくらいの上昇（材料発表時のアステリア）の勢いがないと成立しない。&lt;/p&gt;
+買えないくらいの上昇（材料発表時のアステリア）の勢いがないと成立しない。&lt;/p&gt;
 &lt;p&gt;順張りで勢いに乗ろうと考えた時は興味を持った段階で速攻入らないといけない。&lt;br&gt;
 そこで躊躇してしまうと、決定的な状況（急騰）が来る場面でしか入れなくなり、下落リスクが跳ね上がる。&lt;br&gt;
 躊躇した後に下落したらその銘柄に興味を失うという行動をとる。&lt;br&gt;
 いずれにせよ、躊躇した先に勝つことはほぼないということだ。&lt;/p&gt;
 &lt;p&gt;板からサポートラインを探してその1tick上に指値を入れるのは危険。&lt;br&gt;
-その厚い買い板さえ崩すことができれば一気に下落する可能性があるから。&lt;br&gt;
-日足チャートを使って過熱感がないか分析しないといけない。&lt;br&gt;
-下値リスクが低いような状況に限定してこの戦略を採用する。&lt;/p&gt;</description>
+その厚い買い板さえ崩すことができれば一気に下落する可能性があるから。&lt;/p&gt;
+&lt;p&gt;ギューって下がってくる板・歩み値は小口の逆指値が大量に発生している状況だからではないか？特定の価格帯まで落ちた時に100や200が連打されるように約定される時は損切りが多発している状況っぽい。&lt;/p&gt;</description>
       
     </item>
     
