@@ -30,14 +30,14 @@ categories = ['ロング戦略']
 # トレード方法
 1. 寄り成りでロング（寄り付きよりも少し下で買ったほうがいい場合の条件はまだわからない）
 2. ポジションの半分を1分足チャートで1本目の陽線で決済（5%以上戻った場合は100%ここで売り切る）
-3. 買い板がが厚ければ残り半分を1分足チャートのコマ・陰線出現まで引っ張る
+3. 買い板が厚ければ残り半分を1分足チャートのコマ・陰線出現まで引っ張る
 4. 損切りは寄り付き価格から機械的に1%の所で行う
 
 # 成功例
 <u>成功例① 2025/06/17 『278A』</u>  
 条件に合致した完璧なトレード  
 GD率は13.8%と割合も大きくてGOOD  
-売られた理由は、06/28にロックアップの解除日が来るので需給悪化懸念で売りが先行したとのこと（短期的な需給要因に該当）
+売られた理由は、06/28にロックアップの解除日が来るので需給悪化懸念で売りが先行したとのこと（短期的な需給要因に該当）  
 9:20分台に寄り付いたため、浮気せずに気配値を見続ける  
 前のデータのため1分足の画像がないが、建玉の半分は1分足の陽線で捌いてもう半分を5％の戻しの部分（5分足の2本目の陽線の半分程度）
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
@@ -72,8 +72,8 @@ GD率は8.7%
 売られた理由は、決算の赤字幅縮小に対してマーケットがサプライズなしと判断したため（悪材料出尽くし感）  
 9:06分に寄り付いたため、浮気せずに気配値を見続ける  
 1tickが0.5%のため2tick下に損切りを設定するが1分足を見ると1tickしか下がってないので狩られずに上昇  
-1つ目の様線で半分捌いて、もう半分は2つ目の陽線の5%戻しの所で捌ききる  
-日足の25MAが背後にあることもリバウンド勢の参入期待  
+1つ目の陽線で半分捌いて、もう半分は2つ目の陽線の5%戻しの所で捌ききる  
+日足の25MAが背後にあることもリバウンド勢の参入期待できるポイント  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
 <img src="/images/GD/9854/0812-1minute.png" alt="GD戦略の5分足" width="250" height="400">
@@ -109,11 +109,11 @@ GD率は9.7%
 1本目の陽線の終値で半分利確してもう半分は5%戻しの所で捌く
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/GD/6613/0820-1minute.png" alt="GD戦略の1分足" width="250" height="400">
+<img src="/images/GD/6613/0819-1minute.png" alt="GD戦略の1分足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">1分足</p>
 </div>
 <div style="text-align: center;">
-<img src="/images/GD/6613/0820-day.png" alt="GD戦略の日足" width="250" height="400">
+<img src="/images/GD/6613/0819-day.png" alt="GD戦略の日足" width="250" height="400">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
