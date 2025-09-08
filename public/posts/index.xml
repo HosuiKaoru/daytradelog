@@ -6,7 +6,18 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 07 Sep 2025 09:25:53 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Sep 2025 17:27:54 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8（月）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/08/</link>
+      <pubDate>Mon, 08 Sep 2025 17:27:54 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/08/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>ライン・アタック戦略</title>
       <link>http://localhost:1313/posts/strategy/longbreak/</link>
@@ -1077,13 +1088,14 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     </item>
     
     <item>
-      <title>5分足の押し目買い戦略</title>
+      <title>Vジェネレート戦略</title>
       <link>http://localhost:1313/posts/strategy/oshimegai/</link>
       <pubDate>Sun, 17 Aug 2025 12:24:53 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/strategy/oshimegai/</guid>
       
-      <description>&lt;p&gt;&lt;b&gt;短期足の波形の押し目でロング&lt;/b&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;GUした注目銘柄の押し目でロング&lt;/b&gt;&lt;br&gt;
+注目銘柄の&lt;span style=&#34;color: red;&#34;&gt;「相対的安さ」&lt;/span&gt;によるリバウンド勢の買い圧力を利用する&lt;/p&gt;</description>
       
     </item>
     
