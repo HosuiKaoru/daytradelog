@@ -6,7 +6,58 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 08 Sep 2025 17:27:54 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 15:38:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/9（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/09/</link>
+      <pubDate>Tue, 09 Sep 2025 15:38:03 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/09/</guid>
+      
+      <description>&lt;p&gt;+22,260円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;涙が出るほど嬉しい。&lt;br&gt;
+これは単純に勝てたから嬉しいのではなく、自分の作った戦略が通用してルールを守ったからこそとれた利益だから嬉しい。&lt;br&gt;
+一回だけ感情的に行けるだろと考えて曖昧な根拠で入ったものだけ-5,300円になった。&lt;br&gt;
+ルール通り行ったものに関しては6勝1敗という結果になったので、少しだけだが自信が持てた。&lt;br&gt;
+波乗り戦略やブレイク戦略ではなく、逆張りがここまで有効なものだとは思いもしなかった。&lt;br&gt;
+ただ、危なっかしくエントリーしてみようかなあと考えてしまった所もあったのでしっかり反省しよう。&lt;br&gt;
+リバウンド戦略がこれだけ有能な戦略だとは思わなかった。&lt;br&gt;
+ガンと落ちてきたらビックりはするが、自分が今日エントリーした所はすぐに反発したので、とにかく反発優位性の高い位置で入り続けることが大事。&lt;br&gt;
+一旦、今日反発した位置での状況から要素を抽出し、リバウンド戦略記事に落とし込もう。&lt;/p&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;p&gt;[6177]&lt;br&gt;
+ボックス内では安値と高値が切り上がっている上昇トレンドのため、押し安値上のリバウンド狙いの買い指値戦略が機能しているが、高値の切り上げが失敗した瞬間に大陰線で押し安値を割られてしまっている。&lt;br&gt;
+つまり、押し安値上リバウンド戦略は、明確に上昇トレンドが発生している際は機能する戦略だが、高値の切り上げが失敗した可能性が生じた時は必ず注文を取り消そう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[5803]&lt;br&gt;
+あの天下のフジクラ大先生でも、逆V戦略がバッチリハマっている。&lt;br&gt;
+しかもその後の戻り売り戦略までバッチリ昨日している。&lt;br&gt;
+このとてつもない下げは先物クッソ下がったことによるものなので、とるのはむずいけど、逆Vとそこからの戻り売りって本当に優位性高い手法なのかもしれない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5803/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[7746]&lt;br&gt;
+二階堂先生直伝のストップ高剥がれ戦略。&lt;br&gt;
+入ろうと思ったけど、位置が高くて怖くて入らなかった。&lt;br&gt;
+（まだそんなに時間経ってない段階で）ストップ高が剥がされ、小陽線出現でロングする戦略。&lt;br&gt;
+結局、ストップ高までいったけど、ストップ高の売り板が全部喰われる前に下に落とされたので、ストップ高の1~2tick下までで利確するのがリスクを下げられそう。&lt;br&gt;
+後場スタートと同時に張り付いた。理由は不明。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/8（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/08/</link>
