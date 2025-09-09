@@ -64,7 +64,27 @@ categories = ['ロング戦略']
 </div>
 </div>
 
-<u>③　2025/07/02　『3671』</u>  
+<u>③　2025/09/09　『3697』</u>  
+日経平均に新規採用するとのことで物色された銘柄。  
+時価総額4000億の銘柄には珍しく約5.5%の大きめのGU。  
+しかし、日足の有効レジサポラインのため強く跳返され落ちてきた。  
+日足は上昇トレンドではないが、5MA上にはいる状態かつ出来高が以上に急上昇した。  
+5分足チャート黄色ボックス圏は、25MAや昨日の終値・・日足の5MAということで大チャンス。  
+板もかなり厚い銘柄なのでこういう銘柄のこういう動きを資金が増えてきた時に狙いたい。  
+結局ちょうど半値戻しを達成している。  
+これおそらく、らんまるさん入ってる気がする。  
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/dailylog/3697/0909-5minutes.png" alt="リバウンド戦略の5分足" width="450" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/dailylog/3697/0909-day.png" alt="リバウンド戦略の日足" width="150" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>④　2025/07/02　『3671』</u>  
 好材料発表でストップ高となって翌日の値動き。  
 6%GU後の一時的な押し目を狙う。  
 寄り付き後に下落せずに上昇していってしまったので、これは追いかけず、下落を待つ。  
