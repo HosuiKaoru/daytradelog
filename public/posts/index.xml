@@ -6,7 +6,24 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 11 Sep 2025 17:13:01 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 15:31:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/12（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/12/</link>
+      <pubDate>Fri, 12 Sep 2025 15:31:35 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/12/</guid>
+      
+      <description>&lt;p&gt;+5,000円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;んー。何度かチャンスを見逃した場面が多発したけど、無駄なトレードはせずにすんだな。&lt;br&gt;
+昨日の反省から今日は控えめになりすぎたな。&lt;br&gt;
+一番悔しいのはタイミーの反転をとるために入ったのに損切したこと。&lt;br&gt;
+ルール通りに損切りしたけど、そこから反転が始まった。&lt;br&gt;
+動画にとったのでしっかり復習しよう。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/11（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/11/</link>
@@ -17,7 +34,7 @@
       <description>&lt;p&gt;-30,300円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;はいーーー、やらかしーーー。&lt;br&gt;
-終わってる。俺が。&lt;br&gt;
+終わってるわ。&lt;br&gt;
 まず、最初のKLabの値動きが予想と全然違ったから損切になったのはしゃーなし。&lt;br&gt;
 ロットは500にしてたから-5,000円くらいだったし。&lt;br&gt;
 問題はここから。&lt;br&gt;
@@ -29,6 +46,13 @@
 論理的に考えて頭が悪い以外の感想がない。&lt;br&gt;
 初心者は初心者なりに低ロットで試すように練習していかないと。春日。&lt;br&gt;
 次、感情的な理由でロット上げた取引したら次の日トレード禁止な。&lt;/p&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;p&gt;台形戦略や逆V戦略に自信があることからもわかるように、逃げるようなショートのチャンスは板を見ていてわかることがあるけど、ロングに関しては全然わからない。&lt;br&gt;
+高速イナゴ戦略は上手くいかないので封印が必要だし、リバウンド戦略はまじでよくわからん。&lt;br&gt;
+ロング戦略記事として作成したはいいものの、全くものにできていない。&lt;br&gt;
+日足の押し目買い戦略やVジェネ戦略・ラインアタック戦略とかをメインでやるべきなのかな。&lt;br&gt;
+リバウンド戦略で一昨日利益を強く出せたけど、あればリバ取りというよりクラッシュの自立反発を狙った位置に待ち構え、逆張りアルゴによる反発のおかげで儲かっただけで、逆張りアルゴが入っているような銘柄じゃないと通用しないからなあ。&lt;br&gt;
+手法の確立が本当につらい。よくわからん。どうしたものか。&lt;/p&gt;
 &lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
 &lt;p&gt;[3656]&lt;br&gt;
 出来高を伴った陽線かつ、高値更新確定足で波乗りロング。&lt;br&gt;
@@ -101,7 +125,7 @@
 5分足のレジサポはあまり機能しなかった。&lt;/p&gt;
 &lt;p&gt;JCしたら売られるのを言語化すると、明確な節目や強い売り板を喰われて少し抜けるもすぐに戻され、その後JCエントリー勢の少し下で板が止まる。こういう状況が揃ったら、上に行く気配がなくなったのを感じ取って大口が売りつけてるのではないか。もしくは、アルゴの自動売買か。&lt;br&gt;
 この一連の流れが来た時にショート試しで入ってみるのは悪くないかもしれない。&lt;/p&gt;
-&lt;p&gt;岡本のPTS見てたら、GUからの下落のリバウンドする位置で、買い板が喰われる動きが止まって、そしたら薄い買い板にちょっと強気のロットの買い板が入ってきて、そしたら即座に売りいたが喰われ始め、そのまま上がっていった。&lt;br&gt;
+&lt;p&gt;岡本のPTS見てたら、GUからの下落のリバウンドする位置で、買い板が喰われる動きが止まって、そしたら薄い買い板にちょっと強気のロットの買い板が入ってきて、そしたら即座に売り板が喰われ始め、そのまま上がっていった。&lt;br&gt;
 東証の板は早すぎて理解ができないが、リバウンドする位置で発生していることってこういうことなのかもしれない。&lt;br&gt;
 買い板止まる→少しロットの大きい買い板が現れる→すぐ上の売り板が買われる→買い優勢に転換&lt;/p&gt;
 &lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
@@ -123,18 +147,6 @@
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（スキャ・下落中）</title>
-      <link>http://localhost:1313/posts/strategy/rebound4/</link>
-      <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;下落トレンド中の一時的な強い下落でロング&lt;/b&gt;&lt;br&gt;
-成行売りで一瞬で下がった時の&lt;span style=&#34;color: red;&#34;&gt;「逆張り買いアルゴ・逆張りロング勢」&lt;/span&gt;による反発を狙う&lt;/p&gt;</description>
       
     </item>
     
