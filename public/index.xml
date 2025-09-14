@@ -6,7 +6,19 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:31:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 16:50:52 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>環境認識を用いたトレード戦略</title>
+      <link>http://localhost:1313/posts/strategy/hiasi/</link>
+      <pubDate>Sun, 14 Sep 2025 16:50:52 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/hiasi/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;日足の明確なシグナルから1日の方向感にbetする&lt;/b&gt;&lt;br&gt;
+日足のトレンドと逆行する、朝一の&lt;span style=&#34;color: red;&#34;&gt;「大陽線・大陰線の是正」&lt;/span&gt;による反発を狙う&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/12（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/12/</link>

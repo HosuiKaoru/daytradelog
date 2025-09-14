@@ -93,3 +93,23 @@ categories = ["ロング戦略"]
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">歩み値2</p>
 </div>
 </div>
+
+<u>成功例③　2025/09/12　『4506』</u>  
+条件に適した銘柄というわけではないが、監視銘柄に入っている得意銘柄。  
+朝一で昨日の押し安値ラインまで下落しているのを発見。（この時点では大陰線）  
+優等生のファーマさんが朝一とはいえここまで大きな下落を見たことは全然なかったので、是正されると考え強気でロング。  
+この時、全く恐怖はなく、むしろ大チャンスとしか思えないほどだった。  
+理由は、朝一の時点で先物がMSQに向けて上昇している中でこの銘柄がなぜか一瞬の下落で下げていたのでリバウンドのチャンスだと考えた。  
+日足が5MA下にいるのは変わらないので、日足の5MAラインがアッパーと考えて利確するべき。  
+損切は昨日の押し安値を割ったら投げるイメージ。  
+下げ止まりの確認・買い支え勢の確認・明確なトリガー発動などはないが、チャンスとしか思えなかったのでリバウンド戦略成功パターンの一つとして記録しておく。  
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/rebound/4506/0912-5minutes.png" alt="リバウンド戦略の5分足" width="400" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/rebound/4506/0912-day.png" alt="リバウンド戦略の日足" width="200" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>

@@ -6,7 +6,18 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:31:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 16:50:52 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14（日）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/strategy/hiasi/</link>
+      <pubDate>Sun, 14 Sep 2025 16:50:52 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/hiasi/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>9/12（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/12/</link>
@@ -20,7 +31,54 @@
 昨日の反省から今日は控えめになりすぎたな。&lt;br&gt;
 一番悔しいのはタイミーの反転をとるために入ったのに損切したこと。&lt;br&gt;
 ルール通りに損切りしたけど、そこから反転が始まった。&lt;br&gt;
-動画にとったのでしっかり復習しよう。&lt;/p&gt;</description>
+動画にとったので週末の宿題としてしっかり復習しよう。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[4506]&lt;br&gt;
+なにかと相性の良いプライム銘柄の住友ファーマくん。&lt;br&gt;
+75MA下の位置・朝一本目の大陰線・先物はかなり強気・昨日の5分足の押し安値と根拠がこれでもかってくらい重なっていたので、寄り付きまもなくの強い下落だったがチャンスにしか感じず、恐れなくエントリーできた。&lt;br&gt;
+結果、ほぼど底で買えてすぐに強くリバった。&lt;br&gt;
+朝一本目の大陰線を狙う戦略がりょーへーさんの動画から学んだことを活かせた気がする。&lt;br&gt;
+今日上手く行った要因をとにかく言語化して再現性高めるようにしよう。&lt;br&gt;
+エントリーはバッチリだけど、利確の根拠が全然なくてわりと損をした。&lt;br&gt;
+日足を見ると5MA下にいるので需給はよろしくない状況ではあるので、5MAを上限として売り抜けようと考えるべきだった。&lt;br&gt;
+完璧に日足の5MAで反発されたので、利確は適当に行うのではなく、市場参加者の考える妥当なラインから考えるべき。&lt;br&gt;
+よっぽど板が弱くて上がらなそうであればいいけど、勿体ないことしたね。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[215A]&lt;br&gt;
+決算発表後の暴落タイミー。&lt;br&gt;
+これは逆張り反転狙いのチャンスだぞ！と考えて何回かエントリーした。&lt;br&gt;
+ビビって撤退したのも合わせると4回かな。&lt;br&gt;
+結果、強くリバってくれる場面はなかったけど、10~20tick取れる場面で全て入れていたので動画を見返す。&lt;br&gt;
+一番悔しいのは最安値の1696の反発の所。&lt;br&gt;
+1702で待ち構えていて、1700わられたから機械的に損切したけどすぐに切り替えして、結果50tickトレードを捨ててしまった。&lt;br&gt;
+これは完全に逆指値刈りを狙われた立場なので、どうすればよかったかを動画をみて思ったことをあとで追記する。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/215A/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/215A/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[5032]&lt;br&gt;
+好決算ストップ高翌日のエニカラ。&lt;br&gt;
+ばか悔しいのが朝一の上昇時の押しを1分足で見て待ち構えていたけど2tick届かず。&lt;br&gt;
+指値をかなり慎重な位置にしすぎるとこうやって取れないことがある。&lt;br&gt;
+その後も黄色の明確なサポートラインでの反発エントリーを何度も考えたけどやめてしまった。&lt;br&gt;
+これは今までの仕手株や需給銘柄でかちわられるのをよく見てきたから。&lt;br&gt;
+でも、この銘柄は中型で好決算に反応した形だからぶん投げ売りとかはかなり出づらい状況だったな。&lt;br&gt;
+前に木徳でもストップ高後は似たようなチャートだったので、仕手株ではない好決算銘柄に関してはこの戦略が通用するのかもしれない。&lt;/p&gt;</description>
       
     </item>
     
