@@ -6,7 +6,74 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 14 Sep 2025 16:50:52 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 06:24:02 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> 9/17（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/17/</link>
+      <pubDate>Sun, 21 Sep 2025 06:24:02 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/17/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;デーセクより、2200の節目を割れて逆指値が発動して売りが大量に出て下に大きく歪む瞬間を狙ったリバウンド戦略。チャートが逆POになる時や、5分足の押し安値をわった後の（上昇トレンドチャートが崩れた後）場合は、想像以上に引き付ける必要がある。こういう銘柄は強く下げた後はしっかりリバってくれることが多いのでホールドしてれば今回も強く勝てたが、含み損になる時間が10秒以上発生すると私の精神的に合わないので、よりリスクを下げるために、今回であれば1分足の1つ目の押し安値上で待つ戦略だったので、できるだけ引き付ける。チャートが崩れていない状態の時は押し安値近くまで落ちずに少し上で反発することが多いので指値を少し上に設定し、下落局面やチャートが崩れた時はできるだけ引き付けるようにリバウンドの位置を工夫する。結果、10,000円とれていたトレードだったから、かなり狙いとしては素晴らしいぞ！！もう一つの反省点は、2150わったら投げようと考えていたが、わらなかったのにも関わらず、ビビって早く利確してしまった。けむの板読みトレードから学んだようにトレードには一貫性を持たせないと期待値に収束しない。その場の感情で変えるのではなく、プラン通りに行うことが必要。しかし、2150わったら強くまた下に下げる場面ではあるので、こういう場面ではやっぱり引き付けた方がいいな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0917-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0917-5minutes.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>9/16（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/16/</link>
+      <pubDate>Sun, 21 Sep 2025 06:23:51 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/16/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;デーセクより、推し安値での反発狙いだが、落ちてきた時に上の売り板が薄いときは一瞬で上に戻されるので、その動きを狙って入る。
+デーセクより、板を見ているとリバウンドしてから一度落とされたあと、定期的に今日の始値あたりまできてから下に落とされ、しばらくしたら下で成行買いが強く入って、また小口の買いで始値まで近づいたら下に中口の売りで落ちて、また拾い集める存在がいてというループだった。これは、おそらくだが、大口の拾い集めだと推測できる。で、一度始値を上にブレイクする動きが発生、これはおそらく大口の仕掛けだと思われる。ぶち買いほどではないが、一旦10tickくらい上に上げて様子を見ている感じ。十数秒いったり来たりした後に、おそらく他の市場参加者（中口）の買いが上に続き、一気に上に上がった。この時点で1880あたり。ここからは小口の買いも集まり始め、1920まで上昇。そのあと、他の中口の買いが続き高値を更新していった。 その後、超絶節目の2000まで上昇していき（最初の大口は捌いている側っぽい）、2011まで上昇したあとに下に一回強く下落した。ジャンピングキャッチがだめな理由は、最後の2000突破という一見すると強く感じる場面でも最初の大口は売り側だし、アーリーアダプターの中口も売り側だし、遅く参加した中口や小口たちも2000あたりで売り側になり、買い側についているのは最後にとびつく小口しかいないという状況なので、力関係的に勝てるわけがないからである。1分足を見ていると、高値切り下げ三角ラインを上にブレイクしたあとに強く上に跳ねているが、板をずっと見ていると「買い優勢に変わったな」と感じれる瞬間がより早く、市場参加者のそれぞれの思惑も踏まえて判断することができるようになるためにチャート単独では感じることができない裏側まで把握することができる。これが板読みが有利と考えられる真髄。板読み的にも強気に転換したタイミングが1分足のチャートでも強気転換シグナル発生のタイミングのため、板GO・チャートGOの場合は強気に攻める。最初の大口の拾い集めを狙って同じタイミングで集められるとベストだけど、他の大口に下に成行売りされる可能性も考慮すると、拾い集めの後のアーリーアダプターの中口と同じタイミングで入れるようになることが良い気がする。デーセクに関しては2連ストップ安でかなり下値余地が少ない状況だったので、ぶん投げ売りも出にくい状況だったし、かなり満貫だったな。一つ一つのチャートパターンだけで勝てるようにならないのはそこに優位性が生まれづらいからである。長いレンジの下抜け戦略のようにチャートが明らかに市場心理と直結する場合のみはチャートパターンだけで通用しやすいが、その他の場合は板から読み取れる市場心理に集中することが優位性が生じる要因だと学んだ。だからこそ、自分は多くの銘柄を監視するのは向いていないのでSGひーこさんのように3銘柄ピックしといて、基本一つに集中するというやり方が向いている気がする。ただ、デーセクに関しては9:30以降の少し落ち着いたタイミングでの板読みは可能だったが、最初の激しい攻防の時は全然わからないのが現状なので、寄り付き30分の板読みが課題だな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0916-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;住友ファーマは想像以上に下落したが、5分足の押し安値上でしっかり反発している。&lt;br&gt;
+でも、日足の昨日までの状況を見ると調整しそうな感じなので、環境認識的にはエントリーは微妙だな。小ロットで打診買いで入るに留めよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;サンリオも今日は想像以上に下落したが、7000という超絶節目でリバウンドしている。&lt;br&gt;
+板を見てみないとなんとも言えないが、朝からかなり一方的に下げらててきたタイミングかつ、日足的にもかなり戻されたタイミングなので、リバを狙える場面。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>環境認識を用いたトレード戦略</title>
       <link>http://localhost:1313/posts/strategy/hiasi/</link>
