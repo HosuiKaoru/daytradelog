@@ -6,7 +6,66 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 22 Sep 2025 19:09:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 17:03:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/24（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/24/</link>
+      <pubDate>Wed, 24 Sep 2025 17:03:05 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/24/</guid>
+      
+      <description>&lt;p&gt;+4,970円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;今日もデーセクをストーキング。&lt;br&gt;
+リバウンド戦略メインでスキャを何回も行った。めちゃくちゃ疲れた。&lt;br&gt;
+で、今日改めて、1分足チャートが上昇トレンド中は指値位置を直近高値（ロウソク足の上髭ライン）で待ち構え、1分足の上昇トレンドが崩れた可能性が生じた時は押し安値まで引き付けることが有効だとわかった。&lt;br&gt;
+チャートが強い時はリバウンド指値位置を高めて、揉み合い始めたら、しっかり出来高を作ったラインまで引き付ける。&lt;br&gt;
+これが、デーセクでは数日間しっかり機能している。&lt;br&gt;
+で、デーセクに集中していたから仕方ないんだけど、Appbankの時みたいなリバウンド大チャンスを岡本で発生していたのに気付けなかった。&lt;br&gt;
+デーセクの板をかじりつくように見ていたが、岡本はさすがにどこかでリバるだろうと考えていたから、機会損失甚だしい。&lt;br&gt;
+まじでモニター増設しないとな。&lt;br&gt;
+あと、デーセク見て気付いたことなんだけど買いアルゴ？が朝にいた感じがする。&lt;br&gt;
+成行買いが中ロットで入った時にすぐさま上に厚い売り板までを秒速で食う昇竜拳の動きが何回か確認された。&lt;br&gt;
+それを狙って後場で同じような場面が来た時に仕込んでみたが上手くいかず。&lt;br&gt;
+たぶん、アルゴどっかいった説はあるな。&lt;br&gt;
+5分足の5MA下にいる時はリバ位置を引き付け、上昇トレンドが朝に強く発生している時は強気でリバ位置を設定する。&lt;br&gt;
+これが今の自分が発見できた期待値の高いスキャルピング手法だと信じて明日からもやっていこう。&lt;br&gt;
+結局、デーセクストップ高までいったけど、日足では戻しが入っておかしくないくらい上昇してしまっているので、明日は投げ売りに注意しよう。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[7746]&lt;br&gt;
+日足の窓埋め＋25MA到達後のリバウンド狙い。&lt;br&gt;
+日足で戻してきたタイミングで材料が出てそれに反応した形。&lt;br&gt;
+Appbankの時のような大口の仕掛けというわけではないが、押してきた時の材料が安心して買いに行けるよな。&lt;br&gt;
+これ気づけていたら黄色の240で入れてたので、たらればだけど30~60tickとれてたなあ。&lt;br&gt;
+監視銘柄は絞っているのだから材料や突発的な値動きの発生を見過ごさないように環境設定を改めないといけない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0924-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[8136]&lt;br&gt;
+２つ目の窓埋めを試みていたサンリオさん。&lt;br&gt;
+窓埋め完了の所まで来たら逆張りロング仕様と考えていたが、それよりも早くリバが入った形。&lt;br&gt;
+確かに、日足的には十分戻してきている段階なので一度リバが始まったら強く上に飛ぶのは理解できる。&lt;br&gt;
+で、配信の上手い人が言うには6550ラインを超えてきたら買いで入るとのこと。黄色の所。&lt;br&gt;
+コマ2連続で下げ止まりを確認して、5分足の5MAをうわ抜けるタイミングなのでここで入るのかな。&lt;br&gt;
+上手い人はやっぱり下げ止まりを確認してから強気に転じるタイミングでエントリーしていることがわかる。&lt;br&gt;
+これ参考にできるな。&lt;br&gt;
+エントリーする時はチャートでエントリーするのだから損切は今日の安値更新する所で、利確は5分足の5MAが下に割られるタイミングあたりかな。&lt;br&gt;
+板読みのスキャルピングを上手にできるようになっていきたいが、チャート主導のトレードスタイルも引き出しとして持っておきたい。&lt;br&gt;
+十分に落ちてきたと考えられる銘柄が他にあったら、似たような場面で入ってみよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/22（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/22/</link>

@@ -6,7 +6,36 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 22 Sep 2025 19:09:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 17:03:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>24（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/09/24/</link>
+      <pubDate>Wed, 24 Sep 2025 17:03:05 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/09/24/</guid>
+      
+      <description>&lt;p&gt;+4,970円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;今日もデーセクをストーキング。&lt;br&gt;
+リバウンド戦略メインでスキャを何回も行った。めちゃくちゃ疲れた。&lt;br&gt;
+で、今日改めて、1分足チャートが上昇トレンド中は指値位置を直近高値（ロウソク足の上髭ライン）で待ち構え、1分足の上昇トレンドが崩れた可能性が生じた時は押し安値まで引き付けることが有効だとわかった。&lt;br&gt;
+チャートが強い時はリバウンド指値位置を高めて、揉み合い始めたら、しっかり出来高を作ったラインまで引き付ける。&lt;br&gt;
+これが、デーセクでは数日間しっかり機能している。&lt;br&gt;
+で、デーセクに集中していたから仕方ないんだけど、Appbankの時みたいなリバウンド大チャンスを岡本で発生していたのに気付けなかった。&lt;br&gt;
+デーセクの板をかじりつくように見ていたが、岡本はさすがにどこかでリバるだろうと考えていたから、機会損失甚だしい。&lt;br&gt;
+まじでモニター増設しないとな。&lt;br&gt;
+あと、デーセク見て気付いたことなんだけど買いアルゴ？が朝にいた感じがする。&lt;br&gt;
+成行買いが中ロットで入った時にすぐさま上に厚い売り板までを秒速で食う昇竜拳の動きが何回か確認された。&lt;br&gt;
+それを狙って後場で同じような場面が来た時に仕込んでみたが上手くいかず。&lt;br&gt;
+たぶん、アルゴどっかいった説はあるな。&lt;br&gt;
+5分足の5MA下にいる時はリバ位置を引き付け、上昇トレンドが朝に強く発生している時は強気でリバ位置を設定する。&lt;br&gt;
+これが今の自分が発見できた期待値の高いスキャルピング手法だと信じて明日からもやっていこう。&lt;br&gt;
+結局、デーセクストップ高までいったけど、日足では戻しが入っておかしくないくらい上昇してしまっているので、明日は投げ売りに注意しよう。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[7746]&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/22（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/22/</link>
@@ -475,7 +504,7 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     </item>
     
     <item>
-      <title>ライン・アタック戦略</title>
+      <title>ラインブレイク戦略</title>
       <link>http://localhost:1313/posts/strategy/longbreak/</link>
       <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
       
@@ -499,7 +528,7 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     </item>
     
     <item>
-      <title>リバウンド戦略（スキャ・上昇中）</title>
+      <title>リバウンド戦略（スキャ）</title>
       <link>http://localhost:1313/posts/strategy/rebound2/</link>
       <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
       
