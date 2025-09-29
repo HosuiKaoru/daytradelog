@@ -1,7 +1,0 @@
-[functions]
-  directory = "netlify/functions"
-
-[[redirects]]
-  from = "/"
-  to = "/.netlify/functions/protect"
-  status = 200
