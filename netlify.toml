@@ -2,4 +2,3 @@
   from = "/"
   to = "/.netlify/functions/protect"
   status = 200
-

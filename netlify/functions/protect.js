@@ -1,7 +1,4 @@
 // netlify/functions/protect.js
-const fs = require("fs");
-const path = require("path");
-
 exports.handler = async (event, context) => {
   const auth = event.headers.authorization || "";
   const expectedAuth = "Basic " + Buffer.from("hosui:kodooji24").toString("base64");
@@ -16,14 +13,12 @@ exports.handler = async (event, context) => {
     };
   }
 
-  // 認証OKなら public/index.html を返す
-  const indexPath = path.join(__dirname, "../../public/index.html");
-  const html = fs.readFileSync(indexPath, "utf-8");
-
+  // 認証OKなら、実際のトップページにリダイレクトする
   return {
-    statusCode: 200,
-    headers: { "Content-Type": "text/html" },
-    body: html,
+    statusCode: 302,
+    headers: {
+      Location: "/index.html",
+    },
+    body: "Redirecting...",
   };
 };
-
