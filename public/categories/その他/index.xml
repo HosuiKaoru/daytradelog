@@ -165,10 +165,8 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
       <guid>http://localhost:1313/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
-&lt;li&gt;板読みスキャはどんな相場でも利益は出し続けられるのでこれを極める&lt;/li&gt;
 &lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
 &lt;li&gt;自分の予想と外れた動き方をしたら速攻で損切りする&lt;/li&gt;
-&lt;li&gt;むちゃくちゃ動く銘柄よりもある程度落ち着いた板の銘柄を選択する&lt;/li&gt;
 &lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
 &lt;li&gt;MAが入り乱れる or ロウソク足がMAの中にいる状況でブレイク戦略禁止&lt;/li&gt;
