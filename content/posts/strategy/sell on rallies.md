@@ -43,7 +43,7 @@ title = '戻り売り戦略'
 
 <u>成功例② 2025/06/25 『184A』</u>  
 逆V波戦略から繋げる形でショート  
-日足も高値掴み税が多く発生している状況なのでロットは大きめで  
+日足も高値掴み勢が多く発生している状況なのでロットは大きめで  
 オレンジラインでエントリーするが38.2%戻していないので上手くいかない  
 ピンクラインは38.2%戻しているので根拠が強固となるゆえ上手くいっている
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
@@ -57,23 +57,7 @@ title = '戻り売り戦略'
 </div>
 </div>
 
-<u>成功例③ 2025/07/23 『5597』</u>  
-逆V波戦略は失敗だがその後の下落トレンド後のレジサポラインでショート  
-日足から上値思いと判断できるが38.2%は戻していないのでロットは中くらいで    
-後場一の状況なので注文は事前に出しておく  
-上髭陰線となったので終値で追加ショートエントリーする
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
-<div style="text-align: center;">
-<img src="/images/sell on rallies/5597/5minutes.png" alt="逆V戦略の5分足" width="350" height="400">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
-</div>
-<div style="text-align: center;">
-<img src="/images/sell on rallies/5597/day.png" alt="逆V戦略の日足" width="250" height="400">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
-</div>
-</div>
-
-<u>成功例④ 2025/07/16 『6731』</u>  
+<u>成功例③ 2025/07/16 『6731』</u>  
 強いレジサポラインまで戻ってきたので戻り売りショート  
 日足から高値掴み勢が多いと推測できるのでロットは大きめで  
 オレンジよりも38.2%戻しのピンクのほうが優位性高くエントリーできていることがわかる

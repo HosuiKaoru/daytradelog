@@ -16,3 +16,19 @@ title = 'やってはいけないトレード'
 <img src="/images/reflection/4596-0903-5minutes.png" alt="デイトレ記録の5分足" width="600" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
+</div>
+
+2. [5801]  
+下げ止まりの後の反転を確認できていない黄色のボックスの段階でロングしてはいけない。  
+原因：先物が下げ止まったからという理由だけで打診エントリー
+対策：5MA上で確定するまではガチ監視だけする
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/dailylog/5801/1014-5minutes.png" alt="デイトレ記録の5分足" width="400" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/dailylog/5801/1014-day.png" alt="デイトレ記録の日足" width="200" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
