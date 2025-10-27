@@ -6,9 +6,20 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 24 Oct 2025 15:35:01 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>24（金）のデイトレ結果</title>
+      <title>PTS戦略</title>
+      <link>http://localhost:1313/posts/strategy/pts/</link>
+      <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/pts/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>10/24（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/10/24/</link>
       <pubDate>Fri, 24 Oct 2025 15:35:01 +0900</pubDate>
       
@@ -25,13 +36,57 @@
 一銘柄でスキャルピングするやり方を来週も試していこう。&lt;br&gt;
 それで利益が残るようであればスキャルピング手法を極めていこう。&lt;/p&gt;
 &lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
-&lt;p&gt;[6330]&lt;/p&gt;
+&lt;p&gt;[6330]&lt;br&gt;
+まず、前場は出来高が異様に少なくなっていたのでやりづらかった。&lt;br&gt;
+一回ぶん投げショートに追撃成行売りかまして10~20tickとるチャンスを逃したけどまあ悪くはなかったかな。&lt;br&gt;
+ただ、朝一に下に言ってからプラ転してきた時に昨日のように動意づく可能性を考慮してロングしたがハズレ。&lt;br&gt;
+これは明確に原因がある。&lt;br&gt;
+昨日の後場のプラ転で動意づいたのはまず、朝の爆裂大陰線で安値県を推移していたのに後場にプラ転してきたということと、出来高をしっかり伴っていたということ。&lt;br&gt;
+今回は、出来高はともなっておらず（これから伴ってくる可能性もあるが）、プラ転して10秒くらい眺めても上を買ってこないのでやっぱり昨日よりかなり弱いセットアップ。&lt;br&gt;
+ということは、ここでショートだろ。普通に。&lt;br&gt;
+これは反省。&lt;br&gt;
+一つの事象だけで昨日と同じと考えるのではなく、同じ事象が発生してもそれに対してリアクションがなければ弱い（強くないということは弱いということ）。&lt;br&gt;
+これは脳に刻み込む。&lt;/p&gt;
+&lt;p&gt;で、何よりも反省しなければいけないのはチャートを見ると明らかなように意識されている2日間の三角保ちあいの下抜け陰線確定＋出来高も伴っている。&lt;br&gt;
+ここで普通に日足結構高値圏＋下落のセットアップ（出来高を伴った台形戦略 or 三角下抜け）確定で普通にショートすればよかった。&lt;br&gt;
+これ出来なかったのは、次のコマでギリギリまでレベル感の良い所まで引きつけようとしたのが原因。&lt;br&gt;
+普通に下抜けラインに近づいたら打診で入らないと。&lt;br&gt;
+はあ。まじで一世一代のチャンスに何をやっているんだか。&lt;br&gt;
+金曜の後場は売りがでやすいっていう特徴を忘れているしね。&lt;br&gt;
+頼むぞまじで。&lt;/p&gt;
+&lt;p&gt;下で伸び切ったところでガチャガチャやってもあんまし上手くいかず。&lt;br&gt;
+ただ、下ヒゲ大陰線が連続で発生＋出来高が減少傾向の時に再び2500の明確な節目にチャレンジしてきたロウソク足では普通に入れたな。&lt;br&gt;
+こういう動意づいた時は指値で事前に待ち構えておかないと買えない。&lt;br&gt;
+出来高とチャートをしっかり分析するとチャンスは自ずと見えてくるもんなんだと脳に刻め。&lt;br&gt;
+今日の安値更新のところでもショート1枚追加したかったけどできなかった。&lt;br&gt;
+これは、最初に最高のレベル感でショートできたチャンスを逃してしまい、ここで入るのに躊躇したから。&lt;br&gt;
+大事なのはさっきどうだったかではなくて、これからどうなるかだろ。&lt;br&gt;
+これから下がると考えられるのであればしっかり入らないと。&lt;br&gt;
+前場は決断力を持って判断できていたのにな。&lt;br&gt;
+反省しなさい。&lt;/p&gt;
+&lt;p&gt;あと、日計りでショートを間違えて2回ほど入ってしまい、手数料に1700円も支払ってしまっている。&lt;br&gt;
+今の自分は数千円勝ち続けるくらいの実力しかないのだから特に手数料には慎重になろう。&lt;br&gt;
+せっかく、ゼロ革命のおかげで制度信用で何度も回転ショートできるんだから。&lt;br&gt;
+これ気づいている人そんなに多くなさそうだしね。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1023-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;
+&lt;p&gt;[4418]&lt;br&gt;
+監視銘柄にいれていたJDSC。&lt;br&gt;
+普通に非明日高値圏で昨日からの流れを組めば美しいほどの台形戦略適用可能場面。&lt;br&gt;
+しかも朝の歪みのお陰でレベル感も最高のところでエントリーできる。&lt;br&gt;
+自分の数少ない期待値の高いチャートレ適用可能場面を見逃してはいけない。&lt;br&gt;
+見逃し防止のためには、やっぱり監視銘柄を絞ることが必要。&lt;br&gt;
+QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリングしか見ないって決めているんだから、残りは事前にこうなったらこうするっていうチャートレ適用可能かどうかだけを考えておいて、朝一に指値だけ入れておくようにする。&lt;br&gt;
+監視銘柄を絞る→絞った分、一つ一つの監視銘柄に対しては事前にチャートと出来高をしっかり分析する→戦略考案→指値を事前にセットアップ。&lt;br&gt;
+この流れを必ず行う。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4418/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
