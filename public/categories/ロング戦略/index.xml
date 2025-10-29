@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ロング戦略 on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</link>
+    <link>http://localhost:54321/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</link>
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:54321/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PTS戦略</title>
-      <link>http://localhost:1313/posts/strategy/pts/</link>
+      <link>http://localhost:54321/posts/strategy/pts/</link>
       <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/pts/</guid>
+      <guid>http://localhost:54321/posts/strategy/pts/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;ストップ安2連続目の銘柄に逆張りロング&lt;/b&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ラインブレイク戦略</title>
-      <link>http://localhost:1313/posts/strategy/longbreak/</link>
+      <link>http://localhost:54321/posts/strategy/longbreak/</link>
       <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/longbreak/</guid>
+      <guid>http://localhost:54321/posts/strategy/longbreak/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;高値切り下げラインを確定足でブレイクしたらロング&lt;/b&gt;&lt;br&gt;
 上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有名なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;/p&gt;</description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>リバウンド戦略（ロウソク足パターン・検証中）</title>
-      <link>http://localhost:1313/posts/strategy/rebound3/</link>
+      <link>http://localhost:54321/posts/strategy/rebound3/</link>
       <pubDate>Sun, 07 Sep 2025 08:56:10 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound3/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound3/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;リバウンドパターンでロング&lt;/b&gt;&lt;br&gt;
 &lt;span style=&#34;color: red;&#34;&gt;「多くの市場参加者の考えるロウソク足パターン」&lt;/span&gt;と同じ解釈をして流れに乗る&lt;/p&gt;</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>リバウンド戦略（スキャ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound2/</link>
+      <link>http://localhost:54321/posts/strategy/rebound2/</link>
       <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound2/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound2/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;上昇トレンド中の押し安値上でロング&lt;/b&gt;&lt;br&gt;
 相対的な安さが演出される場面での&lt;span style=&#34;color: red;&#34;&gt;「逆張り勢（アルゴ）の買い」&lt;/span&gt;を狙う&lt;/p&gt;</description>
@@ -56,10 +56,10 @@
     
     <item>
       <title>リバウンド戦略（デイトレ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound/</link>
+      <link>http://localhost:54321/posts/strategy/rebound/</link>
       <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大幅に下落し、リバりそうな銘柄にロング&lt;/b&gt;&lt;br&gt;
 大幅な下落の&lt;span style=&#34;color: red;&#34;&gt;「歪み」&lt;/span&gt;の是正を利用する&lt;/p&gt;</description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>高速イナゴ戦略</title>
-      <link>http://localhost:1313/posts/strategy/inago/</link>
+      <link>http://localhost:54321/posts/strategy/inago/</link>
       <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/inago/</guid>
+      <guid>http://localhost:54321/posts/strategy/inago/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
 大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
@@ -80,10 +80,10 @@
     
     <item>
       <title>Vジェネレート戦略</title>
-      <link>http://localhost:1313/posts/strategy/oshimegai/</link>
+      <link>http://localhost:54321/posts/strategy/oshimegai/</link>
       <pubDate>Sun, 17 Aug 2025 12:24:53 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/oshimegai/</guid>
+      <guid>http://localhost:54321/posts/strategy/oshimegai/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;GUした注目銘柄の押し目でロング&lt;/b&gt;&lt;br&gt;
 注目銘柄の&lt;span style=&#34;color: red;&#34;&gt;「相対的安さ」&lt;/span&gt;によるリバウンド勢の買い圧力を利用する&lt;/p&gt;</description>
@@ -92,10 +92,10 @@
     
     <item>
       <title>寄り付き戦略</title>
-      <link>http://localhost:1313/posts/strategy/gd/</link>
+      <link>http://localhost:54321/posts/strategy/gd/</link>
       <pubDate>Wed, 13 Aug 2025 18:37:22 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/gd/</guid>
+      <guid>http://localhost:54321/posts/strategy/gd/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大幅にGDした銘柄の寄り付きロング&lt;/b&gt;&lt;/p&gt;</description>
       

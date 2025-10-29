@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:54321/categories/</link>
     <description>Recent content in Categories on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 17:13:18 +0900</lastBuildDate><atom:link href="http://localhost:54321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ロング戦略</title>
-      <link>http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</link>
-      <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
+      <title>トレード記録</title>
+      <link>http://localhost:54321/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</link>
+      <pubDate>Wed, 29 Oct 2025 17:13:18 +0900</pubDate>
       
-      <guid>http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</guid>
+      <guid>http://localhost:54321/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>トレード記録</title>
-      <link>http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</link>
-      <pubDate>Fri, 24 Oct 2025 15:35:01 +0900</pubDate>
+      <title>ロング戦略</title>
+      <link>http://localhost:54321/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
       
-      <guid>http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/</guid>
+      <guid>http://localhost:54321/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>その他</title>
-      <link>http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+      <link>http://localhost:54321/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
       <pubDate>Sun, 19 Oct 2025 12:34:59 +0900</pubDate>
       
-      <guid>http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</guid>
+      <guid>http://localhost:54321/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>環境認識</title>
-      <link>http://localhost:1313/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</link>
+      <link>http://localhost:54321/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</link>
       <pubDate>Sun, 14 Sep 2025 16:50:52 +0900</pubDate>
       
-      <guid>http://localhost:1313/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</guid>
+      <guid>http://localhost:54321/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</guid>
       
       <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>ショート戦略</title>
-      <link>http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</link>
+      <link>http://localhost:54321/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
       
-      <guid>http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</guid>
+      <guid>http://localhost:54321/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</guid>
       
       <description></description>
       

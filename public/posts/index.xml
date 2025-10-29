@@ -2,28 +2,140 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:54321/posts/</link>
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 17:13:18 +0900</lastBuildDate><atom:link href="http://localhost:54321/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29（水）のデイトレ結果</title>
+      <link>http://localhost:54321/posts/log/10/29/</link>
+      <pubDate>Wed, 29 Oct 2025 17:13:18 +0900</pubDate>
+      
+      <guid>http://localhost:54321/posts/log/10/29/</guid>
+      
+      <description>&lt;p&gt;-7,172円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;アドバンテストかそれ以外か。&lt;br&gt;
+そんな相場だった。&lt;br&gt;
+プライム大型に関しても酷い。&lt;br&gt;
+日経は最高値更新しても半導体の一部だけ。&lt;br&gt;
+これ完全にバブルだろ。実態経済を反映していないし、そもそも半導体以外の資金が吸われて半導体に集中。&lt;br&gt;
+明らかにおかしい。&lt;br&gt;
+けど、バブルに乗れていないの悔しい。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[6330]&lt;br&gt;
+東洋エンジニアリングでスキャだけど不貞腐れそう。&lt;br&gt;
+根拠が重なった場面でエントリーできず、一度見送ったので少し根拠が弱いところでナンピンして買うという愚行。&lt;br&gt;
+普通に寄り付きで売って見てるだけでよかったやな。でもこれ結果論。&lt;br&gt;
+日足の5MAラインを割ったタイミングでショートしてあとはガチホがよかった。&lt;br&gt;
+日足チャートが崩れたらそうそう戻せないからね。&lt;br&gt;
+でも、激リバが急に来るのが東洋エンジニアリングくんだから恐いけどね。&lt;br&gt;
+最近は完全にモメンタムを失い、資金が抜けてきているのでこれは基礎的に考えればよさそう。&lt;br&gt;
+今日もチャート崩れて引けたので明日も下目線。&lt;br&gt;
+根拠が複数重なるポイントではロットを上げてそうじゃない時は、できるだけ引き付けてガチャガチャする感じで。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1029-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>28（火）のデイトレ結果</title>
+      <link>http://localhost:54321/posts/log/10/28/</link>
+      <pubDate>Tue, 28 Oct 2025 18:42:23 +0900</pubDate>
+      
+      <guid>http://localhost:54321/posts/log/10/28/</guid>
+      
+      <description>&lt;p&gt;-30,900円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;本日は日経先物が拡大トライアングル。&lt;br&gt;
+つまり方向感が意味わからないくらい上下にメンヘラ相場。&lt;br&gt;
+そのせいだけではないが、東洋エンジでボコボコにやられた。&lt;br&gt;
+朝の下落から一転して上昇のきれいなチャートを描いたので今日も強いんだと考えてロングしたらまさかのぶん投げ。&lt;br&gt;
+昨日の出来高を作った価格帯で引き付けてロングするも下にぶち抜かれる。&lt;br&gt;
+じゃあ逆にショート目線に切り替えたものの嘲笑うかのような謎の急上昇でぶち抜かれるPart2。&lt;br&gt;
+その後は自信をなくし傍観することしかできず、一方的に下落していった。&lt;br&gt;
+最後にクロオク前に損切りが間に合わずにクロオクで担がれて大負けPart3。&lt;br&gt;
+これでトータル10,000円負けを3回繰り返して大負けしました。&lt;br&gt;
+冷静に振り返ると昨日のオシ安値を後場に割った段階で下降トレンドが確定するので戻しをまって25MAでショートを仕込むべきだった。&lt;br&gt;
+また、前場のスキャに関しても自信を持ってエントリーしたせいで損切りが何度も遅れてしまい無駄に傷口を広げる。&lt;br&gt;
+3000という超絶強い価格帯で朝一ショートかませなかったのが悔やまれるし、その後の態度も問題。&lt;br&gt;
+大負けからコツコツ取り返すのが馬鹿らしくなってしまい基本的な分析を怠った。&lt;br&gt;
+お前が買っていようが負けていようがマーケットはそんなこと気にしないし、お前のポジションがどっちだろうがマーケットはそんなの気にしない。&lt;br&gt;
+冷静ではあったが真剣にマーケットに向き合う気持ちが今日は欠けていたと感じる。&lt;br&gt;
+資産最安値に再び来てしまったがあの時と違うのは自分の負けの原因がわりかしはっきりわかっているから。&lt;br&gt;
+期待値の低い位置でのエントリーを繰り返すと痛い目を見ることを学んだので、とにかく引き付けることを意識し、自信のあるポジションでも当初の損切りラインに到達したら問答無用で切り、常にマーケットの分析を忘れずに実施し続けることが大切。&lt;br&gt;
+つまり、基本的なことが今日はできていなかった。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[6330]&lt;br&gt;
+日足の5MAでしっかり反発していることがわかるよな。&lt;br&gt;
+そして、美しいほどに下降トレンドだよな。&lt;br&gt;
+基礎、基本。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1028-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>10/27（月）のデイトレ結果</title>
+      <link>http://localhost:54321/posts/log/10/27/</link>
+      <pubDate>Mon, 27 Oct 2025 15:26:40 +0900</pubDate>
+      
+      <guid>http://localhost:54321/posts/log/10/27/</guid>
+      
+      <description>&lt;p&gt;+6,800円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;日経平均50,000円突破。&lt;br&gt;
+フジクラ・SBG買って寝てるやつが最も金を効率的に増やせている相場継続。&lt;br&gt;
+これはつえーなー。&lt;br&gt;
+今週のイベント連続あたりで一気に調整きそうだけど、どうなんだろう。&lt;/p&gt;
+&lt;p&gt;本日は東洋エンジニアリングに加えて、4倍値幅銘柄一つを監視。&lt;br&gt;
+4倍値幅寄ってから上下に激しく動いたけど、方向感が落ち着いてからのショートチャンスを見逃し。&lt;br&gt;
+東洋エンジニアリングも甘い指値を入れたところでしっかり損切りに狩られてしまっているし、&lt;br&gt;
+三角上抜けで動意づいた所はロング対してできずに傍観。&lt;br&gt;
+チャートが超強い時はもう気にせずロングして強気ホールドしよう。&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;[6330]&lt;br&gt;
+三角上抜けは強いのになんでロングできなかったんだ。&lt;br&gt;
+悲しい。&lt;br&gt;
+高値切り下げ線ですぐに弾き返されていたのに、ちゃんと高値キープできていたから強気って考えることができたな。&lt;br&gt;
+出来高を伴った大陽線1本目で普通に追撃ロングできたよなあ。&lt;br&gt;
+ビビってこういう時に何もできないのを治さないと利益を強くとることはできないぞ。&lt;br&gt;
+あと、後場1本目で5MA下に潜り込んだ陰線出現で普通にショートでよかったね。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1027-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
     <item>
       <title>PTS戦略</title>
-      <link>http://localhost:1313/posts/strategy/pts/</link>
+      <link>http://localhost:54321/posts/strategy/pts/</link>
       <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/pts/</guid>
+      <guid>http://localhost:54321/posts/strategy/pts/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;ストップ安2連続目の銘柄に逆張りロング&lt;/b&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/24（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/24/</link>
+      <link>http://localhost:54321/posts/log/10/24/</link>
       <pubDate>Fri, 24 Oct 2025 15:35:01 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/24/</guid>
+      <guid>http://localhost:54321/posts/log/10/24/</guid>
       
       <description>&lt;p&gt;+4,922円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -39,44 +151,45 @@
 &lt;p&gt;[6330]&lt;br&gt;
 まず、前場は出来高が異様に少なくなっていたのでやりづらかった。&lt;br&gt;
 一回ぶん投げショートに追撃成行売りかまして10~20tickとるチャンスを逃したけどまあ悪くはなかったかな。&lt;br&gt;
-ただ、朝一に下に言ってからプラ転してきた時に昨日のように動意づく可能性を考慮してロングしたがハズレ。&lt;br&gt;
+ただ、朝一に下に行ってからプラ転してきた時に昨日のように動意づく可能性を考慮してロングしたがハズレ。&lt;br&gt;
 これは明確に原因がある。&lt;br&gt;
-昨日の後場のプラ転で動意づいたのはまず、朝の爆裂大陰線で安値県を推移していたのに後場にプラ転してきたということと、出来高をしっかり伴っていたということ。&lt;br&gt;
+昨日の後場のプラ転で動意づいたのはまず、朝の爆裂大陰線で安値圏を推移していたのに後場にプラ転してきたということと、出来高をしっかり伴っていたということ。&lt;br&gt;
 今回は、出来高はともなっておらず（これから伴ってくる可能性もあるが）、プラ転して10秒くらい眺めても上を買ってこないのでやっぱり昨日よりかなり弱いセットアップ。&lt;br&gt;
 ということは、ここでショートだろ。普通に。&lt;br&gt;
 これは反省。&lt;br&gt;
 一つの事象だけで昨日と同じと考えるのではなく、同じ事象が発生してもそれに対してリアクションがなければ弱い（強くないということは弱いということ）。&lt;br&gt;
 これは脳に刻み込む。&lt;/p&gt;
-&lt;p&gt;で、何よりも反省しなければいけないのはチャートを見ると明らかなように意識されている2日間の三角保ちあいの下抜け陰線確定＋出来高も伴っている。&lt;br&gt;
-ここで普通に日足結構高値圏＋下落のセットアップ（出来高を伴った台形戦略 or 三角下抜け）確定で普通にショートすればよかった。&lt;br&gt;
+&lt;p&gt;で、何よりも反省しなければいけないのはチャートを見ると明らかなように、意識されている2日間の三角保ちあいの下抜け陰線確定＋出来高増加でショートだろ。&lt;br&gt;
+日足も結構高値圏だしな。&lt;br&gt;
 これ出来なかったのは、次のコマでギリギリまでレベル感の良い所まで引きつけようとしたのが原因。&lt;br&gt;
 普通に下抜けラインに近づいたら打診で入らないと。&lt;br&gt;
 はあ。まじで一世一代のチャンスに何をやっているんだか。&lt;br&gt;
 金曜の後場は売りがでやすいっていう特徴を忘れているしね。&lt;br&gt;
 頼むぞまじで。&lt;/p&gt;
 &lt;p&gt;下で伸び切ったところでガチャガチャやってもあんまし上手くいかず。&lt;br&gt;
-ただ、下ヒゲ大陰線が連続で発生＋出来高が減少傾向の時に再び2500の明確な節目にチャレンジしてきたロウソク足では普通に入れたな。&lt;br&gt;
-こういう動意づいた時は指値で事前に待ち構えておかないと買えない。&lt;br&gt;
+ただ、下ヒゲ大陰線が連続で発生＋出来高が減少傾向の時に再び2500の明確な節目にチャレンジしてきたロウソク足ではロングできたよな。&lt;br&gt;
+こういう動意づいた時は指値で事前に待ち構えておかないと買えないからな。&lt;br&gt;
 出来高とチャートをしっかり分析するとチャンスは自ずと見えてくるもんなんだと脳に刻め。&lt;br&gt;
-今日の安値更新のところでもショート1枚追加したかったけどできなかった。&lt;br&gt;
+週末に振り返ったらわかったんだが、これ日足の5MAのところじゃん。どう考えてもチャンスだった。&lt;/p&gt;
+&lt;p&gt;あと、今日の安値更新のところでもショート1枚追加したかったけどできなかった。&lt;br&gt;
 これは、最初に最高のレベル感でショートできたチャンスを逃してしまい、ここで入るのに躊躇したから。&lt;br&gt;
 大事なのはさっきどうだったかではなくて、これからどうなるかだろ。&lt;br&gt;
 これから下がると考えられるのであればしっかり入らないと。&lt;br&gt;
 前場は決断力を持って判断できていたのにな。&lt;br&gt;
 反省しなさい。&lt;/p&gt;
 &lt;p&gt;あと、日計りでショートを間違えて2回ほど入ってしまい、手数料に1700円も支払ってしまっている。&lt;br&gt;
-今の自分は数千円勝ち続けるくらいの実力しかないのだから特に手数料には慎重になろう。&lt;br&gt;
+今の自分は数千円勝つのがやっとなのだから特に手数料には慎重になろう。&lt;br&gt;
 せっかく、ゼロ革命のおかげで制度信用で何度も回転ショートできるんだから。&lt;br&gt;
 これ気づいている人そんなに多くなさそうだしね。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;[4418]&lt;br&gt;
 監視銘柄にいれていたJDSC。&lt;br&gt;
-普通に非明日高値圏で昨日からの流れを組めば美しいほどの台形戦略適用可能場面。&lt;br&gt;
+普通に日足が高値圏で昨日からの流れを組めば美しいほどの台形戦略適用可能場面。&lt;br&gt;
 しかも朝の歪みのお陰でレベル感も最高のところでエントリーできる。&lt;br&gt;
 自分の数少ない期待値の高いチャートレ適用可能場面を見逃してはいけない。&lt;br&gt;
 見逃し防止のためには、やっぱり監視銘柄を絞ることが必要。&lt;br&gt;
@@ -85,17 +198,17 @@ QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリ�
 この流れを必ず行う。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4418/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4418/1024-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/23（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/23/</link>
+      <link>http://localhost:54321/posts/log/10/23/</link>
       <pubDate>Thu, 23 Oct 2025 17:05:51 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/23/</guid>
+      <guid>http://localhost:54321/posts/log/10/23/</guid>
       
       <description>&lt;p&gt;-7,690円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -125,11 +238,11 @@ QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリ�
 明日は、「ロング・レベル感・チャートと板に素直に」を意識して再チャレンジ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1023-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1023-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1023-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;100&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1023-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;100&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -138,10 +251,10 @@ QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリ�
     
     <item>
       <title>10/22（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/22/</link>
+      <link>http://localhost:54321/posts/log/10/22/</link>
       <pubDate>Wed, 22 Oct 2025 15:33:13 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/22/</guid>
+      <guid>http://localhost:54321/posts/log/10/22/</guid>
       
       <description>&lt;p&gt;+8,260円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -181,11 +294,11 @@ QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリ�
 今までチャートだけで何となく下げ止まったっしょでエントリーしてたけど、これは根拠としては弱いぞ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1022-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1022-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1022-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1022-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -194,10 +307,10 @@ QPSとかサンバイオとかも魅力だけど今は東洋エンジニアリ�
     
     <item>
       <title>10/21（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/21/</link>
+      <link>http://localhost:54321/posts/log/10/21/</link>
       <pubDate>Tue, 21 Oct 2025 15:33:03 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/21/</guid>
+      <guid>http://localhost:54321/posts/log/10/21/</guid>
       
       <description>&lt;p&gt;+8,440円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -261,17 +374,17 @@ JX金属の時とは違って、あくまで先物主導のアルゴ売りなの
 かなり上振れて引けたけど、クロオクを利用した勝ち方はまだよくわからない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/1021-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6330/1021-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/20（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/20/</link>
+      <link>http://localhost:54321/posts/log/10/20/</link>
       <pubDate>Mon, 20 Oct 2025 18:09:50 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/20/</guid>
+      <guid>http://localhost:54321/posts/log/10/20/</guid>
       
       <description>&lt;p&gt;-8,150円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -307,11 +420,11 @@ JX金属の時とは違って、あくまで先物主導のアルゴ売りなの
 やってはいけないトレードにいれてしっかり反省。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3853/1020-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3853/1020-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3853/1020-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3853/1020-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -328,17 +441,17 @@ GUからはじまって落ちてきた所を拾うと事前に考えていたの
 本当に弱くて強く下げるようなら入り直せばいいだけのこと。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7003/1020-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7003/1020-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>生き残りのディーリング</title>
-      <link>http://localhost:1313/posts/strategy/dealing/</link>
+      <link>http://localhost:54321/posts/strategy/dealing/</link>
       <pubDate>Sun, 19 Oct 2025 12:34:59 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/dealing/</guid>
+      <guid>http://localhost:54321/posts/strategy/dealing/</guid>
       
       <description>&lt;p&gt;お金で幸せになりたいのなら、幸せになる方法で、お金を増やさねばなりません。&lt;br&gt;
 相場でお金を儲けるにも、幸福感の味わえるやり方を見つける必要があります。&lt;br&gt;
@@ -402,17 +515,17 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 相場は投資を横糸に、投機を経糸に編み上げる、タペストリーのようなものと言えるのです。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/15（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/15/</link>
+      <link>http://localhost:54321/posts/log/10/15/</link>
       <pubDate>Wed, 15 Oct 2025 14:51:52 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/15/</guid>
+      <guid>http://localhost:54321/posts/log/10/15/</guid>
       
       <description>&lt;p&gt;+5,000円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -436,11 +549,11 @@ GUして寄り付いた分、上値は重くなるけど、日足の下値リス
 朝一で色んな銘柄の気配値を見ようとするとこうやって見逃しが発生するので、とにかく絞って見よう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3697/1015-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3697/1015-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3697/1015-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3697/1015-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -451,11 +564,11 @@ GUして寄り付いた分、上値は重くなるけど、日足の下値リス
 材料もSBI証券との提携という好材料先週出ている銘柄なので、完全な仕手株ではないので自信を持って入る。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4571/1015-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4571/1015-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4571/1015-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4571/1015-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -464,10 +577,10 @@ GUして寄り付いた分、上値は重くなるけど、日足の下値リス
     
     <item>
       <title>10/14（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/14/</link>
+      <link>http://localhost:54321/posts/log/10/14/</link>
       <pubDate>Tue, 14 Oct 2025 15:25:13 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/14/</guid>
+      <guid>http://localhost:54321/posts/log/10/14/</guid>
       
       <description>&lt;p&gt;-16,700円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -499,11 +612,11 @@ tickで機械的に行うのではなく、ここは裁量判断力を向上さ�
 資金がなくなっていくのが怖くて、打診で入ることができなくなってしまっている。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7711/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7711/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7711/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7711/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -516,17 +629,17 @@ GD幅は4.5%だから悪くなかったな。&lt;br&gt;
 塾長もSuさんもLiberaの寄り凸で勝負して利益をしっかり出せているので、考え方は合っている。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/218A/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/218A/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/10（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/10/</link>
+      <link>http://localhost:54321/posts/log/10/10/</link>
       <pubDate>Sat, 11 Oct 2025 14:48:15 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/10/</guid>
+      <guid>http://localhost:54321/posts/log/10/10/</guid>
       
       <description>&lt;p&gt;+5,780円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -547,10 +660,10 @@ GD幅は4.5%だから悪くなかったな。&lt;br&gt;
     
     <item>
       <title>10/9（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/09/</link>
+      <link>http://localhost:54321/posts/log/10/09/</link>
       <pubDate>Thu, 09 Oct 2025 15:34:59 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/09/</guid>
+      <guid>http://localhost:54321/posts/log/10/09/</guid>
       
       <description>&lt;p&gt;-278円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -587,11 +700,11 @@ GUした好材料銘柄で日足の5MAと重なる瞬間だから。&lt;br&gt;
 3桁銘柄で材料銘柄の方が相性がいいのかもしれない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4571/1009-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4571/1009-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4571/1009-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4571/1009-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -606,17 +719,17 @@ GUした好材料銘柄で日足の5MAと重なる瞬間だから。&lt;br&gt;
 逆Vと台形戦略適用可能場面だけをトレードして細かく利益を積み重ねていくことが結局、一番確実かもしれない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/409A/1009-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/409A/1009-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>10/8（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/08/</link>
+      <link>http://localhost:54321/posts/log/10/08/</link>
       <pubDate>Wed, 08 Oct 2025 15:37:23 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/08/</guid>
+      <guid>http://localhost:54321/posts/log/10/08/</guid>
       
       <description>&lt;p&gt;-33,100円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -649,10 +762,10 @@ JX金属もそうだし、今日の助川にしても自分で考えたらすぐ
     
     <item>
       <title>10/7（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/07/</link>
+      <link>http://localhost:54321/posts/log/10/07/</link>
       <pubDate>Tue, 07 Oct 2025 17:45:57 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/07/</guid>
+      <guid>http://localhost:54321/posts/log/10/07/</guid>
       
       <description>&lt;p&gt;+1,900円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -681,11 +794,11 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
 こういうアルゴも含めてぶっ壊れた時は上には戻せないと判断してショートで入るようにしよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5016/1007-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5016/1007-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5016/1007-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5016/1007-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -698,7 +811,7 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
 おそらく、一回下まで行き過ぎたのでアルゴの買い戻しが発動して上に戻るけど、一定程度までもどしてからはアルゴの買いの期待値が低くなるので、そこからは再び下にいくという感じか。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/1007-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/1007-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -716,10 +829,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>10/6（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/06/</link>
+      <link>http://localhost:54321/posts/log/10/06/</link>
       <pubDate>Tue, 07 Oct 2025 00:32:49 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/06/</guid>
+      <guid>http://localhost:54321/posts/log/10/06/</guid>
       
       <description>&lt;p&gt;+2,460円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -750,10 +863,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>10/3（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/03/</link>
+      <link>http://localhost:54321/posts/log/10/03/</link>
       <pubDate>Sun, 05 Oct 2025 12:44:41 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/03/</guid>
+      <guid>http://localhost:54321/posts/log/10/03/</guid>
       
       <description>&lt;p&gt;+19,224円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -795,11 +908,11 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
 やっぱりチャートでトレードしたほうが自分に向いているのかなあ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3498/1003-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3498/1003-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3498/1003-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3498/1003-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -821,10 +934,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>10/2（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/02/</link>
+      <link>http://localhost:54321/posts/log/10/02/</link>
       <pubDate>Thu, 02 Oct 2025 15:26:44 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/02/</guid>
+      <guid>http://localhost:54321/posts/log/10/02/</guid>
       
       <description>&lt;p&gt;-9,350円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -872,10 +985,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>10/1（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/10/01/</link>
+      <link>http://localhost:54321/posts/log/10/01/</link>
       <pubDate>Wed, 01 Oct 2025 20:42:37 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/10/01/</guid>
+      <guid>http://localhost:54321/posts/log/10/01/</guid>
       
       <description>&lt;p&gt;-30,340円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -943,17 +1056,17 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
 &lt;p&gt;利用した考え方は、高値更新しそうなタイミング＋出来高増加で成行ロング・チャートの押し目買い狙いの買い指値・安値リバウンド期待買い指値・逆張り買いアルゴ狙いのレジサポライン上または押し安値上戦略・ラインブレイク戦略・上昇トレンドが崩れた後の当日の安値ギチギチに指値待ち戦略。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4446/1001-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4446/1001-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>9/30（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/30/</link>
+      <link>http://localhost:54321/posts/log/09/30/</link>
       <pubDate>Tue, 30 Sep 2025 20:05:52 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/30/</guid>
+      <guid>http://localhost:54321/posts/log/09/30/</guid>
       
       <description>&lt;p&gt;-25,890円&lt;/p&gt;
 &lt;p&gt;9月の収支：+19,165円&lt;/p&gt;
@@ -995,10 +1108,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>9/29（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/29/</link>
+      <link>http://localhost:54321/posts/log/09/29/</link>
       <pubDate>Mon, 29 Sep 2025 17:58:41 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/29/</guid>
+      <guid>http://localhost:54321/posts/log/09/29/</guid>
       
       <description>&lt;p&gt;+1,380円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1032,10 +1145,10 @@ FFRIの逆V戦略は置いていかれたのにビビって悪いエントリー
     
     <item>
       <title>9/26（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/26/</link>
+      <link>http://localhost:54321/posts/log/09/26/</link>
       <pubDate>Sat, 27 Sep 2025 09:50:04 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/26/</guid>
+      <guid>http://localhost:54321/posts/log/09/26/</guid>
       
       <description>&lt;p&gt;+9,870円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1084,23 +1197,23 @@ IFD注文で10~20tick狙いのスキャはできそうですね。&lt;/p&gt;
 先手・先手で後手に回る市場参加者から利益を集めるのが板読みスキャルピングの真髄なのかもしれない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/409A/0926-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/409A/0926-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/409A/0926-ayumine2.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;180&#34; height=&#34;200&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/409A/0926-ayumine2.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;180&#34; height=&#34;200&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値1&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>けむ。の板読みデイトレード術</title>
-      <link>http://localhost:1313/posts/strategy/kemu/</link>
+      <link>http://localhost:54321/posts/strategy/kemu/</link>
       <pubDate>Thu, 25 Sep 2025 17:03:48 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/kemu/</guid>
+      <guid>http://localhost:54321/posts/strategy/kemu/</guid>
       
       <description>&lt;p&gt;バイブルと言えるような本に出会った。&lt;br&gt;
 大海原のどちらに進めがいいか見当もつかずにもがいていた自分が最近決めた方角が間違ってないと後押ししてくれるような本。&lt;br&gt;
@@ -1160,10 +1273,10 @@ IFD注文で10~20tick狙いのスキャはできそうですね。&lt;/p&gt;
     
     <item>
       <title>9/25（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/25/</link>
+      <link>http://localhost:54321/posts/log/09/25/</link>
       <pubDate>Thu, 25 Sep 2025 13:49:41 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/25/</guid>
+      <guid>http://localhost:54321/posts/log/09/25/</guid>
       
       <description>&lt;p&gt;+3,300円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1195,11 +1308,11 @@ IFD注文で10~20tick狙いのスキャはできそうですね。&lt;/p&gt;
 この後分析するサンリオもそうだが、朝一の上下に強く歪む時は指値ビタビタだと届かずに取り逃がすことが勿体ないので、引き付けすぎない程度に買っていくようにしてみよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0925-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0925-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0925-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0925-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足（前場）&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1233,10 +1346,10 @@ IFD注文で10~20tick狙いのスキャはできそうですね。&lt;/p&gt;
     
     <item>
       <title>9/24（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/24/</link>
+      <link>http://localhost:54321/posts/log/09/24/</link>
       <pubDate>Wed, 24 Sep 2025 17:03:05 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/24/</guid>
+      <guid>http://localhost:54321/posts/log/09/24/</guid>
       
       <description>&lt;p&gt;+4,970円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1264,11 +1377,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 監視銘柄は絞っているのだから材料や突発的な値動きの発生を見過ごさないように環境設定を改めないといけない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7746/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0924-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7746/0924-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1285,17 +1398,17 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 十分に落ちてきたと考えられる銘柄が他にあったら、似たような場面で入ってみよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/8136/0924-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>9/22（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/22/</link>
+      <link>http://localhost:54321/posts/log/09/22/</link>
       <pubDate>Mon, 22 Sep 2025 19:09:17 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/22/</guid>
+      <guid>http://localhost:54321/posts/log/09/22/</guid>
       
       <description>&lt;p&gt;-8,000円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1327,7 +1440,7 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 波乗りロングする場合は、建玉の益出しを引っ張るルールとして1分足の5MAを割値でわられるタイミングってのが一つよさそう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0922-1minute1.png&#34; alt=&#34;板読み戦略の1分足&#34; width=&#34;600&#34; height=&#34;700&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0922-1minute1.png&#34; alt=&#34;板読み戦略の1分足&#34; width=&#34;600&#34; height=&#34;700&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足（前場）&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1352,32 +1465,32 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 今日はとりあえず、二階堂さんのリバ戦略でとっているやり方がわからないけど、自分なりにこうじゃないかなと思って色々とやってみた。&lt;br&gt;
 このデーセクで得られた知見をリバウンド戦略の記事に盛り込んで水曜日以降試していこう。&lt;/p&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0922-1minute2.png&#34; alt=&#34;板読み戦略の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0922-1minute2.png&#34; alt=&#34;板読み戦略の1分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足（後場）&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0922-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0922-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足（1日）&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title> 9/17（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/17/</link>
+      <link>http://localhost:54321/posts/log/09/17/</link>
       <pubDate>Sun, 21 Sep 2025 06:24:02 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/17/</guid>
+      <guid>http://localhost:54321/posts/log/09/17/</guid>
       
       <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;旅行中のため、板を見て気づいたことを羅列。&lt;/p&gt;
 &lt;p&gt;デーセクより、2200の節目を割れて逆指値が発動して売りが大量に出て下に大きく歪む瞬間を狙ったリバウンド戦略。チャートが逆POになる時や、5分足の押し安値をわった後の（上昇トレンドチャートが崩れた後）場合は、想像以上に引き付ける必要がある。こういう銘柄は強く下げた後はしっかりリバってくれることが多いのでホールドしてれば今回も強く勝てたが、含み損になる時間が10秒以上発生すると私の精神的に合わないので、よりリスクを下げるために、今回であれば1分足の1つ目の押し安値上で待つ戦略だったので、できるだけ引き付ける。チャートが崩れていない状態の時は押し安値近くまで落ちずに少し上で反発することが多いので指値を少し上に設定し、下落局面やチャートが崩れた時はできるだけ引き付けるようにリバウンドの位置を工夫する。結果、10,000円とれていたトレードだったから、かなり狙いとしては素晴らしいぞ！！もう一つの反省点は、2150わったら投げようと考えていたが、わらなかったのにも関わらず、ビビって早く利確してしまった。けむの板読みトレードから学んだようにトレードには一貫性を持たせないと期待値に収束しない。その場の感情で変えるのではなく、プラン通りに行うことが必要。しかし、2150わったら強くまた下に下げる場面ではあるので、こういう場面ではやっぱり引き付けた方がいいな。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0917-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0917-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0917-5minutes.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0917-5minutes.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -1386,10 +1499,10 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     
     <item>
       <title>9/16（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/16/</link>
+      <link>http://localhost:54321/posts/log/09/16/</link>
       <pubDate>Sun, 21 Sep 2025 06:23:51 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/16/</guid>
+      <guid>http://localhost:54321/posts/log/09/16/</guid>
       
       <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;旅行中のため板を見て気づいたことを羅列。&lt;/p&gt;
@@ -1397,11 +1510,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 デーセクより、板を見ているとリバウンドしてから一度落とされたあと、定期的に今日の始値あたりまできてから下に落とされ、しばらくしたら下で成行買いが強く入って、また小口の買いで始値まで近づいたら下に中口の売りで落ちて、また拾い集める存在がいてというループだった。これは、おそらくだが、大口の拾い集めだと推測できる。で、一度始値を上にブレイクする動きが発生、これはおそらく大口の仕掛けだと思われる。ぶち買いほどではないが、一旦10tickくらい上に上げて様子を見ている感じ。十数秒いったり来たりした後に、おそらく他の市場参加者（中口）の買いが上に続き、一気に上に上がった。この時点で1880あたり。ここからは小口の買いも集まり始め、1920まで上昇。そのあと、他の中口の買いが続き高値を更新していった。 その後、超絶節目の2000まで上昇していき（最初の大口は捌いている側っぽい）、2011まで上昇したあとに下に一回強く下落した。ジャンピングキャッチがだめな理由は、最後の2000突破という一見すると強く感じる場面でも最初の大口は売り側だし、アーリーアダプターの中口も売り側だし、遅く参加した中口や小口たちも2000あたりで売り側になり、買い側についているのは最後にとびつく小口しかいないという状況なので、力関係的に勝てるわけがないからである。1分足を見ていると、高値切り下げ三角ラインを上にブレイクしたあとに強く上に跳ねているが、板をずっと見ていると「買い優勢に変わったな」と感じれる瞬間がより早く、市場参加者のそれぞれの思惑も踏まえて判断することができるようになるためにチャート単独では感じることができない裏側まで把握することができる。これが板読みが有利と考えられる真髄。板読み的にも強気に転換したタイミングが1分足のチャートでも強気転換シグナル発生のタイミングのため、板GO・チャートGOの場合は強気に攻める。最初の大口の拾い集めを狙って同じタイミングで集められるとベストだけど、他の大口に下に成行売りされる可能性も考慮すると、拾い集めの後のアーリーアダプターの中口と同じタイミングで入れるようになることが良い気がする。デーセクに関しては2連ストップ安でかなり下値余地が少ない状況だったので、ぶん投げ売りも出にくい状況だったし、かなり満貫だったな。一つ一つのチャートパターンだけで勝てるようにならないのはそこに優位性が生まれづらいからである。長いレンジの下抜け戦略のようにチャートが明らかに市場心理と直結する場合のみはチャートパターンだけで通用しやすいが、その他の場合は板から読み取れる市場心理に集中することが優位性が生じる要因だと学んだ。だからこそ、自分は多くの銘柄を監視するのは向いていないのでSGひーこさんのように3銘柄ピックしといて、基本一つに集中するというやり方が向いている気がする。ただ、デーセクに関しては9:30以降の少し落ち着いたタイミングでの板読みは可能だったが、最初の激しい攻防の時は全然わからないのが現状なので、寄り付き30分の板読みが課題だな。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0916-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0916-1minute.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1409,11 +1522,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 でも、日足の昨日までの状況を見ると調整しそうな感じなので、環境認識的にはエントリーは微妙だな。小ロットで打診買いで入るに留めよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1421,21 +1534,21 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 板を見てみないとなんとも言えないが、朝からかなり一方的に下げらててきたタイミングかつ、日足的にもかなり戻されたタイミングなので、リバを狙える場面。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/8136/0916-5minutes.png&#34; alt=&#34;板読み戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/8136/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/8136/0916-day.png&#34; alt=&#34;板読み戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>環境認識を用いたトレード戦略</title>
-      <link>http://localhost:1313/posts/strategy/hiasi/</link>
+      <link>http://localhost:54321/posts/strategy/hiasi/</link>
       <pubDate>Sun, 14 Sep 2025 16:50:52 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/hiasi/</guid>
+      <guid>http://localhost:54321/posts/strategy/hiasi/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;日足の明確なシグナルから1日の方向感にbetする&lt;/b&gt;&lt;br&gt;
 日足のトレンドと逆行する、朝一の&lt;span style=&#34;color: red;&#34;&gt;「大陽線・大陰線の是正」&lt;/span&gt;による反発を狙う&lt;/p&gt;</description>
@@ -1444,10 +1557,10 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     
     <item>
       <title>9/12（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/12/</link>
+      <link>http://localhost:54321/posts/log/09/12/</link>
       <pubDate>Fri, 12 Sep 2025 15:31:35 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/12/</guid>
+      <guid>http://localhost:54321/posts/log/09/12/</guid>
       
       <description>&lt;p&gt;+5,000円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1469,11 +1582,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 よっぽど板が弱くて上がらなそうであればいいけど、勿体ないことしたね。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1487,11 +1600,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 これは完全に逆指値刈りを狙われた立場なので、どうすればよかったかを動画をみて思ったことをあとで追記する。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/215A/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/215A/0912-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/215A/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/215A/0912-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1508,10 +1621,10 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     
     <item>
       <title>9/11（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/11/</link>
+      <link>http://localhost:54321/posts/log/09/11/</link>
       <pubDate>Thu, 11 Sep 2025 17:13:01 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/11/</guid>
+      <guid>http://localhost:54321/posts/log/09/11/</guid>
       
       <description>&lt;p&gt;-30,300円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1546,11 +1659,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 チャートパターンだけで反転してくれるかどうか判断するのは難しいので、反転する位置を録画でとって動き方を学ばないことには確率は上がらない気がする。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3656/0911-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3656/0911-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3656/0911-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3656/0911-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1584,10 +1697,10 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     
     <item>
       <title>9/10（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/10/</link>
+      <link>http://localhost:54321/posts/log/09/10/</link>
       <pubDate>Thu, 11 Sep 2025 17:12:52 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/10/</guid>
+      <guid>http://localhost:54321/posts/log/09/10/</guid>
       
       <description>&lt;p&gt;+26,921円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1621,11 +1734,11 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 こういう場面での板や歩み値の状況を次きたら必ず録画し、反転ポイントでの動き方を見て勉強しよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0910-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0910-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4506/0910-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4506/0910-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -1634,10 +1747,10 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     
     <item>
       <title>9/9（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/09/</link>
+      <link>http://localhost:54321/posts/log/09/09/</link>
       <pubDate>Tue, 09 Sep 2025 15:38:03 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/09/</guid>
+      <guid>http://localhost:54321/posts/log/09/09/</guid>
       
       <description>&lt;p&gt;+22,260円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1656,7 +1769,7 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 つまり、押し安値上リバウンド戦略は、明確に上昇トレンドが発生している際は機能する戦略だが、高値の切り上げが失敗した可能性が生じた時は必ず注文を取り消そう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1666,7 +1779,7 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 このとてつもない下げは先物クッソ下がったことによるものなので、とるのはむずいけど、逆Vとそこからの戻り売りって本当に優位性高い手法なのかもしれない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5803/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5803/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1691,17 +1804,17 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 これできたらマジで優秀よ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7746/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7746/0909-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>9/8（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/08/</link>
+      <link>http://localhost:54321/posts/log/09/08/</link>
       <pubDate>Mon, 08 Sep 2025 17:27:54 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/08/</guid>
+      <guid>http://localhost:54321/posts/log/09/08/</guid>
       
       <description>&lt;p&gt;+12,374円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1726,11 +1839,11 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
 精神的にはかなりドキドキしたが、やっぱり逆Vの成功率の高さを感じられたトレードだった。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3692/0908-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3692/0908-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3692/0908-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3692/0908-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1748,21 +1861,21 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
 日足と5分足と板の雰囲気と全ての方向感が一致するタイミングは負けてもしゃーないから入ろう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4833/0908-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4833/0908-5minutes.png&#34; alt=&#34;リバウンド戦略の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4833/0908-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4833/0908-day.png&#34; alt=&#34;リバウンド戦略の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ラインブレイク戦略</title>
-      <link>http://localhost:1313/posts/strategy/longbreak/</link>
+      <link>http://localhost:54321/posts/strategy/longbreak/</link>
       <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/longbreak/</guid>
+      <guid>http://localhost:54321/posts/strategy/longbreak/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;高値切り下げラインを確定足でブレイクしたらロング&lt;/b&gt;&lt;br&gt;
 上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有名なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;/p&gt;</description>
@@ -1771,10 +1884,10 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     
     <item>
       <title>リバウンド戦略（ロウソク足パターン・検証中）</title>
-      <link>http://localhost:1313/posts/strategy/rebound3/</link>
+      <link>http://localhost:54321/posts/strategy/rebound3/</link>
       <pubDate>Sun, 07 Sep 2025 08:56:10 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound3/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound3/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;リバウンドパターンでロング&lt;/b&gt;&lt;br&gt;
 &lt;span style=&#34;color: red;&#34;&gt;「多くの市場参加者の考えるロウソク足パターン」&lt;/span&gt;と同じ解釈をして流れに乗る&lt;/p&gt;</description>
@@ -1783,10 +1896,10 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     
     <item>
       <title>リバウンド戦略（スキャ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound2/</link>
+      <link>http://localhost:54321/posts/strategy/rebound2/</link>
       <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound2/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound2/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;上昇トレンド中の押し安値上でロング&lt;/b&gt;&lt;br&gt;
 相対的な安さが演出される場面での&lt;span style=&#34;color: red;&#34;&gt;「逆張り勢（アルゴ）の買い」&lt;/span&gt;を狙う&lt;/p&gt;</description>
@@ -1795,10 +1908,10 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     
     <item>
       <title>9/5（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/05/</link>
+      <link>http://localhost:54321/posts/log/09/05/</link>
       <pubDate>Sat, 06 Sep 2025 11:03:38 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/05/</guid>
+      <guid>http://localhost:54321/posts/log/09/05/</guid>
       
       <description>&lt;p&gt;+650円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1815,11 +1928,11 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
 利伸ばしが強く期待できる場面では利大を狙わないと資産は増えていかないぞ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0905-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0905-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0905-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;150&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0905-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;150&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1838,11 +1951,11 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
 来週の月曜日の値動きがどうなるか注目しよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0905-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0905-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0905-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;150&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0905-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;150&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -1851,10 +1964,10 @@ GUして日足は高値圏なので、値幅は大きめだけどエントリー
     
     <item>
       <title>9/4（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/04/</link>
+      <link>http://localhost:54321/posts/log/09/04/</link>
       <pubDate>Thu, 04 Sep 2025 15:55:32 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/04/</guid>
+      <guid>http://localhost:54321/posts/log/09/04/</guid>
       
       <description>&lt;p&gt;-12,730円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1881,11 +1994,11 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
 エントリー時の損切りラインより先に逃げるのは機会損失でしかないから本当に治療しないといけない。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0904-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0904-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1910,17 +2023,17 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
 リバウンド戦略適応可能場面を最近、上手くいった例から言語化して、言語化できた場面でのみ入って期待値を集計しよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;450&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>やってはいけないトレード</title>
-      <link>http://localhost:1313/posts/strategy/reflection/</link>
+      <link>http://localhost:54321/posts/strategy/reflection/</link>
       <pubDate>Wed, 03 Sep 2025 21:21:04 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/reflection/</guid>
+      <guid>http://localhost:54321/posts/strategy/reflection/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;[4596]&lt;br&gt;
@@ -1932,7 +2045,7 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1944,11 +2057,11 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -1957,10 +2070,10 @@ Xを見ても安定して勝てている人たちもかなり負けている。&
     
     <item>
       <title>9/3（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/03/</link>
+      <link>http://localhost:54321/posts/log/09/03/</link>
       <pubDate>Wed, 03 Sep 2025 15:26:56 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/03/</guid>
+      <guid>http://localhost:54321/posts/log/09/03/</guid>
       
       <description>&lt;p&gt;+820円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -1978,7 +2091,7 @@ Xを見ても今日は負けていたり利益を取れていない人が多そ�
 次の大陽線は下ヒゲつけてないから、多分この組み合わせは同じように考える市場参加者が多いのではないかしら。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4833/0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4833/0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1992,11 +2105,11 @@ Xを見ても今日は負けていたり利益を取れていない人が多そ�
 下がってきたら同値撤退すればいい。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4596/0903-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4596/0903-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2022,10 +2135,10 @@ Xを見ても今日は負けていたり利益を取れていない人が多そ�
     
     <item>
       <title>二階堂さんのデイトレ戦略</title>
-      <link>http://localhost:1313/posts/strategy/nikaido/</link>
+      <link>http://localhost:54321/posts/strategy/nikaido/</link>
       <pubDate>Wed, 03 Sep 2025 00:16:38 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/nikaido/</guid>
+      <guid>http://localhost:54321/posts/strategy/nikaido/</guid>
       
       <description>&lt;p&gt;寄り付きからの30分間でその日の収入が決まる&lt;br&gt;
 デイトレで大きく稼ぎたいのであれば、この時間帯に大きく稼げるスキルを身につける必要がある&lt;br&gt;
@@ -2079,17 +2192,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 と同時に「明日、上昇の流れが継続されるなら、乗っていこう」と思った。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>9/2（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/02/</link>
+      <link>http://localhost:54321/posts/log/09/02/</link>
       <pubDate>Tue, 02 Sep 2025 15:35:29 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/02/</guid>
+      <guid>http://localhost:54321/posts/log/09/02/</guid>
       
       <description>&lt;p&gt;+7,200円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2127,11 +2240,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 今はどういう状況なのか、なぜ買われているのか・売られているのかということをしっかり分析することで値動きの少ない中でも次の一手が見えてくるようになるのかなと思う。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0902-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0902-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0902-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0902-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2145,17 +2258,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 日足の形もいいし、5分足もきれいに上がっていったので、明日の監視筆頭銘柄としてよさそうだな。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0902-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0902-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>9/1（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/09/01/</link>
+      <link>http://localhost:54321/posts/log/09/01/</link>
       <pubDate>Mon, 01 Sep 2025 20:24:10 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/09/01/</guid>
+      <guid>http://localhost:54321/posts/log/09/01/</guid>
       
       <description>&lt;p&gt;-1,840円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2177,11 +2290,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 しかし、これはあくまで本番ではない冷静さがある中で決断力Maxという最大ポテンシャル発揮時の利益になるので、明日から本番トレードに戻った時に同じポテンシャルを出せるように損切りの早さを意識して頑張ってみよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0901-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0901-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0901-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0901-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -2190,10 +2303,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/29（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/29/</link>
+      <link>http://localhost:54321/posts/log/08/29/</link>
       <pubDate>Fri, 29 Aug 2025 13:38:54 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/29/</guid>
+      <guid>http://localhost:54321/posts/log/08/29/</guid>
       
       <description>&lt;p&gt;+4,210円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2227,31 +2340,31 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 こういう急騰からの下落銘柄は強くリバウンドすることが多いので、下値リスクの低い状況でロングを仕込む戦略（まさに二階堂さんのやり方）は勝率が高そう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0829-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0829-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0829-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0829-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0829-ayumine1.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0829-ayumine1.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値1&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0829-ayumine2.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0829-ayumine2.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値2&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>8/28（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/28/</link>
+      <link>http://localhost:54321/posts/log/08/28/</link>
       <pubDate>Thu, 28 Aug 2025 15:52:35 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/28/</guid>
+      <guid>http://localhost:54321/posts/log/08/28/</guid>
       
       <description>&lt;p&gt;+18,660円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2286,11 +2399,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 &amp;ldquo;二階堂さん&amp;quot;や&amp;quot;らんまるさん&amp;quot;とかとは違うスタンスでも自分にあっているスタンスを選択しないといけないと学んだ。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0828-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0828-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6177/0828-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6177/0828-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -2299,10 +2412,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>リバウンド戦略（デイトレ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound/</link>
+      <link>http://localhost:54321/posts/strategy/rebound/</link>
       <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound/</guid>
+      <guid>http://localhost:54321/posts/strategy/rebound/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大幅に下落し、リバりそうな銘柄にロング&lt;/b&gt;&lt;br&gt;
 大幅な下落の&lt;span style=&#34;color: red;&#34;&gt;「歪み」&lt;/span&gt;の是正を利用する&lt;/p&gt;</description>
@@ -2311,10 +2424,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/27（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/27/</link>
+      <link>http://localhost:54321/posts/log/08/27/</link>
       <pubDate>Wed, 27 Aug 2025 17:25:49 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/27/</guid>
+      <guid>http://localhost:54321/posts/log/08/27/</guid>
       
       <description>&lt;p&gt;-7,590円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2351,7 +2464,7 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 チャートを見てデイトレードをするよりもこちらのほうが2.6っぽくて極めたい。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3853/0827-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3853/0827-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2378,17 +2491,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 こなつさんのスキャ動画でも言ってたけど、下に落ちた歪みの是正を取りに行くという根本の考えは同じな気がする。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7455/0827-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7455/0827-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>8/26（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/26/</link>
+      <link>http://localhost:54321/posts/log/08/26/</link>
       <pubDate>Tue, 26 Aug 2025 22:41:02 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/26/</guid>
+      <guid>http://localhost:54321/posts/log/08/26/</guid>
       
       <description>&lt;p&gt;-4,100円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2427,16 +2540,16 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 教科書パターンだとバカにせずに、地合いが悪く下に行きたい日は、チャートパターンを見て下落すると考える人も多いはずなので、分析さえすればとれるチャンスはあったぜ&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3747/0826-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3747/0826-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足（朝の一部）&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3747/0826-5minutes2.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3747/0826-5minutes2.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足（1日）&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3747/0826-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3747/0826-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2453,10 +2566,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/25（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/25/</link>
+      <link>http://localhost:54321/posts/log/08/25/</link>
       <pubDate>Mon, 25 Aug 2025 23:45:34 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/25/</guid>
+      <guid>http://localhost:54321/posts/log/08/25/</guid>
       
       <description>&lt;p&gt;-32,826円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2488,21 +2601,21 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 これだけでサクッと50,000円抜いてる人がいるのを見ると、メティスに手を出すのがバカバカしい&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3845/0825-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3845/0825-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3845/0825-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3845/0825-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3845/0825-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;350&#34; height=&#34;800&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3845/0825-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;350&#34; height=&#34;800&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3845/0825-ayumine.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;250&#34; height=&#34;800&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3845/0825-ayumine.png&#34; alt=&#34;デイトレ記録の歩み値&#34; width=&#34;250&#34; height=&#34;800&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2516,10 +2629,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/22（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/22/</link>
+      <link>http://localhost:54321/posts/log/08/22/</link>
       <pubDate>Fri, 22 Aug 2025 13:39:45 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/22/</guid>
+      <guid>http://localhost:54321/posts/log/08/22/</guid>
       
       <description>&lt;p&gt;+1,095円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2542,11 +2655,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 板が反発ラインを割るくらいの弱含みしない限りはホールドしよう&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0822-1minute.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0822-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2557,11 +2670,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 ブレイクショート戦略もここからさらに条件をブラッシュアップできそう  
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-1minute2.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0822-1minute2.png&#34; alt=&#34;デイトレ記録の1分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2673/0822-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2673/0822-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2579,10 +2692,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/21（木）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/21/</link>
+      <link>http://localhost:54321/posts/log/08/21/</link>
       <pubDate>Thu, 21 Aug 2025 11:53:06 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/21/</guid>
+      <guid>http://localhost:54321/posts/log/08/21/</guid>
       
       <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;+14,070円&lt;/p&gt;
@@ -2615,16 +2728,16 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 5分足・3分足・1分足の確定足で状況が揃うタイミングのほうが多数の市場参加者を味方につけられるのではないか&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0821-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0821-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0821-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0821-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0821-1minute.png&#34; alt=&#34;デイトレ記録の①分足&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0821-1minute.png&#34; alt=&#34;デイトレ記録の①分足&#34; width=&#34;600&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;1分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2643,17 +2756,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 既に高値圏にいたので少し怖かった。チャンスではあるので次からはロットを下げて入ろう&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3853/0821-1minute.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3853/0821-1minute.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>8/20（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/20/</link>
+      <link>http://localhost:54321/posts/log/08/20/</link>
       <pubDate>Wed, 20 Aug 2025 16:35:11 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/20/</guid>
+      <guid>http://localhost:54321/posts/log/08/20/</guid>
       
       <description>&lt;p&gt;+4,496円&lt;br&gt;
 +2,400円（PTS）&lt;/p&gt;
@@ -2676,10 +2789,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/19（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/19/</link>
+      <link>http://localhost:54321/posts/log/08/19/</link>
       <pubDate>Tue, 19 Aug 2025 14:00:22 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/19/</guid>
+      <guid>http://localhost:54321/posts/log/08/19/</guid>
       
       <description>&lt;p&gt;-17,596円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2717,11 +2830,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 銘柄をあっちこっち見てると分析が甘くなって飛び乗ることが多いので、明日は最大8銘柄として厳選してcheckするようにしてみよう&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3541/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3541/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3541/0819-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3541/0819-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2735,17 +2848,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 同じミスは絶対しないようにしよう&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4017/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4017/0819-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>メモ</title>
-      <link>http://localhost:1313/posts/strategy/memo/</link>
+      <link>http://localhost:54321/posts/strategy/memo/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/memo/</guid>
+      <guid>http://localhost:54321/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
@@ -2774,10 +2887,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/18（月）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/18/</link>
+      <link>http://localhost:54321/posts/log/08/18/</link>
       <pubDate>Mon, 18 Aug 2025 16:28:24 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/18/</guid>
+      <guid>http://localhost:54321/posts/log/08/18/</guid>
       
       <description>&lt;p&gt;+6820円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2806,11 +2919,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 また、途中で90,000株くらいの超大ロットの売り注文が取り消された時があったけど、あれはほぼ100%見せ板で少しでも株価を上げてから売り抜けようとする大口の小賢しい手なのではないかなあ。次に同じようなことがあったら、「あ、大口の売りたいロット数のおおよそはこれくらいか」と考えてみよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2820,21 +2933,21 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 [147A]&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/147A/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/147A/0818-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/147A/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/147A/0818-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>高速イナゴ戦略</title>
-      <link>http://localhost:1313/posts/strategy/inago/</link>
+      <link>http://localhost:54321/posts/strategy/inago/</link>
       <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/inago/</guid>
+      <guid>http://localhost:54321/posts/strategy/inago/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
 大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
@@ -2843,10 +2956,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>Vジェネレート戦略</title>
-      <link>http://localhost:1313/posts/strategy/oshimegai/</link>
+      <link>http://localhost:54321/posts/strategy/oshimegai/</link>
       <pubDate>Sun, 17 Aug 2025 12:24:53 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/oshimegai/</guid>
+      <guid>http://localhost:54321/posts/strategy/oshimegai/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;GUした注目銘柄の押し目でロング&lt;/b&gt;&lt;br&gt;
 注目銘柄の&lt;span style=&#34;color: red;&#34;&gt;「相対的安さ」&lt;/span&gt;によるリバウンド勢の買い圧力を利用する&lt;/p&gt;</description>
@@ -2855,10 +2968,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/15（金）のデモトレード結果</title>
-      <link>http://localhost:1313/posts/log/08/15/</link>
+      <link>http://localhost:54321/posts/log/08/15/</link>
       <pubDate>Sat, 16 Aug 2025 09:24:22 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/15/</guid>
+      <guid>http://localhost:54321/posts/log/08/15/</guid>
       
       <description>&lt;p&gt;[3692]&lt;br&gt;
 貸借銘柄のFFRIセキュリティが8/14にストップ高だったためデモトレ銘柄として採用&lt;/p&gt;
@@ -2876,7 +2989,7 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 全トレード板読みせずにチャートだけで勝てたので、あまり板にこだわりすぎない方がいい事もわかった&lt;br&gt;
 だが板読みを熟練させるとチャートと複合的に分析できるので練習は続ける&lt;/p&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/demo/0815-chart.png&#34; alt=&#34;デモトレ記録のチャート&#34; width=&#34;450&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/demo/0815-chart.png&#34; alt=&#34;デモトレ記録のチャート&#34; width=&#34;450&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -2885,10 +2998,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/14 (木)のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/14/</link>
+      <link>http://localhost:54321/posts/log/08/14/</link>
       <pubDate>Sat, 16 Aug 2025 08:16:39 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/14/</guid>
+      <guid>http://localhost:54321/posts/log/08/14/</guid>
       
       <description>&lt;p&gt;-19,950円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2921,11 +3034,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 予想するのではなく、動いた事実から反応するようなトレードをしないと一生勝てない&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7071/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7071/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/7071/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/7071/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2937,21 +3050,21 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 同じミスを次は繰り返さないようにしよう&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0814-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/5985/0814-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>寄り付き戦略</title>
-      <link>http://localhost:1313/posts/strategy/gd/</link>
+      <link>http://localhost:54321/posts/strategy/gd/</link>
       <pubDate>Wed, 13 Aug 2025 18:37:22 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/gd/</guid>
+      <guid>http://localhost:54321/posts/strategy/gd/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;大幅にGDした銘柄の寄り付きロング&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -2959,10 +3072,10 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>8/13（水）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/13/</link>
+      <link>http://localhost:54321/posts/log/08/13/</link>
       <pubDate>Wed, 13 Aug 2025 14:19:07 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/13/</guid>
+      <guid>http://localhost:54321/posts/log/08/13/</guid>
       
       <description>&lt;p&gt;-15,270円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -2978,11 +3091,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 にしても今回の5000株というロットは明らかに傲慢なので、最初は1000株をロット上限とする&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4586/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4586/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4586/0813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4586/0813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2995,11 +3108,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 流動性が低く板も薄めの銘柄（一人の買いで大きく動かされてしまう）銘柄はそもそも取引候補としてふさわしくないことを学んだ&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4240/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4240/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/4240/0813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/4240/0813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3011,17 +3124,17 @@ GD銘柄の寄り付きロング&lt;br&gt;
 一瞬下落の動きがあるので、寄り付いてから株価が1%下落したら自動的に損切りするルールにするとよさそうだな&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3905/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/3905/0813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>8/12（火）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/12/</link>
+      <link>http://localhost:54321/posts/log/08/12/</link>
       <pubDate>Tue, 12 Aug 2025 16:15:27 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/12/</guid>
+      <guid>http://localhost:54321/posts/log/08/12/</guid>
       
       <description>&lt;p&gt;+1,662円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -3037,11 +3150,11 @@ GD銘柄の寄り付きロング&lt;br&gt;
 むしろトレンドは上昇だから押し目と考えてロングならまだわかるが。何をやっているのか&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/8746/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/8746/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/8746/0812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/8746/0812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3053,11 +3166,11 @@ GD銘柄の寄り付きロング&lt;br&gt;
 寄り付き勝負が怖くて手を出しづらいのであればまずは100株から試していって成功体験を積まないと精神ブレーキが働くので、同じチャンスがきたら最小単位で入るようにする&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/9854/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/9854/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;200&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/9854/0812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/9854/0812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3068,17 +3181,17 @@ GD銘柄の寄り付きロング&lt;br&gt;
 &lt;p&gt;で、ピンクのところは完璧なタイミングで大ロットショートできたのに、直近数回のトレードで損失がでたせいかちきってすぐに利確してしまった。大きな波を捉えた前提のトレードで、完璧なタイミングでエントリーできたのに逃げたというこれぞ正真正銘の最悪なトレード。深く反省しなければならない。期待値に収束させたいのであれば、感情面は排除する必要があることは頭ではわかっているがキモチが追いついてこない現状がある。これはポジションが大きいことが原因なので、慣れるまではチャンスがきたとしてもロットは抑えめにしてできるだけ機械的にトレードするルールにする。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2321/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2321/0812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>8/8（金）のデイトレ結果</title>
-      <link>http://localhost:1313/posts/log/08/08/</link>
+      <link>http://localhost:54321/posts/log/08/08/</link>
       <pubDate>Mon, 11 Aug 2025 16:44:31 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/log/08/08/</guid>
+      <guid>http://localhost:54321/posts/log/08/08/</guid>
       
       <description>&lt;p&gt;＋3,382円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
@@ -3094,11 +3207,11 @@ GD銘柄の寄り付きロング&lt;br&gt;
 何度も繰り返してしまう悪い癖なので何度も見て眼に焼き付ける💢&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6444/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6444/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6444/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/6444/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3116,11 +3229,11 @@ GD銘柄の寄り付きロング&lt;br&gt;
 需給銘柄が日足弱くなりそうな時は引けで売られる可能性が高いのかなあ&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2321/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2321/5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/2321/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
+&lt;img src=&#34;http://localhost:54321/images/dailylog/2321/day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;250&#34; height=&#34;400&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3135,10 +3248,10 @@ GD銘柄の寄り付きロング&lt;br&gt;
     
     <item>
       <title>台形戦略</title>
-      <link>http://localhost:1313/posts/strategy/trapezoid/</link>
+      <link>http://localhost:54321/posts/strategy/trapezoid/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/trapezoid/</guid>
+      <guid>http://localhost:54321/posts/strategy/trapezoid/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;5分足の高値圏のレンジ下抜け確定でショート&lt;/b&gt;&lt;br&gt;
 まだ上がると考えていた市場参加者が&lt;span style=&#34;color: red;&#34;&gt;「一気に含み損になる瞬間」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
@@ -3147,10 +3260,10 @@ GD銘柄の寄り付きロング&lt;br&gt;
     
     <item>
       <title>戻り売り戦略</title>
-      <link>http://localhost:1313/posts/strategy/sell-on-rallies/</link>
+      <link>http://localhost:54321/posts/strategy/sell-on-rallies/</link>
       <pubDate>Sat, 26 Jul 2025 00:32:24 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/sell-on-rallies/</guid>
+      <guid>http://localhost:54321/posts/strategy/sell-on-rallies/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;明確な下落後の戻しでショート&lt;/b&gt;&lt;br&gt;
 損切りできていない&lt;span style=&#34;color: red;&#34;&gt;「戻ったら売ろう勢」&lt;/span&gt;の売り圧を利用する&lt;/p&gt;</description>
@@ -3159,10 +3272,10 @@ GD銘柄の寄り付きロング&lt;br&gt;
     
     <item>
       <title>逆V戦略</title>
-      <link>http://localhost:1313/posts/strategy/reversev/</link>
+      <link>http://localhost:54321/posts/strategy/reversev/</link>
       <pubDate>Wed, 09 Jul 2025 14:07:34 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/reversev/</guid>
+      <guid>http://localhost:54321/posts/strategy/reversev/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;朝一の明確な上昇後の逆V波確定足でショート&lt;/b&gt;&lt;br&gt;
 &lt;span style=&#34;color: red;&#34;&gt;「今日の参加者全員が含み損になるタイミング」&lt;/span&gt;の需給の悪さを利用する&lt;/p&gt;</description>
