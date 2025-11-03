@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>その他 on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:54321/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+    <link>http://localhost:64540/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 19 Oct 2025 12:34:59 +0900</lastBuildDate><atom:link href="http://localhost:54321/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 12:34:59 +0900</lastBuildDate><atom:link href="http://localhost:64540/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生き残りのディーリング</title>
-      <link>http://localhost:54321/posts/strategy/dealing/</link>
+      <link>http://localhost:64540/posts/strategy/dealing/</link>
       <pubDate>Sun, 19 Oct 2025 12:34:59 +0900</pubDate>
       
-      <guid>http://localhost:54321/posts/strategy/dealing/</guid>
+      <guid>http://localhost:64540/posts/strategy/dealing/</guid>
       
       <description>&lt;p&gt;お金で幸せになりたいのなら、幸せになる方法で、お金を増やさねばなりません。&lt;br&gt;
 相場でお金を儲けるにも、幸福感の味わえるやり方を見つける必要があります。&lt;br&gt;
@@ -76,17 +76,17 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 相場は投資を横糸に、投機を経糸に編み上げる、タペストリーのようなものと言えるのです。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:54321/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
+&lt;img src=&#34;http://localhost:64540/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>けむ。の板読みデイトレード術</title>
-      <link>http://localhost:54321/posts/strategy/kemu/</link>
+      <link>http://localhost:64540/posts/strategy/kemu/</link>
       <pubDate>Thu, 25 Sep 2025 17:03:48 +0900</pubDate>
       
-      <guid>http://localhost:54321/posts/strategy/kemu/</guid>
+      <guid>http://localhost:64540/posts/strategy/kemu/</guid>
       
       <description>&lt;p&gt;バイブルと言えるような本に出会った。&lt;br&gt;
 大海原のどちらに進めがいいか見当もつかずにもがいていた自分が最近決めた方角が間違ってないと後押ししてくれるような本。&lt;br&gt;
@@ -146,10 +146,10 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
     
     <item>
       <title>やってはいけないトレード</title>
-      <link>http://localhost:54321/posts/strategy/reflection/</link>
+      <link>http://localhost:64540/posts/strategy/reflection/</link>
       <pubDate>Wed, 03 Sep 2025 21:21:04 +0900</pubDate>
       
-      <guid>http://localhost:54321/posts/strategy/reflection/</guid>
+      <guid>http://localhost:64540/posts/strategy/reflection/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;[4596]&lt;br&gt;
@@ -161,7 +161,7 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:54321/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:64540/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -173,11 +173,11 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:54321/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:64540/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:54321/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:64540/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -186,10 +186,10 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
     
     <item>
       <title>二階堂さんのデイトレ戦略</title>
-      <link>http://localhost:54321/posts/strategy/nikaido/</link>
+      <link>http://localhost:64540/posts/strategy/nikaido/</link>
       <pubDate>Wed, 03 Sep 2025 00:16:38 +0900</pubDate>
       
-      <guid>http://localhost:54321/posts/strategy/nikaido/</guid>
+      <guid>http://localhost:64540/posts/strategy/nikaido/</guid>
       
       <description>&lt;p&gt;寄り付きからの30分間でその日の収入が決まる&lt;br&gt;
 デイトレで大きく稼ぎたいのであれば、この時間帯に大きく稼げるスキルを身につける必要がある&lt;br&gt;
@@ -243,17 +243,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 と同時に「明日、上昇の流れが継続されるなら、乗っていこう」と思った。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:54321/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:64540/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>メモ</title>
-      <link>http://localhost:54321/posts/strategy/memo/</link>
+      <link>http://localhost:64540/posts/strategy/memo/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>http://localhost:54321/posts/strategy/memo/</guid>
+      <guid>http://localhost:64540/posts/strategy/memo/</guid>
       
       <description>&lt;ol&gt;
 &lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;

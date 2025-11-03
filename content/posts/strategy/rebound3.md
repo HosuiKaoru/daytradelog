@@ -11,13 +11,12 @@ title = 'リバウンド戦略（ロウソク足パターン・検証中）'
 # 条件
 1. 出来高の多い個人投資家注目銘柄
 2. ボラティリティが激しい銘柄
-3. 日足が5MA上の上昇トレンド中だと尚良し
-4. 5分足のロウソク足が5MA下で当日の安値更新中
-5. 5分足で一目見てわかるほどに長い下ヒゲロウソク足＋小陽線
-6. 5分足の25MA上でこのパターンが出現
-7. 小陽線の終値でロングエントリー
-8. 損切りは小陽線の終値の3tick下（下髭つけずに上昇する前提）
-9. 利確基準はまだわからない
+3. 5分足のロウソク足が5MA下で当日の安値更新中 or 強い下落の動意中
+4. 5分足で一目見てわかるほどに長い下ヒゲロウソク足＋小陽線
+5. 5分足の25MA上でこのパターンが出現
+6. 小陽線の終値でロングエントリー
+7. 損切りは小陽線の終値の3tick下（下髭つけずに上昇する前提）
+8. 利確基準はまだわからない
    
 
 # 成功例
@@ -51,7 +50,6 @@ title = 'リバウンド戦略（ロウソク足パターン・検証中）'
 今日一番ボラのある銘柄だったので、1分で30tick・もう1分でさらに30tick上昇した。  
 エントリーから4分後に建値の10tick上まで落ちてくる場面があるので、これだけスキャで抜けたら御の字だな。  
 デイトレ戦略として反転上昇していくと考えてホールドするのは建玉の20%くらいにとどめないと精神がもたない。  
-優位性があるのか、パターンを見つけたらまた検証していこう。  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
 <img src="/images/dailylog/9425/0908-5minutes2.png" alt="リバウンド戦略の5分足" width="400" height="500">
@@ -59,6 +57,25 @@ title = 'リバウンド戦略（ロウソク足パターン・検証中）'
 </div>
 <div style="text-align: center;">
 <img src="/images/dailylog/9425/0908-day.png" alt="リバウンド戦略の日足" width="200" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>
+
+<u>③　2025/09/08 『9425』</u>  
+1. 日足が5MA上の上昇トレンド中で5分足でとんでもない下落の動意発生（ニュース連動アルゴによるとてつもない下落）
+2. ボラが大きく、出来高も多い注目銘柄
+3. 5分足の長い下ヒゲ陰線＋小陽線出現でロング  
+
+自分がこの下ヒゲ陰線の下ヒゲの部分でショートしてとんでもない大負けをしたが、振り返るとロングの場面だった。  
+下ヒゲをほぼつけずに一気に戻しているので、やはりこのパターンは強力。  
+ほぼ全戻ししているが利確は大陽線の終値あたり。（下落中の戻しのあたりと重なるため）
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/rebound3/6330/1030-5minutes.png" alt="リバウンド戦略の5分足" width="400" height="500">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/rebound3/6330/1030-day.png" alt="リバウンド戦略の日足" width="200" height="500">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
