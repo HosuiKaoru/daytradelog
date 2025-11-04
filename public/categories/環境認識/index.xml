@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>環境認識 on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:64540/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</link>
+    <link>http://localhost:1313/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/</link>
     <description>Recent content in 環境認識 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 14 Sep 2025 16:50:52 +0900</lastBuildDate><atom:link href="http://localhost:64540/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 16:50:52 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%92%B0%E5%A2%83%E8%AA%8D%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>環境認識を用いたトレード戦略</title>
-      <link>http://localhost:64540/posts/strategy/hiasi/</link>
+      <link>http://localhost:1313/posts/strategy/hiasi/</link>
       <pubDate>Sun, 14 Sep 2025 16:50:52 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/hiasi/</guid>
+      <guid>http://localhost:1313/posts/strategy/hiasi/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;日足の明確なシグナルから1日の方向感にbetする&lt;/b&gt;&lt;br&gt;
 日足のトレンドと逆行する、朝一の&lt;span style=&#34;color: red;&#34;&gt;「大陽線・大陰線の是正」&lt;/span&gt;による反発を狙う&lt;/p&gt;</description>

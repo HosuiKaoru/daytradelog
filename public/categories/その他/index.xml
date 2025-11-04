@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>その他 on デイトレード戦略と日々の記録</title>
-    <link>http://localhost:64540/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+    <link>http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 19 Oct 2025 12:34:59 +0900</lastBuildDate><atom:link href="http://localhost:64540/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 12:34:59 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生き残りのディーリング</title>
-      <link>http://localhost:64540/posts/strategy/dealing/</link>
+      <link>http://localhost:1313/posts/strategy/dealing/</link>
       <pubDate>Sun, 19 Oct 2025 12:34:59 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/dealing/</guid>
+      <guid>http://localhost:1313/posts/strategy/dealing/</guid>
       
       <description>&lt;p&gt;お金で幸せになりたいのなら、幸せになる方法で、お金を増やさねばなりません。&lt;br&gt;
 相場でお金を儲けるにも、幸福感の味わえるやり方を見つける必要があります。&lt;br&gt;
@@ -76,17 +76,17 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 相場は投資を横糸に、投機を経糸に編み上げる、タペストリーのようなものと言えるのです。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:64540/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dealing/1.png&#34; alt=&#34;ディーリング&#34; width=&#34;600&#34; height=&#34;200&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>けむ。の板読みデイトレード術</title>
-      <link>http://localhost:64540/posts/strategy/kemu/</link>
+      <link>http://localhost:1313/posts/strategy/kemu/</link>
       <pubDate>Thu, 25 Sep 2025 17:03:48 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/kemu/</guid>
+      <guid>http://localhost:1313/posts/strategy/kemu/</guid>
       
       <description>&lt;p&gt;バイブルと言えるような本に出会った。&lt;br&gt;
 大海原のどちらに進めがいいか見当もつかずにもがいていた自分が最近決めた方角が間違ってないと後押ししてくれるような本。&lt;br&gt;
@@ -146,26 +146,68 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
     
     <item>
       <title>やってはいけないトレード</title>
-      <link>http://localhost:64540/posts/strategy/reflection/</link>
+      <link>http://localhost:1313/posts/strategy/reflection/</link>
       <pubDate>Wed, 03 Sep 2025 21:21:04 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/reflection/</guid>
+      <guid>http://localhost:1313/posts/strategy/reflection/</guid>
       
-      <description>&lt;ol&gt;
-&lt;li&gt;[4596]&lt;br&gt;
+      <description>&lt;p&gt;&lt;b&gt;&lt;u&gt;大負けパターン&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;朝一本目のロウソク足で引き付けた位置で入って、予想通りの動きをしたもののエントリーできなかった時に、機会損失への悔しさから伸び切ったところでエントリーし、強いリバで大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;大きく動意づいた時に監視していたのに初動で入れなかったことへの悔しさから伸び切った所でエントリー→ビビって微益撤退→やっぱり合ってたんじゃんとよりレベル感の悪い所でエントリー→以降ループ→どこかで激リバが来て大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5分足の上昇トレンド中の押し目での逆張りロング狙いは指値を設定しなかったため取り逃がし→リバの期待値は2回目の方が圧倒的に低いのでそこでしかエントリーできず、ぶん投げにやられて大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日足高値圏＋5分足の5MAが25MAの下に潜り込んで横横しだす→上昇トレンド中と同じ位置に逆張りロング狙いの指値を設定→ナイアガラで大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日足を見て方向感を決めつける→朝一のボラティリティの一番激しい時間帯でレベル感の悪い所でエントリー→逆に振られてすぐ損切りすればいいが、方向感を決めつけているのでホールドしてしまう→逆に動き続け耐えられなくなり大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;損失が積み重なった時に取り返そうと3000円〜10000円の値幅大きい銘柄を薄い根拠で取引して大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上昇トレンド中に出来高を伴って急上昇したタイミングでロング→見事なジャンピングキャッチとなり大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;強い上昇モメンタム発生時に逆張りを狙う→上に一気に持っていかれる→損切りして天井あてゲームを続ける→負けが積み重なり大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;損切りを一度送らせてしまったことによってお祈りトレードへと変わり、どんどん損切り位置を変更して大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;監視銘柄が多すぎて需給の分析ができない→大衆心理を読めずに安易なトレード連発して大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;すぐにエントリーしないと取り残される恐怖感からレベル感の悪い所でエントリー→大局的トレンドに乗れているものの逆に振られる→ビビって損切り連発で大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;くそデカロットにする→冷静さを失う→客観的な分析ができず感情的に損切りして大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;引け成り注文を見ずにクロオクに突入してしまい大負け&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[4596]&lt;br&gt;
 根拠がかなり薄い状態で大ロットでロングしてしまった。&lt;br&gt;
 高値更新追随スキャは波乗りできるくらい強い板か、波の初動のみのはず。&lt;br&gt;
 てかそもそも、高値更新してねえし。マジで適当にエントリーしちゃってるな。 &lt;br&gt;
 原因：地合いが悪くて暇すぎて、無理矢理エントリーしようと考えたことによるもの。&lt;br&gt;
-対策：時間があれば、監視銘柄の「こうなったらこうする」と分析する時間に当てる。&lt;/li&gt;
+対策：時間があれば、監視銘柄の「こうなったらこうする」と分析する時間に当てる。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:64540/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/4596-0903-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;ol start=&#34;2&#34;&gt;
+&lt;ol&gt;
 &lt;li&gt;[5801]&lt;br&gt;
 下げ止まりの後の反転を確認できていない黄色のボックスの段階でロングしてはいけない。&lt;br&gt;
 原因：先物が下げ止まったからという理由だけで打診エントリー
@@ -173,11 +215,11 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
 &lt;/ol&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:64540/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5801/1014-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:64540/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5801/1014-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -186,10 +228,10 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
     
     <item>
       <title>二階堂さんのデイトレ戦略</title>
-      <link>http://localhost:64540/posts/strategy/nikaido/</link>
+      <link>http://localhost:1313/posts/strategy/nikaido/</link>
       <pubDate>Wed, 03 Sep 2025 00:16:38 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/nikaido/</guid>
+      <guid>http://localhost:1313/posts/strategy/nikaido/</guid>
       
       <description>&lt;p&gt;寄り付きからの30分間でその日の収入が決まる&lt;br&gt;
 デイトレで大きく稼ぎたいのであれば、この時間帯に大きく稼げるスキルを身につける必要がある&lt;br&gt;
@@ -243,40 +285,42 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 と同時に「明日、上昇の流れが継続されるなら、乗っていこう」と思った。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:64540/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>メモ</title>
-      <link>http://localhost:64540/posts/strategy/memo/</link>
+      <title>自分ルール</title>
+      <link>http://localhost:1313/posts/strategy/memo/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>http://localhost:64540/posts/strategy/memo/</guid>
+      <guid>http://localhost:1313/posts/strategy/memo/</guid>
       
-      <description>&lt;ol&gt;
-&lt;li&gt;市場の値動きを予測するのではなく、値動きに反応する&lt;/li&gt;
-&lt;li&gt;自分の予想と外れた動き方をしたら速攻で損切りする&lt;/li&gt;
-&lt;li&gt;事前に想定した値動きではない弱い値動きの場合は早めに利確する&lt;/li&gt;
-&lt;li&gt;ロスカットするときにドテンの可能性を考慮する&lt;/li&gt;
-&lt;li&gt;MAが入り乱れる or ロウソク足がMAの中にいる状況でブレイク戦略禁止&lt;/li&gt;
-&lt;li&gt;カチアガッた状況の利確は2:1:1理論&lt;/li&gt;
+      <description>&lt;p&gt;&lt;b&gt;ルール&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自分の予想と外れた動き方をしたら速攻で損切りする。（一度切り損なったら大負けするまで切れないことを認識すること）&lt;/li&gt;
+&lt;li&gt;ロスカットするときにドテンの可能性を考慮する。&lt;/li&gt;
+&lt;li&gt;朝一や強い下落モメンタム発生時の初動に乗れなかった時→伸び切った所でエントリーせずに戻しをしっかり待つ。（戻さなかった場合は見送る）&lt;/li&gt;
+&lt;li&gt;強い上昇モメンタム発生中のショートは禁止する。&lt;/li&gt;
+&lt;li&gt;5分足の大きな流れでの上昇トレンドの押し目リバ狙いは1回目でエントリー出来なかった時は見送る。（2回目の期待値は低くなる）&lt;/li&gt;
+&lt;li&gt;日足で方向感を事前に決めてもいいが、スキャではその方向感を信用せずに1のルールを徹底する。&lt;/li&gt;
+&lt;li&gt;損失が出ている時の値嵩株の取引を禁止する。&lt;/li&gt;
+&lt;li&gt;朝一の大陽線や日足高値圏での大陽線などJCの可能性のある場面での取引を禁止する。&lt;/li&gt;
+&lt;li&gt;監視銘柄を10、取引銘柄を3に絞り込む。&lt;/li&gt;
+&lt;li&gt;大局的なトレンドに乗る場合はレベル感のいい位置まで限界まで引き付ける。&lt;/li&gt;
+&lt;li&gt;1ヶ月単位で勝てるまでロットは100で固定する。&lt;/li&gt;
+&lt;li&gt;クロオクを利用した戦略を用いる場合を除いて、15:25までに建玉を全決済する。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;板読み&#34;&gt;板読み&lt;/h1&gt;
-&lt;p&gt;&lt;u&gt;2025/08/19 『5985』&lt;/u&gt;&lt;br&gt;
-&lt;a href=&#34;https://youtu.be/9z7dpGvZyC0&#34;&gt;https://youtu.be/9z7dpGvZyC0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;板読みの気づき&lt;/u&gt;&lt;br&gt;
-厚い売り板を食って上抜いていこうとする動きはあくまで「見せられているもの」&lt;br&gt;
+&lt;p&gt;&lt;b&gt;板読みの気づき&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;厚い売り板を食って上抜いていこうとする動きはあくまで「見せられているもの」&lt;br&gt;
 抜けたら買おうと考える人に、既存のホルダーが売りをぶつけて売り抜けようと考えるからドカンと下がる。&lt;br&gt;
-買えないくらいの上昇（材料発表時のアステリア）の勢いがないと成立しない。&lt;/p&gt;
-&lt;p&gt;順張りで勢いに乗ろうと考えた時は興味を持った段階で速攻入らないといけない。&lt;br&gt;
-そこで躊躇してしまうと、決定的な状況（急騰）が来る場面でしか入れなくなり、下落リスクが跳ね上がる。&lt;br&gt;
-躊躇した後に下落したらその銘柄に興味を失うという行動をとる。&lt;br&gt;
-いずれにせよ、躊躇した先に勝つことはほぼないということだ。&lt;/p&gt;
-&lt;p&gt;板からサポートラインを探してその1tick上に指値を入れるのは危険。&lt;br&gt;
-その厚い買い板さえ崩すことができれば一気に下落する可能性があるから。&lt;/p&gt;
-&lt;p&gt;ギューって下がってくる板・歩み値は小口の逆指値が大量に発生している状況だからではないか？特定の価格帯まで落ちた時に100や200が連打されるように約定される時は損切りが多発している状況っぽい。&lt;/p&gt;</description>
+買えないくらいの上昇（材料発表時のアステリア）の勢いがないと成立しない。&lt;/li&gt;
+&lt;li&gt;順張りで勢いに乗ろうと考えた時は速攻入らないといけない。&lt;br&gt;
+そこで躊躇してしまうと、決定的な状況（急騰）が来る場面でしか入れなくなり、下落リスクが跳ね上がる。&lt;/li&gt;
+&lt;li&gt;ギューって下がってくる板・歩み値は小口の逆指値が大量に発生している状況だからではないか？特定の価格帯まで落ちた時に100や200が連打されるように約定される時は損切りが多発している状況っぽい。&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
