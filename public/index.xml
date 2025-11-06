@@ -6,7 +6,31 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 04 Nov 2025 18:16:16 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 14:30:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ショートカバー戦略</title>
+      <link>http://localhost:1313/posts/strategy/shortcover/</link>
+      <pubDate>Thu, 06 Nov 2025 14:30:49 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/shortcover/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;ショート勢が諦めるタイミングでロング&lt;/b&gt;&lt;br&gt;
+デイトレショート勢の&lt;span style=&#34;color: red;&#34;&gt;「手仕舞い」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「追撃買い」&lt;/span&gt;による上への押し上げを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>天井売り戦略</title>
+      <link>http://localhost:1313/posts/strategy/ceiling/</link>
+      <pubDate>Thu, 06 Nov 2025 14:06:59 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/ceiling/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;5分足の明確な上昇トレンド後の5MA下確定陰線でショート&lt;/b&gt;&lt;br&gt;
+上昇しすぎた銘柄の&lt;span style=&#34;color: red;&#34;&gt;「利確勢」&lt;/span&gt;による押し下げを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>11/4（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/11/04/</link>
