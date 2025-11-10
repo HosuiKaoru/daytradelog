@@ -1,7 +1,7 @@
 +++
 date = '2025-11-06T14:30:49+09:00'
 draft = false
-categories = ['ロング']
+categories = ['ロング戦略']
 title = 'ショートカバー戦略'
 +++
 

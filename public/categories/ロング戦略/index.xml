@@ -6,7 +6,19 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Oct 2025 14:12:47 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 14:30:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ショートカバー戦略</title>
+      <link>http://localhost:1313/posts/strategy/shortcover/</link>
+      <pubDate>Thu, 06 Nov 2025 14:30:49 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/shortcover/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;ショート勢が諦めるタイミングでロング&lt;/b&gt;&lt;br&gt;
+デイトレショート勢の&lt;span style=&#34;color: red;&#34;&gt;「手仕舞い」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「追撃買い」&lt;/span&gt;による上への押し上げを利用する&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>PTS戦略</title>
       <link>http://localhost:1313/posts/strategy/pts/</link>
@@ -15,6 +27,17 @@
       <guid>http://localhost:1313/posts/strategy/pts/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;ストップ安2連続目の銘柄に逆張りロング&lt;/b&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リバウンド戦略（大本命）</title>
+      <link>http://localhost:1313/posts/strategy/rebound4/</link>
+      <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
+      
+      <description></description>
       
     </item>
     

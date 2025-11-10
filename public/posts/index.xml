@@ -6,15 +6,28 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 06 Nov 2025 14:30:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Nov 2025 22:51:57 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>6（木）のデイトレ結果</title>
+      <title>GDショート戦略</title>
+      <link>http://localhost:1313/posts/strategy/obreakshort/</link>
+      <pubDate>Mon, 10 Nov 2025 22:51:57 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/obreakshort/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;大幅GD時の寄り凸勢が全員含み損になる瞬間にショート&lt;/b&gt;&lt;br&gt;
+デイトレロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバウンド期待の崩壊」&lt;/span&gt;による損切りバケツリレーの初動を狙う&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ショートカバー戦略</title>
       <link>http://localhost:1313/posts/strategy/shortcover/</link>
       <pubDate>Thu, 06 Nov 2025 14:30:49 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/strategy/shortcover/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;ショート勢が諦めるタイミングでロング&lt;/b&gt;&lt;br&gt;
+デイトレショート勢の&lt;span style=&#34;color: red;&#34;&gt;「手仕舞い」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「追撃買い」&lt;/span&gt;による上への押し上げを利用する&lt;/p&gt;</description>
       
     </item>
     
@@ -1949,6 +1962,17 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
     </item>
     
     <item>
+      <title>リバウンド戦略（大本命）</title>
+      <link>http://localhost:1313/posts/strategy/rebound4/</link>
+      <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>9/9（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/09/09/</link>
       <pubDate>Tue, 09 Sep 2025 15:38:03 +0900</pubDate>
@@ -3100,17 +3124,17 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
     
     <item>
       <title>自分ルール</title>
-      <link>http://localhost:1313/posts/strategy/memo/</link>
+      <link>http://localhost:1313/posts/strategy/myrulue/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/memo/</guid>
+      <guid>http://localhost:1313/posts/strategy/myrulue/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;ルール&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;自分の予想と外れた動き方をしたら速攻で損切りする。（一度切り損なったら大負けするまで切れないことを認識すること）&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する。&lt;/li&gt;
 &lt;li&gt;朝一や強い下落モメンタム発生時の初動に乗れなかった時→伸び切った所でエントリーせずに戻しをしっかり待つ。（戻さなかった場合は見送る）&lt;/li&gt;
-&lt;li&gt;強い上昇モメンタム発生中のショートは禁止する。&lt;/li&gt;
+&lt;li&gt;強い上昇モメンタム発生中のショートは禁止する。(天井当てゲームをしない)&lt;/li&gt;
 &lt;li&gt;5分足の大きな流れでの上昇トレンドの押し目リバ狙いは1回目でエントリー出来なかった時は見送る。（2回目の期待値は低くなる）&lt;/li&gt;
 &lt;li&gt;日足で方向感を事前に決めてもいいが、スキャではその方向感を信用せずに1のルールを徹底する。&lt;/li&gt;
 &lt;li&gt;損失が出ている時の値嵩株の取引を禁止する。&lt;/li&gt;
