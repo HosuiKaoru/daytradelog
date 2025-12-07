@@ -1,6 +1,6 @@
 +++
 date = '2025-11-06T14:06:59+09:00'
-draft = false
+draft = true
 categories = ['ショート戦略']
 title = '天井売り戦略'
 +++

@@ -6,7 +6,19 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 06 Nov 2025 14:30:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 17:04:26 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日足の反転戦略</title>
+      <link>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Wed, 03 Dec 2025 17:04:26 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;日足の反転シグナルよりロングする&lt;/b&gt;&lt;br&gt;
+日足で&lt;span style=&#34;color: red;&#34;&gt;陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>ショートカバー戦略</title>
       <link>http://localhost:1313/posts/strategy/shortcover/</link>
@@ -37,7 +49,24 @@
       
       <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
+ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;強い成り行き売りを受け止め、少ない成り行き買いで上にいく動きは反転サイン。理想は成り行き売りのほうが成り行き買いより多い状況で陽線となること。ショート勢からすると力を大分使い果たしたために利確を考えねばならず、ロング勢からするとまだ力を残している状態。明らかに力関係が逆転し始めると考えられる場面。&lt;/li&gt;
+&lt;li&gt;朝の9:20~9:40の間がうまくいきやすい。&lt;/li&gt;
+&lt;li&gt;大型プライム銘柄では10%ルールが機能しやすい。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;パターン&#34;&gt;パターン&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;日足が上昇トレンド＋GUの時の5MA反発狙い&lt;/li&gt;
+&lt;li&gt;上昇の起点まで下落した時の出来高帯で反発狙い&lt;/li&gt;
+&lt;li&gt;大型プライム銘柄の10%ラインで反発狙い&lt;/li&gt;
+&lt;li&gt;大陰線＋出来高急増が下落トレンド中に発生した時の出来高帯での反発狙い&lt;/li&gt;
+&lt;li&gt;引け安＋指数によるGDスタートの時の窓埋め反発狙い&lt;/li&gt;
+&lt;li&gt;上昇トレンド銘柄の窓埋め完了翌日のGUスタート時の窓埋め反発狙い&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -74,18 +103,6 @@
       
       <description>&lt;p&gt;&lt;b&gt;上昇トレンド中の押し安値上でロング&lt;/b&gt;&lt;br&gt;
 相対的な安さが演出される場面での&lt;span style=&#34;color: red;&#34;&gt;「逆張り勢（アルゴ）の買い」&lt;/span&gt;を狙う&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（デイトレ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound/</link>
-      <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/rebound/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;大幅に下落し、リバりそうな銘柄にロング&lt;/b&gt;&lt;br&gt;
-大幅な下落の&lt;span style=&#34;color: red;&#34;&gt;「歪み」&lt;/span&gt;の是正を利用する&lt;/p&gt;</description>
       
     </item>
     

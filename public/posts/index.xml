@@ -6,7 +6,19 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 10 Nov 2025 22:51:57 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 17:04:26 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日足の反転戦略</title>
+      <link>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Wed, 03 Dec 2025 17:04:26 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;日足の反転シグナルよりロングする&lt;/b&gt;&lt;br&gt;
+日足で&lt;span style=&#34;color: red;&#34;&gt;陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>GDショート戦略</title>
       <link>http://localhost:1313/posts/strategy/obreakshort/</link>
@@ -28,18 +40,6 @@
       
       <description>&lt;p&gt;&lt;b&gt;ショート勢が諦めるタイミングでロング&lt;/b&gt;&lt;br&gt;
 デイトレショート勢の&lt;span style=&#34;color: red;&#34;&gt;「手仕舞い」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「追撃買い」&lt;/span&gt;による上への押し上げを利用する&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>天井売り戦略</title>
-      <link>http://localhost:1313/posts/strategy/ceiling/</link>
-      <pubDate>Thu, 06 Nov 2025 14:06:59 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/ceiling/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;5分足の明確な上昇トレンド後の5MA下確定陰線でショート&lt;/b&gt;&lt;br&gt;
-上昇しすぎた銘柄の&lt;span style=&#34;color: red;&#34;&gt;「利確勢」&lt;/span&gt;による押し下げを利用する&lt;/p&gt;</description>
       
     </item>
     
@@ -1968,7 +1968,24 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
       
       <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
+ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;強い成り行き売りを受け止め、少ない成り行き買いで上にいく動きは反転サイン。理想は成り行き売りのほうが成り行き買いより多い状況で陽線となること。ショート勢からすると力を大分使い果たしたために利確を考えねばならず、ロング勢からするとまだ力を残している状態。明らかに力関係が逆転し始めると考えられる場面。&lt;/li&gt;
+&lt;li&gt;朝の9:20~9:40の間がうまくいきやすい。&lt;/li&gt;
+&lt;li&gt;大型プライム銘柄では10%ルールが機能しやすい。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;パターン&#34;&gt;パターン&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;日足が上昇トレンド＋GUの時の5MA反発狙い&lt;/li&gt;
+&lt;li&gt;上昇の起点まで下落した時の出来高帯で反発狙い&lt;/li&gt;
+&lt;li&gt;大型プライム銘柄の10%ラインで反発狙い&lt;/li&gt;
+&lt;li&gt;大陰線＋出来高急増が下落トレンド中に発生した時の出来高帯での反発狙い&lt;/li&gt;
+&lt;li&gt;引け安＋指数によるGDスタートの時の窓埋め反発狙い&lt;/li&gt;
+&lt;li&gt;上昇トレンド銘柄の窓埋め完了翌日のGUスタート時の窓埋め反発狙い&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -2676,18 +2693,6 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（デイトレ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound/</link>
-      <pubDate>Wed, 27 Aug 2025 19:27:05 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/rebound/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;大幅に下落し、リバりそうな銘柄にロング&lt;/b&gt;&lt;br&gt;
-大幅な下落の&lt;span style=&#34;color: red;&#34;&gt;「歪み」&lt;/span&gt;の是正を利用する&lt;/p&gt;</description>
       
     </item>
     
