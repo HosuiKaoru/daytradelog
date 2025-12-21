@@ -20,9 +20,7 @@ title = 'やってはいけないトレード'
 11. すぐにエントリーしないと取り残される恐怖感からレベル感の悪い所でエントリー→大局的トレンドに乗れているものの逆に振られる→ビビって損切り連発で大負け
 12. くそデカロットにする→冷静さを失う→客観的な分析ができず感情的に損切りして大負け
 13. 引け成り注文を見ずにクロオクに突入してしまい大負け
- 
-
-12. [4596]  
+14. [4596]  
 根拠がかなり薄い状態で大ロットでロングしてしまった。  
 高値更新追随スキャは波乗りできるくらい強い板か、波の初動のみのはず。  
 てかそもそも、高値更新してねえし。マジで適当にエントリーしちゃってるな。    
@@ -32,20 +30,5 @@ title = 'やってはいけないトレード'
 <div style="text-align: center;">
 <img src="/images/reflection/4596-0903-5minutes.png" alt="デイトレ記録の5分足" width="600" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
-</div>
-</div>
-
-1. [5801]  
-下げ止まりの後の反転を確認できていない黄色のボックスの段階でロングしてはいけない。  
-原因：先物が下げ止まったからという理由だけで打診エントリー
-対策：5MA上で確定するまではガチ監視だけする
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
-<div style="text-align: center;">
-<img src="/images/dailylog/5801/1014-5minutes.png" alt="デイトレ記録の5分足" width="400" height="600">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
-</div>
-<div style="text-align: center;">
-<img src="/images/dailylog/5801/1014-day.png" alt="デイトレ記録の日足" width="200" height="600">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>

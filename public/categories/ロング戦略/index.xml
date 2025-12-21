@@ -15,7 +15,7 @@
       <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;日足の反転シグナルよりロングする&lt;/b&gt;&lt;br&gt;
-日足で&lt;span style=&#34;color: red;&#34;&gt;陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
+日足で&lt;span style=&#34;color: red;&#34;&gt;反発陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
       
     </item>
     
@@ -44,10 +44,10 @@
     
     <item>
       <title>リバウンド戦略（大本命）</title>
-      <link>http://localhost:1313/posts/strategy/rebound4/</link>
+      <link>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</link>
       <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/rebound4/</guid>
+      <guid>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</guid>
       
       <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
 ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
@@ -79,30 +79,6 @@
       
       <description>&lt;p&gt;&lt;b&gt;高値切り下げラインを確定足でブレイクしたらロング&lt;/b&gt;&lt;br&gt;
 上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有名なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（ロウソク足パターン・検証中）</title>
-      <link>http://localhost:1313/posts/strategy/rebound3/</link>
-      <pubDate>Sun, 07 Sep 2025 08:56:10 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/rebound3/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;リバウンドパターンでロング&lt;/b&gt;&lt;br&gt;
-&lt;span style=&#34;color: red;&#34;&gt;「多くの市場参加者の考えるロウソク足パターン」&lt;/span&gt;と同じ解釈をして流れに乗る&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（スキャ）</title>
-      <link>http://localhost:1313/posts/strategy/rebound2/</link>
-      <pubDate>Sat, 06 Sep 2025 15:57:25 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/rebound2/</guid>
-      
-      <description>&lt;p&gt;&lt;b&gt;上昇トレンド中の押し安値上でロング&lt;/b&gt;&lt;br&gt;
-相対的な安さが演出される場面での&lt;span style=&#34;color: red;&#34;&gt;「逆張り勢（アルゴ）の買い」&lt;/span&gt;を狙う&lt;/p&gt;</description>
       
     </item>
     
