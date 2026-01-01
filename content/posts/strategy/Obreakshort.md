@@ -79,3 +79,21 @@ title = 'GDショート戦略'
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
 </div>
 </div>
+
+<u>④ 2025/12/11 『5032』</u>  
+こちらも決算爆死パターン。  
+例にならって、大幅GDパターンで寄り付いて上にいくものの結局まとまった売り注文におされていき始値をわるタイミングでショート。  
+リバる兆しゼロで無限に下げていった。  
+途中で大台の5000を割れたタイミングで一部利確する。  
+しかし、そこで一切リバれずに下に持っていかれているのでリバ勢も死亡のパターンなので、買い板の侵食が止まるまでは引っ張る。  
+こちらも相当板が厚い銘柄なので、大口になってからも狙っていきたい場面。  
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+<div style="text-align: center;">
+<img src="/images/GD-short/5032/20251210-5minutes.png" alt="ショート戦略" width="300" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
+</div>
+<div style="text-align: center;">
+<img src="/images/GD-short/5032/20251210-day.png" alt="ショート戦略" width="300" height="600">
+<p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
+</div>

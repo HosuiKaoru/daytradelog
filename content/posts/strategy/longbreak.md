@@ -39,7 +39,7 @@ title = 'ラインブレイク戦略'
 </div>
 </div>
 
-<u>②　2025/09/22 『3105』</u>  
+<u>②　2025/09/22 『3905』</u>  
 日足は2連ストップ安をした後だが、上昇トレンドは継続中で5MA上の場面。  
 朝一の上昇後、5分足できれいな三角持ち合いを形成。  
 上にブレイクするなら上昇の継続という場面。  
@@ -51,15 +51,11 @@ title = 'ラインブレイク戦略'
 5分足で状況を分析し、1分足でエントリータイミングを決めるというやり方が良さそうだと感じた。  
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
 <div style="text-align: center;">
-<img src="/images/longbreak/3905/0922-1minute.png" alt="ラインブレイク戦略の1分足" width="400" height="600">
-<p style="margin-top: 5px; font-size: 0.9em; color: #555;">1分足</p>
-</div>
-<div style="text-align: center;">
-<img src="/images/longbreak/3905/0922-5minutes.png" alt="ラインブレイク戦略の5分足" width="200" height="600">
+<img src="/images/longbreak/3905/0922-5minutes.png" alt="ラインブレイク戦略の5分足" width="300" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">5分足</p>
 </div>
-</div>
 <div style="text-align: center;">
-<img src="/images/longbreak/3905/0922-day.png" alt="ラインブレイク戦略の日足" width="600" height="600">
+<img src="/images/longbreak/3905/0922-day.png" alt="ラインブレイク戦略の日足" width="300" height="600">
 <p style="margin-top: 5px; font-size: 0.9em; color: #555;">日足</p>
+</div>
 </div>
