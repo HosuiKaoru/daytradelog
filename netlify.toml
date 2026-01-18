@@ -1,0 +1,10 @@
+# 検索エンジンに「登録しないで」と伝える設定
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+# パスワード機能（auth.js）を使う設定
+[[edge_functions]]
+  path = "/*"
+  function = "auth"
