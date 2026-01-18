@@ -372,8 +372,51 @@ suさんとかシンジさんとかがどこで入ったのかしっかり振り
       <description>&lt;p&gt;&lt;b&gt;不正取引によって生まれる市場の歪みを狙う&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;不正とわかるような買われ方をしている時に本尊の仕上げの位置を狙って空売り&lt;/li&gt;
-&lt;li&gt;ここには書けないが必勝法に近いようなやり方&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;li&gt;本尊のぶん投げ売りによる歪みの是正を狙う&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;2について解説&lt;/b&gt;&lt;/u&gt;&lt;br&gt;
+以下の画像を見てほしい。&lt;br&gt;
+左から不正取引銘柄（visumo）のPTSのロウソク足、東証の5分足である。&lt;br&gt;
+ここで明らかにおかしいチャートになっていることに気づける。&lt;br&gt;
+PTS830円で約定した時間を東証のチャートの方で見ると矢印の部分であり、960までしか約定していない。&lt;br&gt;
+これは特売り中にはありがちな値動きではあるが、 おかしいのはPTSでの約定は瞬間的であり、東証の板は即座に1,000円での売買が可能な状態だった。&lt;br&gt;
+つまり、東証の板では特売りになっている時間が一瞬だったということである。&lt;br&gt;
+なぜ、東証の板が特売りで張り付き状態になっていないのにPTSで瞬間的な約定がこのように発生したのか？&lt;br&gt;
+これはSOR注文という注文の仕組みによって構造的に発生する現象である。&lt;/p&gt;
+&lt;p&gt;不正取引では本尊が最後に思いっきり成り行き注文でぶん投げてくるが、巨大な成り行き注文を捌く時、SORは「1つ約定したら次」と悠長に待つのではなく、計算した配分量を各市場へ「同時」に投げる。&lt;br&gt;
+この際に、PTSの板が想像以上に薄かった時に一気に下にオーバーシュートする現象が発生する。&lt;br&gt;
+ここのロジックはAIとの壁打ちをしてみたが、システムが完璧ならPTSでのオーバーシュートは発生しないとのこと。&lt;br&gt;
+おそらく現気配値における買い板を大幅に上回る特大な成り行き売り注文が発生した場合、システムが自動的にPTSに一定の株数を割り振って注文を通すことから発生している可能性がある。&lt;br&gt;
+この一定の株数はどのような計算によって行われているのかは未知だが、瞬間的に東証とPTSの価格が100円以上乖離したということから、一定の割合で行われていると推測できる。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/不正/303A/20260107-pts.png&#34; alt=&#34;不正のpts&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;PTS&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/不正/303A/20260107-5minutes2.png&#34; alt=&#34;不正の5分足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;東証　5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;上記のPTSのチャートと東証のチャートを合体させたチャートが以下のようになる。&lt;br&gt;
+つまり、不正取引銘柄を当日中に発見したら、上昇の起点よりはるかに下の位置にPTSで買い板を並べておけば、本尊のぶん投げによるシステムのオーバーシュートによって下に大きく乖離した位置で買い板を約定させることが可能であり、その建玉を東証の板で売るだけで瞬間的に大きな値幅を得ることができるということである。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/不正/303A/20260107-5minutes1.png&#34; alt=&#34;不正の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;東証＋PTS&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;他の不正銘柄でも同様の現象が発生していることからも期待値の高い手法だと判断できる。&lt;br&gt;
+以下にそのチャートを表示する。&lt;/p&gt;
+&lt;h1 id=&#34;20251212-7426&#34;&gt;2025/12/12 7426&lt;/h1&gt;
+&lt;p&gt;とんでもないオーバーシュートが発生している。矢印のところが東証の方が寄り付いた位置。 &lt;br&gt;
+S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大な売り注文だったのでさすがに特売り時間は長めだった。&lt;br&gt;
+東証の方もS安手前で特売り状態が続いていて、次々に買い板が入ってきたことで上昇の起点で寄り付いた。&lt;br&gt;
+しかも、この銘柄は二度目の上昇まであった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/不正/7426/20251212-pts.png&#34; alt=&#34;不正のpts&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;PTS&lt;/p&gt;</description>
       
     </item>
     
