@@ -6,7 +6,20 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 26 Jan 2026 11:15:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jan 2026 09:50:37 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>27（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/01/27/</link>
+      <pubDate>Tue, 27 Jan 2026 09:50:37 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/01/27/</guid>
+      
+      <description>&lt;p&gt;元素めちゃめちゃいい所でお締め拾えているのにそのあとに高値付近への戻しで売らないと。&lt;br&gt;
+高値更新してS高まで引っ張ろうとするのはさすがに欲深すぎたな。
+ただ、拾ってもよさそうな場面ではあったので入ったのはすごくよい。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>1/26（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/01/26/</link>
@@ -14,13 +27,55 @@
       
       <guid>http://localhost:1313/posts/log/01/26/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+47,540円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;日米でレートチェックが入った関係で一気に円高相場。&lt;br&gt;
+レートチェックって何？笑&lt;br&gt;
+日銀が民間銀行に今のレートを聞くことらしい。為替介入前の最終段階ということで警戒感Maxということみたい。&lt;br&gt;
+まあ、だとしても先物は1000円も下がらずに寄り底。&lt;br&gt;
+この無限上昇相場はいつまで続くのか？&lt;/p&gt;
+&lt;p&gt;個人的なトレードとしてはほぼ最高の一日だった気がする。&lt;br&gt;
+ペロブスカイトの横を見る投資法で倉元とフジでスキャしまくり。&lt;br&gt;
+途中からフジは倉元ではなく、ケミプロ連動に変わってったな。&lt;br&gt;
+でも洋ジとアサカの関係というより、こっちは少し動意づくまでにタイムラグがある。&lt;br&gt;
+そして、動意づいたら下にふってくることなく素直に上げる傾向がある。なるほど。&lt;br&gt;
+これは明日以降に活かせるな。&lt;br&gt;
+一つ、チャンスを逃したなあと思うのは、倉元が25MAでリバったタイミングでフジも下で指値待ち構えなかったこと。&lt;br&gt;
+これは、連動遅れのアルゴの売りが来る可能性を考慮できていなかった。&lt;br&gt;
+この建玉は1000株だけだったとしても、最安値買い（しかも一瞬でリバ）のパターンなので引っ張れたな。&lt;br&gt;
+そして、ケミプロのガラを見てフジも空売りしないと。&lt;br&gt;
+ロングしか考えていないからショートの連動のほうでとる意識が抜けてた。&lt;br&gt;
+連動一つとってもまだまだ取れる所は残っている。&lt;/p&gt;
+&lt;p&gt;ただ、この連動を利用できない日に利益を積み上げることがまだできないのが本音。&lt;br&gt;
+そのためにもリバウンド戦略を極めないとな。これ毎日いってるけど。&lt;br&gt;
+一つ思ったのは、しっかり上昇トレンド作った時の押し目は5分足の25MAを割ってから戻すパターン多い気がするけど？&lt;br&gt;
+他にも根拠が重なる場面であれば試してみたい。&lt;/p&gt;
 &lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
 &lt;p&gt;ジェリービーンズの日足を見ると一つ戦略を思いついた。&lt;br&gt;
 ひたすら横横だったのにいきなり出来高とんでもなくつけた日が発生したものの、押し返された日の引けで買いを仕込む投資法。&lt;br&gt;
 横横圏だから下値リスクはたかがしれているし、出来高がついてきているから動意づいていく可能性が高いのでは？&lt;br&gt;
-これはデイトレというよりスイングのやり方で一ついいかもしれない。&lt;br&gt;
-PostPrimeが盛り上がり始めた時もこんな漢字だった気がする。チャート画像持ってきて振り返ろう。&lt;/p&gt;</description>
+これはデイトレというよりスイングのやり方で一ついいかもしれない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3070/20260126-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;ジェリービーンズ　5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3070/20260126-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;前にポストプライムが動意づいた時もこういうパターン。&lt;br&gt;
+こっちは横横ではなく上場来安値を更新し続けている状態だった。&lt;br&gt;
+ただ、初日はS高張り付きで入れないので、翌日の朝一の連売りで特攻してガチホする感じかな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/198A/20251209-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;ポスプラ　5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/198A/20251209-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
