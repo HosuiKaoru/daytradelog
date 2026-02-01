@@ -6,7 +6,20 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 30 Jan 2026 09:45:46 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 20:59:43 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>寄り売り戦略</title>
+      <link>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%A3%B2%E3%82%8A%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Sun, 01 Feb 2026 20:59:43 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%A3%B2%E3%82%8A%E6%88%A6%E7%95%A5/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;過熱感のある銘柄で特定の条件が揃ったら寄り成り売りショート&lt;/b&gt;&lt;br&gt;
+寄らずS高という熱狂の翌日に、&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;買い需要が寄り付きの瞬間で消え、一方で潜在的な売り圧力が最大化する瞬間&lt;/span&gt;を狙い撃ち。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>1/30（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/01/30/</link>
@@ -4007,15 +4020,21 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
       
       <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
 ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
+&lt;h1 id=&#34;自立反発とは&#34;&gt;自立反発とは&lt;/h1&gt;
+&lt;p&gt;明確な節目割れや大陰線などの急落が発生することで価格が一時的に下に歪む。　　
+→市場参加者の損切り注文が成行と指値注文の両方が発生。
+→この成り行きを受け止めた後、一時的に売り板のほうが厚くなると、大口の買い戻しに利用され一時的に上に吹っ飛ぶ。&lt;br&gt;
+（逆指値を狩ってから上に戻すアルゴもこの動きを助長）&lt;/p&gt;
 &lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;強い成り行き売りを受け止め、少ない成り行き買いで上にいく動きは反転サイン。理想は成り行き売りのほうが成り行き買いより多い状況で陽線となること。ショート勢からすると力を使い果たしたために利確を考えねばならず、ロング勢からするとまだ力を残している状態。明らかに力関係が逆転し始めると考えられる場面。&lt;/li&gt;
 &lt;li&gt;出来高が増加している状態がうまくいきやすい。&lt;/li&gt;
 &lt;li&gt;急落からの節目&amp;quot;割れ&amp;quot;を拾いにいく意識が大切&lt;/li&gt;
-&lt;li&gt;厚い買い板の下で買うとド底狙いがしやすい（塾長より）&lt;/li&gt;
+&lt;li&gt;厚い買い板の下で買うとド底狙いがしやすい&lt;/li&gt;
 &lt;li&gt;5分足の陰線と同じ長さの陰線が続くことが多い。&lt;/li&gt;
 &lt;li&gt;下落中のどこかでフェイントの井上を挟んでいると尚良し。&lt;/li&gt;
-&lt;li&gt;しっかりめの下落トレンド＋下ヒゲ＋5MA上確定陽線（実態は小さめ）が良い。&lt;/li&gt;
+&lt;li&gt;しっかりめの下落トレンド＋下ヒゲ＋5MA上確定陽線（実態は小さめ）が出たら最高。&lt;/li&gt;
+&lt;li&gt;反転上昇時に一度下に降ってくるような下ヒゲ陽線が出現するとより上値が軽くなり、上昇が続きやすい。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;反発しやすいポイント&#34;&gt;反発しやすいポイント&lt;/h1&gt;
 &lt;h2 id=&#34;大幅gu日足の5ma25ma&#34;&gt;大幅GU＋日足の5MA(25MA)&lt;/h2&gt;
@@ -4043,11 +4062,7 @@ Appbankの時のような大口の仕掛けというわけではないが、押�
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/リバウンド戦略/6954/20251210-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  5分足&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/リバウンド戦略/6954/20251210-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  日足&lt;/p&gt;</description>
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  5分足&lt;/p&gt;</description>
       
     </item>
     
@@ -4420,9 +4435,7 @@ Xを見ても今日は負けていたり利益を取れていない人が多そ�
       
       <guid>http://localhost:1313/posts/strategy/nikaido/</guid>
       
-      <description>&lt;p&gt;寄り付きからの30分間でその日の収入が決まる&lt;br&gt;
-デイトレで大きく稼ぎたいのであれば、この時間帯に大きく稼げるスキルを身につける必要がある&lt;br&gt;
-最初の1、2回のトレードが大切→この利益を使って大きな勝負をする&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://xn--4kq3du32a4k4d27e.com/&#34;&gt;二階堂さんのサイト&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;トレードで勝てるようになったきっかけは何か&#34;&gt;トレードで勝てるようになったきっかけは何か？&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;トレードルールの見直し&lt;/li&gt;
@@ -4473,7 +4486,16 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/notice/nikaido/nikaido1.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;</description>
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/21 『8260』5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+ある値動きを見て「上昇の流れを継続している」と判断。  
+リスクを限定して、買いで入ったとのこと。  
+押し安値を下抜けても株価が崩れず、かつ、前日からの上昇の流れの継続を確認が必要。
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/notice/nikaido/nikaido2.png&#34; alt=&#34;メモの5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/08/22 『8260』5分足&lt;/p&gt;</description>
       
     </item>
     
@@ -5130,12 +5152,11 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
       
       <description>&lt;p&gt;&lt;b&gt;ルール&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;自分の予想と外れた動き方をしたら速攻で損切りする。（一度切り損なったら大負けするまで切れないことを認識すること）&lt;/li&gt;
-&lt;li&gt;5分足の確定足ベースでポジションをとる。&lt;/li&gt;
+&lt;li&gt;事前に想定したLCラインに到達したら何も考えずに損切りする。（ここにアドリブ要素を入れるのを禁止）&lt;/li&gt;
 &lt;li&gt;ロスカットするときにドテンの可能性を考慮する。&lt;/li&gt;
-&lt;li&gt;朝一や強い下落モメンタム発生時の初動に乗れなかった時→伸び切った所でエントリーせずに戻しをしっかり待つ。（戻さなかった場合は見送る）&lt;/li&gt;
+&lt;li&gt;朝一や強い下落モメンタム発生時の初動に乗れなかった時→伸び切った所でエントリーせずに戻しをしっかり待ってショート。（戻さなかった場合は見送る）&lt;/li&gt;
 &lt;li&gt;環境認識が上の時の天井当てゲームをしてはいけない。&lt;/li&gt;
-&lt;li&gt;5分足の大きな流れでの上昇トレンドの押し目リバ狙いは1回目でエントリー出来なかった時は見送る。（2回目の期待値は低くなる）&lt;/li&gt;
+&lt;li&gt;5分足の大きな流れでの上昇トレンドの押し目リバ狙いは1回目でエントリー出来なかった時は見送る。（2回目以降の期待値は低くなる）&lt;/li&gt;
 &lt;li&gt;日足で方向感を事前に決めてもいいが、スキャではその方向感を信用せずに1のルールを徹底する。&lt;/li&gt;
 &lt;li&gt;損失が出ている時の値嵩株の取引を禁止する。&lt;/li&gt;
 &lt;li&gt;朝一の大陽線や日足高値圏での大陽線などJCの可能性のある場面での取引を禁止する。&lt;/li&gt;

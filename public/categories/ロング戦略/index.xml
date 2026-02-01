@@ -121,15 +121,21 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       
       <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
 ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
+&lt;h1 id=&#34;自立反発とは&#34;&gt;自立反発とは&lt;/h1&gt;
+&lt;p&gt;明確な節目割れや大陰線などの急落が発生することで価格が一時的に下に歪む。　　
+→市場参加者の損切り注文が成行と指値注文の両方が発生。
+→この成り行きを受け止めた後、一時的に売り板のほうが厚くなると、大口の買い戻しに利用され一時的に上に吹っ飛ぶ。&lt;br&gt;
+（逆指値を狩ってから上に戻すアルゴもこの動きを助長）&lt;/p&gt;
 &lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;強い成り行き売りを受け止め、少ない成り行き買いで上にいく動きは反転サイン。理想は成り行き売りのほうが成り行き買いより多い状況で陽線となること。ショート勢からすると力を使い果たしたために利確を考えねばならず、ロング勢からするとまだ力を残している状態。明らかに力関係が逆転し始めると考えられる場面。&lt;/li&gt;
 &lt;li&gt;出来高が増加している状態がうまくいきやすい。&lt;/li&gt;
 &lt;li&gt;急落からの節目&amp;quot;割れ&amp;quot;を拾いにいく意識が大切&lt;/li&gt;
-&lt;li&gt;厚い買い板の下で買うとド底狙いがしやすい（塾長より）&lt;/li&gt;
+&lt;li&gt;厚い買い板の下で買うとド底狙いがしやすい&lt;/li&gt;
 &lt;li&gt;5分足の陰線と同じ長さの陰線が続くことが多い。&lt;/li&gt;
 &lt;li&gt;下落中のどこかでフェイントの井上を挟んでいると尚良し。&lt;/li&gt;
-&lt;li&gt;しっかりめの下落トレンド＋下ヒゲ＋5MA上確定陽線（実態は小さめ）が良い。&lt;/li&gt;
+&lt;li&gt;しっかりめの下落トレンド＋下ヒゲ＋5MA上確定陽線（実態は小さめ）が出たら最高。&lt;/li&gt;
+&lt;li&gt;反転上昇時に一度下に降ってくるような下ヒゲ陽線が出現するとより上値が軽くなり、上昇が続きやすい。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;反発しやすいポイント&#34;&gt;反発しやすいポイント&lt;/h1&gt;
 &lt;h2 id=&#34;大幅gu日足の5ma25ma&#34;&gt;大幅GU＋日足の5MA(25MA)&lt;/h2&gt;
@@ -157,11 +163,7 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/リバウンド戦略/6954/20251210-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  5分足&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/リバウンド戦略/6954/20251210-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  日足&lt;/p&gt;</description>
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;2025/12/10  5分足&lt;/p&gt;</description>
       
     </item>
     
