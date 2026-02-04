@@ -6,7 +6,22 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 03 Feb 2026 10:41:04 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Feb 2026 10:22:14 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2/4（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/02/04/</link>
+      <pubDate>Wed, 04 Feb 2026 10:22:14 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/02/04/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;技研ホールディングスを1分足の押し安値の位置にいれて待ってみたけど大陰線で貫かれた。&lt;br&gt;
+5分足の明確な下ヒゲラインやレジサポラインとかで待つべきで、1分足の押し安値だけで入るのはよくないってことだな。&lt;br&gt;
+まあでも、この銘柄特有の特徴っていう可能性もあるが。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>2/3（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/02/03/</link>
@@ -14,7 +29,8 @@
       
       <guid>http://localhost:1313/posts/log/2026/02/03/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+5,120円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;前場ほぼやることなく手が出せず。&lt;br&gt;
 マッジでほぼノートレ。&lt;br&gt;
 何をすればよかったのかもよくわからん。&lt;br&gt;
@@ -37,7 +53,28 @@
 らんまるさんの逆張りロングの時に、板と歩み値も同時に見ているとのことで買った瞬間に含み益になることが多いっていってたけど、こういうことなのかもしれない。&lt;br&gt;
 大衆心理的に損切り注文が集中する位置での需給の転換を狙うというやり方？&lt;br&gt;
 洋ジは日足の過熱感はなくなっていたタイミングだったし、地合いも悪くない状況というのも追い風として作用していそう。&lt;/p&gt;
-&lt;p&gt;アストロスケールの朝一の2本理論のオーバーシュート是正狙い。&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260203-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260203-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260203-ayumine1.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;150&#34; height=&#34;1000&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260203-ayumine2.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;150&#34; height=&#34;1000&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値２&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260203-ayumine3.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;150&#34; height=&#34;1000&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;歩み値３&lt;/p&gt;</description>
       
     </item>
     
