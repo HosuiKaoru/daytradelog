@@ -6,7 +6,77 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 12 Feb 2026 09:43:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 11:06:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>場中決算の攻略法</title>
+      <link>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</link>
+      <pubDate>Sun, 15 Feb 2026 11:06:22 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;場中決算で暴走したアルゴの&lt;span style=&#34;color: red;&#34;&gt;平均回帰&lt;/span&gt;を狙う戦略&lt;/b&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2/13（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/02/13/</link>
+      <pubDate>Fri, 13 Feb 2026 09:57:05 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/02/13/</guid>
+      
+      <description>&lt;p&gt;+26,698円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;決算ウィーク最終日。&lt;br&gt;
+場中決算銘柄は一切触らないやり方をしてきたので自分に恩恵は何もなかった。&lt;br&gt;
+ポカリさんやらんまるさんは場中決算銘柄で利益をがっつりとっているということから何かしらやり方はあるはず。&lt;br&gt;
+だと考え、特定の条件に絞った時に面白い結果が出たのでこれは別記事でまとめる。&lt;br&gt;
+不正銘柄のPTS戦略はどんどんパイは狭くなっているし、使えなくなる可能性だってあるが場中決算に関しては四半期に一回発動できる可能性があるという点でこちらの方が攻略する価値がある。&lt;/p&gt;
+&lt;p&gt;今日も住石でスキャるスキャる。&lt;br&gt;
+最近、まじで同じことしかしてなくて草。&lt;br&gt;
+これができなくなったらどうすんねん案件が続く。&lt;br&gt;
+ただ、同じことしかやってないからこそ気づけたことも多いのでこれも記事にまとめよう。&lt;br&gt;
+一番簡単なやり方だからこそ、一番深く考えられるようになって初めて、他の市場参加者に対するエッジが生まれるからな。&lt;/p&gt;
+&lt;h1 id=&#34;気づきと反省&#34;&gt;気づきと反省&lt;/h1&gt;
+&lt;p&gt;エクサウィザーズで朝一で負け。&lt;br&gt;
+決算は黒転でよいと思ったので下げたら朝一にぶん投げ売りで特大陰線が出たタイミングで買えば、相当リバウンドすると考えた。&lt;br&gt;
+が、貫かれて死亡。&lt;br&gt;
+Suさんはなぜエクサで入らなかったのか。&lt;br&gt;
+エンビは決算が良いのに寄り天で下落しているという、一見すると同じ状況なのになぜだろうか。&lt;br&gt;
+エクサはSaaS関連ということで、最近Saasは叩き売られている状況であること、日足の5MAを明確に下回っている下落であること、日足の上昇トレンド時に押し目を一切形成せずに上昇していることなどが関係してそう。&lt;br&gt;
+特に、日足の5MAの上にいるのか下にいるのかという点は大きな判断材料になりそう。
+日足ベースで強気なのか弱気なのかがそこでわかるからな。&lt;br&gt;
+出尽くし下げということみたいだけど、テクニカル派の自分にはファンダは理解不可能なので、シンプルに5日線・環境認識・関連銘柄の資金動向から判断してリバウンド狙いをするのかどうかを考えよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4259/20260213-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4259/20260213-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;中村超硬&lt;br&gt;
+これも一つ面白い考え方ができた。&lt;br&gt;
+まず、日足は上昇トレンド中で高値更新しそうな環境認識。&lt;br&gt;
+人工ダイヤ関連ということで前日はストップ高でしっかり張り付いて引けている。&lt;br&gt;
+PTSは洋ジの影響を受けて一回下落したが（レアアース関連でもあるため）、高値引けしてさらにそれより上で寄り付いているのでしこり玉が少ない。&lt;br&gt;
+そして、EDPはハイパーGUしている状況なので寄り凸してもよかった。&lt;br&gt;
+あと中村は値が軽い特徴があるので、朝一の連買いや特買いは取りやすいという銘柄特有の特徴もある。&lt;br&gt;
+条件が個別具体的すぎるため引き出しに入れられるものではないが、リアルタイムでの要因を複合的に考えて勝負してもよかった場面。&lt;br&gt;
+そして、何よりクロオクが素直に吹っ飛びすぎ。これも中村の特徴だよな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6166/20260213-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6166/20260213-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>2/12（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/02/12/</link>

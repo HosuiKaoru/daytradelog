@@ -6,20 +6,118 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 12 Feb 2026 09:43:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 11:06:22 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>12（木）のデイトレ結果</title>
+      <title>場中決算の攻略法</title>
+      <link>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</link>
+      <pubDate>Sun, 15 Feb 2026 11:06:22 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2/13（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/02/13/</link>
+      <pubDate>Fri, 13 Feb 2026 09:57:05 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/02/13/</guid>
+      
+      <description>&lt;p&gt;+26,698円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;決算ウィーク最終日。&lt;br&gt;
+場中決算銘柄は一切触らないやり方をしてきたので自分に恩恵は何もなかった。&lt;br&gt;
+ポカリさんやらんまるさんは場中決算銘柄で利益をがっつりとっているということから何かしらやり方はあるはず。&lt;br&gt;
+だと考え、特定の条件に絞った時に面白い結果が出たのでこれは別記事でまとめる。&lt;br&gt;
+不正銘柄のPTS戦略はどんどんパイは狭くなっているし、使えなくなる可能性だってあるが場中決算に関しては四半期に一回発動できる可能性があるという点でこちらの方が攻略する価値がある。&lt;/p&gt;
+&lt;p&gt;今日も住石でスキャるスキャる。&lt;br&gt;
+最近、まじで同じことしかしてなくて草。&lt;br&gt;
+これができなくなったらどうすんねん案件が続く。&lt;br&gt;
+ただ、同じことしかやってないからこそ気づけたことも多いのでこれも記事にまとめよう。&lt;br&gt;
+一番簡単なやり方だからこそ、一番深く考えられるようになって初めて、他の市場参加者に対するエッジが生まれるからな。&lt;/p&gt;
+&lt;h1 id=&#34;気づきと反省&#34;&gt;気づきと反省&lt;/h1&gt;
+&lt;p&gt;エクサウィザーズで朝一で負け。&lt;br&gt;
+決算は黒転でよいと思ったので下げたら朝一にぶん投げ売りで特大陰線が出たタイミングで買えば、相当リバウンドすると考えた。&lt;br&gt;
+が、貫かれて死亡。&lt;br&gt;
+Suさんはなぜエクサで入らなかったのか。&lt;br&gt;
+エンビは決算が良いのに寄り天で下落しているという、一見すると同じ状況なのになぜだろうか。&lt;br&gt;
+エクサはSaaS関連ということで、最近Saasは叩き売られている状況であること、日足の5MAを明確に下回っている下落であること、日足の上昇トレンド時に押し目を一切形成せずに上昇していることなどが関係してそう。&lt;br&gt;
+特に、日足の5MAの上にいるのか下にいるのかという点は大きな判断材料になりそう。
+日足ベースで強気なのか弱気なのかがそこでわかるからな。&lt;br&gt;
+出尽くし下げということみたいだけど、テクニカル派の自分にはファンダは理解不可能なので、シンプルに5日線・環境認識・関連銘柄の資金動向から判断してリバウンド狙いをするのかどうかを考えよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4259/20260213-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;350&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4259/20260213-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;中村超硬&lt;br&gt;
+これも一つ面白い考え方ができた。&lt;br&gt;
+まず、日足は上昇トレンド中で高値更新しそうな環境認識。&lt;br&gt;
+人工ダイヤ関連ということで前日はストップ高でしっかり張り付いて引けている。&lt;br&gt;
+PTSは洋ジの影響を受けて一回下落したが（レアアース関連でもあるため）、高値引けしてさらにそれより上で寄り付いているのでしこり玉が少ない。&lt;br&gt;
+そして、EDPはハイパーGUしている状況なので寄り凸してもよかった。&lt;br&gt;
+あと中村は値が軽い特徴があるので、朝一の連買いや特買いは取りやすいという銘柄特有の特徴もある。&lt;br&gt;
+条件が個別具体的すぎるため引き出しに入れられるものではないが、リアルタイムでの要因を複合的に考えて勝負してもよかった場面。&lt;br&gt;
+そして、何よりクロオクが素直に吹っ飛びすぎ。これも中村の特徴だよな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6166/20260213-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6166/20260213-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2/12（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/02/12/</link>
       <pubDate>Thu, 12 Feb 2026 09:43:05 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/02/12/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+26,330円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;バブル相場継続。&lt;br&gt;
-ダイヤ関連がまさかここまで強いとはね。&lt;/p&gt;
+そして、日経平均は6万円が射程に入ってきている。&lt;br&gt;
+恐ろしく下駄を履かせてもらっているだけな気がして恐い。&lt;br&gt;
+今日も今日とてダイヤ関連でスキャ。&lt;br&gt;
+寄りの位置が高くてスキャにビビったが、普通に寄り凸してストップ高狙っていくというチンパン手法が最強なのかよ。&lt;br&gt;
+自分のロットでももっと利益を出すことができると痛感した。&lt;br&gt;
+いつ、勝ちづらい相場が来るのかわからないのだから、勝てる時に買っておかないとな。&lt;/p&gt;
+&lt;p&gt;とりあえず、今日で今までの負けた分の金額を全て回収した。&lt;br&gt;
+しかし、資産的にはもとに戻すには税金の関係でもう少し稼ぐ必要がある。&lt;br&gt;
+とりあえず、今年からまともな利益が出始めたが、毎日相場に向き合うたびにこうしたらよかったなと気付きが出てくる。&lt;br&gt;
+楽しすぎる。&lt;br&gt;
+こんなに真剣に取り組めるもので、しかもお金が稼げて、青天井も狙える。&lt;br&gt;
+この世界で勝ち続けられる人は優勝すぎないか。&lt;br&gt;
+もっともっとトレードがうまくなりたい。&lt;br&gt;
+誰にも頼れず、誰にも頼られないこの世界は徹頭徹尾、自己責任の世界であり、自分と向き合い続ける世界。&lt;br&gt;
+恐ろしく、孤独で、不安に押しつぶされそうな世界だが、その分全ての利益は自分に還元される。&lt;br&gt;
+こんなに平等で残酷な世界はないのではないか。&lt;br&gt;
+あまりこんな言葉は使いたくないのだが、この世界で勝ち組になれるよう日々研鑽していきたい。&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
 &lt;p&gt;マイポックスはリバウンドラインで拾って他がストップ高なら、多少オーバーシュートしても少し時間軸伸ばして持つ考え方が必要だった。&lt;br&gt;
 だって、ダイヤ関連全てストップ高にいってたんだもん.
 こいつだけ取り残されると考えるべきではない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5381/20260212-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5381/20260212-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;レアアースとダイヤにガンガン朝は資金が入ってきてたから、それを見て、多少高い位置でも寄り買いすべき何だな今の相場では。&lt;br&gt;
 中村と住石は寄りが高いのにビビってスルーしてしまった。&lt;br&gt;
 マイポックスみたいにS高手前の寄り付きじゃない時はシンプルに勝負してよかったのか。&lt;br&gt;
@@ -30,23 +128,10 @@
 その後の元素は洋ジと岡本の上昇を見て入った場面が入ったけど、ロットを300にしたのはやりすぎ。&lt;br&gt;
 100で入って、2本押した所でもう一本入って様子見する感じにしないと。&lt;br&gt;
 前のめりになっていたと反省。&lt;/p&gt;
-&lt;p&gt;洋ジは朝一に指数と他のレアアース関連への資金の入り具合から歪みと考えて下落を拾ったけどスキャ気味に逃げた。&lt;br&gt;
-ここまではとてもよかったけど、その後、もう一回下に落ちてきたとこに自分のシナリオが崩れていないことを確認して長い時間軸の建玉を一つ入れておく脳みそが足らんかった。&lt;br&gt;
-なんかチャートだけでこうなったら買うというよりセクターや指数や日足の過熱感、貸借倍率などを複合的に考えてトレードすることの意味が最近少しだがわかった気がする。&lt;/p&gt;
-&lt;p&gt;ユニチカは上ヒゲ陰線をつけて5MAまで落ちてきているのを見て大衆心理と逆の考えで跳ねるかなあと思って入ってみた。&lt;br&gt;
-ちなみに、この考えで入るのは初めて。&lt;br&gt;
-拾う位置が高くて死亡。&lt;br&gt;
-てか、自分の損切りをする前に下に吹っ飛ぶかなあと板から感じ取れた。&lt;br&gt;
-これは、下に厚い買い板が並んでいるのにアップティックを食う動きがでなくてだらついていたから。&lt;br&gt;
-何となくやばいなって雰囲気があった。まだ言語化は完璧ではないが、直感に従っても悪くないレベルに自分はきてるのかな？&lt;br&gt;
-そうだと嬉しいが。&lt;br&gt;
-厚い買い板に安心感を覚えられない時はそっこうで逃げよう。&lt;/p&gt;
-&lt;p&gt;ヒーハイストは場中決算の大陰線戦略適用可能場面だったのかあ。&lt;br&gt;
-昨日作った戦略だっただけに悔しい。&lt;br&gt;
-今週末にこれは記事にまとめよう。&lt;/p&gt;
-&lt;p&gt;ヒーハイストは場中決算銘柄だから、クロオク吹き飛ぶ気配はそんなに信用できないとスルーしたけどぶっ飛ぶんかい。&lt;br&gt;
-これはムズいなあ。&lt;br&gt;
-様子見してからPTSで買ってクロオク取ってる人もいたので、それパクる。&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4082/20260212-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
