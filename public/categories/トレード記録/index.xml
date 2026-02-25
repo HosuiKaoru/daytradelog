@@ -6,15 +6,85 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 24 Feb 2026 23:47:44 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 00:19:42 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>24（火）のデイトレ結果</title>
+      <title>2/25（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/02/25/</link>
+      <pubDate>Wed, 25 Feb 2026 00:19:42 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/02/25/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2/24（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/02/24/</link>
       <pubDate>Tue, 24 Feb 2026 23:47:44 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/02/24/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;+5,350円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;Happy Birthday!&lt;br&gt;
+とはしゃぐ気持ちは0になる年齢になってしもうた。&lt;br&gt;
+20代中盤になっていてまだまだ思うような結果は出せていないが、今年が勝負の年。&lt;br&gt;
+レバレッジを効かせられる若いうちにリソースを最大限投下してリターンを得るように努めよう。&lt;/p&gt;
+&lt;p&gt;今日は、半導体・大型株だけ強くてグロースやテーマ株がしょぼい値動きだったためやることほぼなく。&lt;br&gt;
+日東紡はどうした？笑&lt;br&gt;
+朝一にEDPが連売になるタイミングで住石に速攻で空売りを仕掛けなければならないワンチャンスを逃してしまったのが最大の反省点。&lt;br&gt;
+ボラが少なくてやることのない日は朝一の数少ないチャンスをものにする以外は期待値が低いものしか残っていないので朝一は特に全集中しよう。&lt;br&gt;
+EDPとユニチカで板読みやリバ狙いを色々と試してみたが、酷いトレードと面白い気付きもあったのでそれをまとめる。&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;EDPがまさかこんなにしょぼい展開になるとは。&lt;br&gt;
+朝一に落としてくるならもっと落としてきてほしいし、落としてこないならやる気をもっと見せろ。&lt;br&gt;
+こんな心電図みたいな展開で勝つのはかなり難しかった。&lt;br&gt;
+とくに前場はトレンドが出ずに横横のタイミングで上を叩くスキャをやってアルゴにボコられ。&lt;br&gt;
+EDPは日ギア系なのか。てか最近の出来高急増銘柄って全部これ。&lt;br&gt;
+あの上に飛ぶ動き方を除いてはこのアルゴの入り方では上を叩くのをやめよう。&lt;br&gt;
+てか、前場は入れる場面がないねこれ。&lt;br&gt;
+寄り付きの一発目の連買い狙いくらいだけど、PTSの動き方もしょっぱかったからそれも微妙。&lt;/p&gt;
+&lt;p&gt;で、一つ面白い気付きになったのは後場に直近高値更新してくるタイミングの板の動き方。&lt;br&gt;
+明らかに、直近高値の蓋をしている売り板をくった瞬間に上に飛び跳ねた。&lt;br&gt;
+あれって人間では不可能だからどういうことかっていうと、ストップ狩りのリバウンド狙いの時と同じじゃね？って思った。&lt;br&gt;
+「〇〇円以上になったら買い」っていう逆指値注文が大量に入っていて（おそらくシストレ勢も入ってると思う）、その影響で上に飛び跳ねるってことっぽい。&lt;br&gt;
+一定の乖離が出たタイミングですぐに売ってくる感じもシストレっぽい動き方なんだよなあ。&lt;br&gt;
+直近高値を飛び越えそうでエントリーして、少し離れた位置に売り板をおいておくことで瞬間的に約定させることが出来そうだと思った。&lt;br&gt;
+前までは厚い売り板をくってブレイクした後にエントリーした方がいいと考えていたが、それだと下に振られてしまうので、厚い売り板を恐れなくなっているタイミングで先に買っておいて、売り注文を事前に出しておくやり方がいいと思った。&lt;/p&gt;
+&lt;p&gt;こんな値動きをして明日は果たして盛り上がるのか？&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7794/20260224-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7794/20260224-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;ユニチカはもう少し朝落としてきてくらないかなあ。&lt;br&gt;
+窓埋めのタイミングを狙ってたんだけど。&lt;br&gt;
+他の市場参加者も窓埋めのタイミングを狙っていたらしく、みんな狙っていたからそこまで落ちる前にリバっちゃったのかも。&lt;br&gt;
+こういう機会損失を防ぐために、二階堂さんは買い下がりを手法として取り入れているのかな。&lt;br&gt;
+日足ベースで勝負できると判断できた時は、買い下がりを試してみたい。&lt;br&gt;
+ただ、どうせびびって損切りしてしまう可能性がでかいし、建玉も引っ張れずにいる可能性の方が高いのでロットは少なくやる必要がある。&lt;/p&gt;
+&lt;p&gt;で、一つ気づいたことは朝一の下落の後に5分足の25MAでモミモミして、上にブレイクした後に本格的な上昇トレンドに繋がるあそこ。&lt;br&gt;
+この形は東洋エンジの3000円目指していた時と同じやん。&lt;br&gt;
+下落としてきてから切り返し、25MAで抑えられる上に陽線が出てからトレンドの本番。&lt;br&gt;
+ただ、これ25MAに押し返されて下落トレンドの展開になることもあるから、きちんと25MAでの出来高帯を実体でブレイクしてきたタイミングでエントリーするようにしよう。&lt;br&gt;
+これは一つ、有効なチャートパターンになりそうな気がする。&lt;/p&gt;
+&lt;p&gt;そして、後場にランチタイムGUをしたがそれが寄り天となって下がった。&lt;br&gt;
+なんか直感的に寄り天かなあと思ったんだよな。なんでだろう。&lt;br&gt;
+もう少し、気配に次は注目してみよう。&lt;/p&gt;
+&lt;p&gt;こういう上昇トレンド銘柄反転陰線狙いの空売りはまじで期待値低いから二度とやってはいけない。&lt;br&gt;
+ひたすら下で拾って上で利確をくりかえすだけでいいし、トレンド崩れないなら無限ホールドが結局最強だよな。&lt;br&gt;
+やることない日のためにも少し時間軸の長いデイトレもものにしていきたい。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3103/20260224-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
@@ -155,7 +225,8 @@ S高気配だったのに寄り付いた（原子炉関連はS高中）ってこ
       
       <guid>http://localhost:1313/posts/log/2026/02/18/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+54,690円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;まっっっっっっっっっっっっっっっっっっっじで反省しろ。&lt;br&gt;
 ダイヤが死んだ時の立ち回りを頭の中で何回も考えていたのに、住石の空売り在庫を確保することしか考えていない。&lt;br&gt;
 無理なもんは無理だったろ。&lt;br&gt;
@@ -212,11 +283,7 @@ Suさんのブログを見たら松井は在庫が普通に余っていたとの
 買い気配で上がっていく銘柄がいくつかあったので、この銘柄も上がるだろうと思いましたってさ。&lt;br&gt;
 いや、それはそうなんだけどさ。蓋されてもステイなのかよ。&lt;br&gt;
 ここはマジでメンタル勝負なんだな。&lt;br&gt;
-まあ、今はバブル相場で優しく逃がしてくれることが多い相場なのだからステイしてもよかったのか。&lt;/p&gt;
-&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/1514/20260218-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+まあ、今はバブル相場で優しく逃がしてくれることが多い相場なのだからステイしてもよかったのか。&lt;/p&gt;</description>
       
     </item>
     
@@ -227,7 +294,8 @@ Suさんのブログを見たら松井は在庫が普通に余っていたとの
       
       <guid>http://localhost:1313/posts/log/2026/02/17/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+67,690円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;ダイヤがあまりにも強すぎる。&lt;br&gt;
 EDPはこれさ、もう、おかしいよ。&lt;br&gt;
 昨日までと違って、バブル前提で少し引っ張るやり方で利益を積んだ。&lt;br&gt;
