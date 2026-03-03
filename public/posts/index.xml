@@ -6,7 +6,19 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 02 Mar 2026 08:21:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Mar 2026 01:36:09 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3/3（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/03/03/</link>
+      <pubDate>Tue, 03 Mar 2026 01:36:09 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/03/03/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>3/2（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/03/02/</link>
@@ -14,8 +26,58 @@
       
       <guid>http://localhost:1313/posts/log/2026/03/02/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
-&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;</description>
+      <description>&lt;p&gt;+30,680円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;アメリカとイランの戦争勃発でGDスタート。&lt;br&gt;
+遠くの戦争は買いとの格言通りに、大型株を中心として寄り底で上がっていった。&lt;br&gt;
+シンプルに電線三兄弟が直近でかなり強いから、フジクラと住友が上にいっているのを確認して古河寄り買いして放置するだけでよかった。&lt;br&gt;
+スキャ気味に細かく抜いていったのでたいした利益にならず。悔しい。次回は、ちょっと強気で引っ張るやり方にしよう。&lt;/p&gt;
+&lt;p&gt;自分のトレード内容としてはあまりよくないな。というかあまりやれることがなかった。&lt;br&gt;
+JMACSは日足的に朝一のリバ拾って引っ張るやり方は面白いアイデアだと思ったけど行動できなかったし、東京計器の寄り凸の考え方も行動に移せなかった。&lt;br&gt;
+月初負けスタートが多かったので、それを恐れてやるべきことができなかったことが悔やまれる。&lt;br&gt;
+とりあえず、やることがなさすぎてユニチカで狙える所だけ狙うみたいな一日になってるけど、電線三兄弟の横を見る投資法が新たな武器として今のところ感触は悪くないので、これは引き続き練習していこう。&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;ユニチカくん。&lt;br&gt;
+度と上叩かないわ。まじで。&lt;br&gt;
+アルゴの入り方から完全に指値待ちに優位性がある。&lt;br&gt;
+上昇中でもプルバックを待って入らないとボラティリティ激しいからやられてしまう。&lt;br&gt;
+ロングしたくなる所ではショート。&lt;br&gt;
+下に思いっきり落としてきた時は逆にロング。&lt;br&gt;
+逆張りで入って引っ張るイメージを持つとうまくいきやすい。&lt;br&gt;
+日足はかなり高い位置にいるので落としてくる時はしっかり引き付けて入ることを意識しよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3103/20260302-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;500&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;原油関連株の横を見る投資法でINPEXと石油資源の寄りショート戦略。&lt;br&gt;
+Shinkuさん、さすがやな。なるほどね。確かに。このアイデアは論理的に発想できたな。&lt;br&gt;
+ただ、思ったより石油資源は強いが故に、仮にこっちを損切りしてしまってもINPEXはしっかり寄り天になっているのでトータルではしっかりプラスにできる。&lt;br&gt;
+これは時価総額の大きさも関係しているのかな？&lt;br&gt;
+INPEX、ENEOS、出光、石油の時価総額順で寄り天チャートの美しさがそのまま適用されている。&lt;br&gt;
+大型アルゴの方が寄り天狙いでは使えるってことなのかもしれないよね。&lt;br&gt;
+これは一応、頭の中にいれておこう。&lt;/p&gt;
+&lt;p&gt;今日一の反省トレードは、古河の上昇を見てフジクラにエントリーしたこと。&lt;br&gt;
+牽引銘柄はあくまでフジクラであることは実証済みなのに、逆に思考してしまった。&lt;br&gt;
+寄り付き直後の時間帯ではなく、落ち着いている時間帯であるならなおさら、その古河の動きに対してフジクラは動かない。&lt;br&gt;
+てことは、弱い。つまり、空売り。までいけたら最高。&lt;br&gt;
+でも、まあ遅れて上がってくる可能性も全然あったから、「フジクラ、弱くね？」でスルーが正解だったな。&lt;/p&gt;
+&lt;p&gt;ファンデリーでクロオクぶちくらった。&lt;br&gt;
+小型貸借銘柄で日足バイン一日目だったのと、S高に近い価格帯だったので仕掛けてくる可能性が高いこと、引け買い注文数にクロオク前では優位性があったことから400株で勝負したが死亡。&lt;br&gt;
+まあ、色々と要因はあるのだろうけど、小型貸借だから、最後、買いを外してくる可能性を考慮できてなかった。&lt;br&gt;
+また、仕掛けてくるのであれば、張り付かせるべきだよな？&lt;br&gt;
+剥がれっぱなしにして、最後に張り付けてくるなら本尊の仕掛けと断定できるけど、チャート見たら最後の方は投げられてるやん。&lt;br&gt;
+小型貸借銘柄で本尊の仕掛けを前提としたクロオクのやり方は本尊の気持ちに立つと、妙味がないのでスルーしよう。&lt;br&gt;
+手痛い授業料だった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3137/20260302-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3137/20260302-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
