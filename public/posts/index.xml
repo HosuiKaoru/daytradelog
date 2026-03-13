@@ -6,7 +6,33 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 12 Mar 2026 14:30:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 12:43:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3/13（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/03/13/</link>
+      <pubDate>Fri, 13 Mar 2026 12:43:20 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/03/13/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;京都FGの寄り凸はかなり期待値あったと思う。&lt;br&gt;
+日足がスーパー上昇トレンドなのと、地合いの影響でのGD。&lt;br&gt;
+さらに、記念配当で配当利回りが昨日の引け時点でも4%を超えていて下値リスクも低かった。&lt;br&gt;
+これは狙いたかったなあ。&lt;/p&gt;
+&lt;p&gt;オンコリスは安値引けからのGDで寄り凸したけど死亡。&lt;br&gt;
+一応、6分寄り指値を最大リスクとしてまってたけど殺された。&lt;br&gt;
+うーん。日足チャートもいいし、教科書通りのパターンだと思ったんだけどなあ。&lt;br&gt;
+5分10分待てば利確できたけど、怖すぎワロタ。&lt;br&gt;
+9分より指値くらいを目処にやってみようかな。次は。&lt;br&gt;
+6分より指値だと強気すぎたのかもしれない。&lt;/p&gt;
+&lt;p&gt;サンコール&lt;br&gt;
+まず、空売りの入る位置がまえすぎてよくないなあ。&lt;br&gt;
+25MA付近までしっかり引き付けて大ロットで勝負しないと。&lt;br&gt;
+あそこで入るから切らされるんだよ。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>3/12（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/03/12/</link>
@@ -14,7 +40,56 @@
       
       <guid>http://localhost:1313/posts/log/2026/03/12/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;+33,080円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;やること少ない相場。&lt;br&gt;
+これにつきる。&lt;br&gt;
+サンコールのアルゴのオーバーシュートを狙って細かくスキャって利益をとったが、&lt;br&gt;
+本当にこの立ち回りでよかったのか疑問。&lt;br&gt;
+もっと、長い時間軸で保有して利益を引っ張るやり方をやっていかないと。&lt;br&gt;
+それに古河の寄り凸をひよってしまった。&lt;br&gt;
+そして、今日は寝坊してしまって8時59分に起きるという始末。&lt;br&gt;
+さすがに睡眠不足が溜まってきて体調にも影響し始めている。&lt;br&gt;
+パフォーマンスをあがるためにも筋トレと睡眠をもっと大切にしていこう。&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;日本ギア&lt;br&gt;
+昨日までの出来高の現象具合とモメンタムの弱り方、日足チャートを見ると高確率で飲泉がでると考えていたが、だらだら下げ続けて陰線に。&lt;br&gt;
+いやー、こういうのをとれるようにならんとなあ。&lt;br&gt;
+一日通して500株を引っ張るだけで10万とれるもんなあ。&lt;br&gt;
+引っ張り始められさえしてれば、ダラダラ下げてくれるのがむしろ好都合で嬉しいよな。&lt;br&gt;
+需給の転換が起こりづらいんだから。&lt;br&gt;
+これはこうなったらこうするみたいなパターン化はできないけど、出来高現象・モメンタム現象・日足が天井をつけた感満載の陰線の包み足などで朝一のショートリバに逆張りショートして一日引っ張るのはやっていこう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6356/20260312-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6356/20260312-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;サンコール&lt;br&gt;
+まあなんといっても今日はこいつでしょ。&lt;br&gt;
+次からは必ずここで入る！と決めた場所は画像のピンクの部分。&lt;br&gt;
+理由としては、明確に押し安値を割ってからゴルクロしてきているのが最高。&lt;br&gt;
+台形戦略の否定の形で、貸借銘柄ということもあるし、ショートカバーを狙える。&lt;br&gt;
+ここで入ったらひたすら引っ張りたいね。&lt;br&gt;
+直近高値ブレイク後のモメンタムが弱いのを見て半分売っておいて、チャートが崩れてないので押し目で売った分を追加。&lt;br&gt;
+最大出来高を作った上ヒゲ陰線で全部売って、そこからはガラった時のリバウンド狙いを中心に組み立てていく戦略。&lt;br&gt;
+これは、上値が軽くなる上昇パターンだからチャートの形としてかなり良いのでしっかり目に焼き付けておく。&lt;br&gt;
+最後の2300で引け間際にガラを狙うショートは考えられてたけど行動に移せなかった。&lt;br&gt;
+これはリスクほぼなかったと思うんだよなあ。&lt;br&gt;
+引け間際にモメンタムつく可能性の方が低いし、なんといってもチャートの形的に下にいきたそうすぎるからね。&lt;br&gt;
+しかし、引け間際のガラはリバる傾向にあるんか？&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260312-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260312-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
@@ -25,7 +100,62 @@
       
       <guid>http://localhost:1313/posts/log/2026/03/11/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;+26,830円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;日経1000円プラスという日だけど、大型やめたからいつも通り恩恵少なく。&lt;br&gt;
+色々と動いていたけど、負けたくなさすぎていい位置で入れているのに利確は早いわ、ロットは少ないわでたいした利益を積めず。&lt;br&gt;
+たくさん勝負仕掛けられる場面があったのにうむむ。&lt;br&gt;
+スキャに徹しすぎているので、ロットは抑えめでももう少し長い時間軸のトレードに今月は挑戦していかないと。&lt;br&gt;
+それが今月の大きなテーマだから。&lt;br&gt;
+その観点からいくと、日本ギアのショート目線・JXのロング目線・光関連のロング目線はあったよな。&lt;br&gt;
+まあ、結果論なんですけどね。&lt;br&gt;
+寄り後に良い位置で入れたのであれば長めに持ってみるやり方もやっていきたい。&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;日本ギア&lt;br&gt;
+正直もっととれなきゃいけない日だった。&lt;br&gt;
+寄り付き上昇後の上髭狙いは銘柄の特徴をおさえていて素晴らしいのに微益で撤退してしまっているし、その後の上昇トレンド狙いのロングの仕込み玉も300株とかなり控えめなロットにしてしまっている。&lt;br&gt;
+何より、日足の高値をブレイクしたものの高値キープできずに落ちてきたところは明らかに今までのこの子の値動きからすると弱いので、追撃ショートして引っ張る投資法を考えることができたはず。&lt;br&gt;
+その後の全然ボラがない時間帯に手を出さなかったのはえらい。&lt;br&gt;
+唯一上髭狙いの売り指値を入れておいたけど当たらなかったからしゃあなし。&lt;br&gt;
+ただ、ここで考えておきたかったのは、2100のサポートを確定足で割ってきたあのタイミング。&lt;br&gt;
+リアルタイムで見ていて、これはチャートの形が悪いと下がる！と思ったのにショートできず。&lt;br&gt;
+追撃ショートを封印してきたけど、これは銘柄のモメンタムの変化を根拠に加えた考え方だからよかったな。まさかあそこまでガラくるとは思わなかったけど。&lt;br&gt;
+最後、リバウンド狙いで一つ目を見送って二つ目の直近の明確な押し安値＋日足の5MAのラインでロットあげてひきつけてロング。したが貫かれて損切り。&lt;br&gt;
+振り替えるとその下でリバウンドして自分の指値の位置は助かっているが、想定と違うので損切になってしまった。&lt;br&gt;
+何かしらワンアクションはあると思っていたが、そのまま貫かれたので損切りになったけど、これは悪くないと思う。&lt;br&gt;
+ちゃんと根拠をもってひきつけていたし、ド底切りになってるけどしゃーないね。&lt;br&gt;
+ただ、自分が投げた位置は５分足の明確なレジサポラインだから、ここで戦略的買い下がり指値を入れておいて、ここがド底にならないなら速攻で損切りするプランBまで考えられていたらよりよかった。&lt;br&gt;
+相当ひきつけた位置で待てているのだから、余裕を持てているものの、それすら貫かれた時のために下で指値待ちを追加するのは合理的かどうか？というところまでガラを拾うときは考えるようにしよう。&lt;br&gt;
+一撃で強くくらったけど、そんなに悪いトレードではなかったと思う。&lt;br&gt;
+そして、日ギアのクロオクは引け成り注文は騙しで下に飛ぶと考えていたけど当たっていた。&lt;br&gt;
+これは、日足チャート的にもう終わった感じが濃厚だし、両建てしてる人の買いが外れてくる可能性も大いにあるので、シンプルにスイング勢の心理読みで考えてたけどあたってたんか。&lt;br&gt;
+ガラの後にたいして粘れずにもみもみしてたのが非常によくなかったよな。&lt;br&gt;
+ここでショート仕込んでおいてクロオクに繋げる考えまでは頭が回らなかった。&lt;br&gt;
+ガラったのにリバがこない＝弱い。&lt;br&gt;
+てか、今日高値切り下げ線通りにトレード戦略組み立てられたやんけ。くっそ。&lt;br&gt;
+これは、勿体ないな。&lt;br&gt;
+モメンタムの衰えを顕著に感じた日は、切り下げ線ひきつけショート→ガラ狙いは面白いかも。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6356/20260311-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6356/20260311-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;サンコール&lt;br&gt;
+寄り付き直後のオキサイドの連売りを見て、横を見る投資法でサンコールのショートをカチこんだけどロットが200株とかわいすぎてまともな利益にならず。&lt;br&gt;
+光関連は連動性が弱いからこれはたまたまなのかどうなのか。&lt;br&gt;
+プライムだから指数の追い風もあるから、寄り付いてから指数が上げていっていたので、むしろあの下髭はチャート的にも強気で拾えたかもな。
+さすがに最後まで引っ張るのは無理だけど。&lt;br&gt;
+クロオク吹き飛びすぎてません？引け成りの差は10tickあるかどうかだったのに60もとぶんかい。すごい成買入ってきてたな。&lt;br&gt;
+空売りの買戻しが入っていたからなのかどうなのか。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260311-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
