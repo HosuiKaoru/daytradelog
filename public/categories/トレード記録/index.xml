@@ -6,15 +6,74 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 24 Mar 2026 23:14:20 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Mar 2026 15:53:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>24（火）のデイトレ結果</title>
+      <title>3/25（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/03/25/</link>
+      <pubDate>Wed, 25 Mar 2026 15:53:19 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/03/25/</guid>
+      
+      <description>&lt;p&gt;-21.270円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>3/24（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/03/24/</link>
       <pubDate>Tue, 24 Mar 2026 23:14:20 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/03/24/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;+46,838円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;今日は1～2月のトレードを彷彿とさせる一日だった。&lt;br&gt;
+というのも、ひたすら連動スキャを狙い、自信のあるポイントのみ局所的にリバウンド狙いで入り、他は全部スルーという一日。&lt;br&gt;
+これだけでこんなに利益出せるんかい。&lt;br&gt;
+3月中にいろいろと苦労していたけどやっぱり自分のこの武器はしっかり使えている。&lt;br&gt;
+トレード回数的には今月Top2くらい少なかったけど、場面をしっかり選ぶこと、脳死で損切りすることだけを意識したら残る利益はしっかりあると再確認できた。&lt;br&gt;
+この武器が毎日使えるわけではないのでいろんなことを試して引き出しを増やす月間にしようとしているのだが、有効なチャートパターン少しと寄り凸の考え方を少し得ることはできたかな。&lt;br&gt;
+にしても授業料を払いすぎだけどw&lt;br&gt;
+まあ、無駄なトレードや希望を含んだトレードで大きくくらったのが多いからひとえに自分の弱さなのだが。&lt;br&gt;
+とりあえず、自信のあるポイントに絞ってのトレードを繰り返して、チャレンジトレードはロットを100に固定化してやるようにしよう。&lt;br&gt;
+ロット100だぞ！100!&lt;/p&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;東洋エンジニアリング&lt;br&gt;
+有効レジサポライン＋出来高急増大陰線＋9:30前というタイミングでほぼド底エントリーできた。&lt;br&gt;
+こいつは2000円台になるとアルゴが露骨なので、ちゃんと先に売り指値いれておいて、振幅を利用して利確することができた。&lt;br&gt;
+あまりに日経が弱いこともこいつの下落には後押しされているのでシンプルに寄りで順張りショートしてれば楽だったのだが。&lt;br&gt;
+それでも狙えるところだけを局所的にリバウンドでちゃんと狙ったのはいい。&lt;br&gt;
+損切りもノータイムで行う構えをとれていたしな。この姿勢よ！忘れずに！&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260324-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6330/20260324-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;共栄タンカー&lt;br&gt;
+まあ、今日のメインはこいつだわな。&lt;br&gt;
+明海に完全に連動することがわかったので、明海の上昇に合わせてスキャで抜きまくった。200~400株でこの利益だからもう少し攻めたら1.5倍の利益はとれたな。&lt;br&gt;
+ちゃんと明海が特売りになったタイミングを見てタンカーは下がっちゃったけど追撃の空売りを入れたのはえらい。&lt;br&gt;
+唯一逃したなあと思うのは、明海が特売り中にタンカーが謎に50tickくらバインしたあそこ。&lt;br&gt;
+あれは完全に空売りのチャンスでしかなかったよな。&lt;br&gt;
+明海の気配的に寄らないし、もし寄ったとしたら損切すればいいだけ。&lt;br&gt;
+高値更新していくより一時的なアルゴの歪みと判断できた。&lt;br&gt;
+ここの大ロットショートいれて一日通して引っ張るトレードは本当にやりたかった。明海の死亡具合を見たら、この子が高値更新していく可能性は0に近かったからこそ、RRの良い状況だった。&lt;br&gt;
+悔やまれる。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/9130/20260324-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/9130/20260324-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
