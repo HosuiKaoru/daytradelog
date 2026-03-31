@@ -6,7 +6,24 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:48:12 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 09:51:14 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3/31（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/03/31/</link>
+      <pubDate>Tue, 31 Mar 2026 09:51:14 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/03/31/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;気付きと反省&#34;&gt;気付きと反省&lt;/h1&gt;
+&lt;p&gt;フジクラ&lt;br&gt;
+あそこなあ。先物キチ上げに対して相対的にあまりにも弱いのを見て、ドテンショートだったなあ。&lt;br&gt;
+くっそ。&lt;br&gt;
+先物連動の違和感を感じた時点でショートした方がRRよかったなあ。チャンス逃してしまった。&lt;br&gt;
+先物キチ上げやキチ下げに入れなかった時は、反応の強弱を観察してドテンポジションをどれで持つとよいのかを分析する時間にあてること。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>3/30（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/03/30/</link>
@@ -14,7 +31,8 @@
       
       <guid>http://localhost:1313/posts/log/2026/03/30/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;-9,530円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;もはや何回目かわからないマンデー。&lt;br&gt;
 半導体系は寄り凸してうまくいくイメージが全くないのでグロースの主力どころとかを考えていたけど、寄って一段安せずにそのままストレートにあげていくのかよ。&lt;br&gt;
 素直な値動きすぎて全くとれなかった。&lt;br&gt;
@@ -30,21 +48,37 @@
 全て殺されて死亡。&lt;br&gt;
 今日の一番の損切り額は圧倒的にこいつ。&lt;br&gt;
 連動銘柄としてまだ確認できていないタイミングだったのだから、ロットは控えめにして試すべきだった。これは反省。&lt;br&gt;
-別にチャレンジしたこと自体は悪くない。&lt;/p&gt;
+別にチャレンジしたこと自体は悪くない。&lt;br&gt;
+ただ、ロットが問題。&lt;br&gt;
+この考え方は間違っていたということなので、次に同じような場面が来た時は見送ること。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3315/20260330-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3315/20260330-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;QPSHD&lt;br&gt;
 これは前日安値引け＋GDスタートからの一段安を引き付けて狙った。&lt;br&gt;
 うーーん。考え方は悪くない。&lt;br&gt;
 実際、自分の入った位置から10tickくらいはショートリバあったし。&lt;br&gt;
 でもド底狙いの考え方としてはまだ甘い。&lt;br&gt;
 日足の有効レジサポが2125あたりにいるから、ここまで引き付けたかったな。&lt;br&gt;
-まあ、下でナンピンしてればしっかり利益になってはいるけど、ちゃんと損切りラインを突破したからノータイムで切ったのはいいよ。&lt;br&gt;
+まあ、下でナンピンしてればしっかり利益になってはいるけど、ちゃんと損切りラインを突破したからで切ったのはいいよ。&lt;br&gt;
+ノータイムで切ってないのは問題だがな。&lt;br&gt;
 エントリーの位置がまだ少しだけ甘かったということ。&lt;br&gt;
 日足ベースでのレジサポラインを考えられていなかったので、ユニチカや日ギアみたいに日足ベースでの強力な根拠がある位置で引き付けてロット上げて勝負するやり方にしよう。&lt;/p&gt;
-&lt;p&gt;片倉コーク&lt;br&gt;
-2本押して上狙いが機能したけど、200株かあ。&lt;br&gt;
-かなり弱気のロットになってしまっている。&lt;br&gt;
-日本コークスでそれなりに被弾したことが尾を引いてしまっている。&lt;br&gt;
-メンタルのブレが課題だなあ。&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/464A/20260330-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/464A/20260330-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
