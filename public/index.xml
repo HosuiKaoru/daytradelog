@@ -6,7 +6,81 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 03 Apr 2026 10:00:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 21:31:34 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>値幅4倍銘柄での立ち回り</title>
+      <link>http://localhost:1313/posts/strategy/%E5%80%A4%E5%B9%854%E5%80%8D%E9%8A%98%E6%9F%84/</link>
+      <pubDate>Sun, 05 Apr 2026 21:31:34 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E5%80%A4%E5%B9%854%E5%80%8D%E9%8A%98%E6%9F%84/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;値幅4倍銘柄特有の値動きの癖を利用する&lt;/b&gt;&lt;/p&gt;
+&lt;h1 id=&#34;エントリー条件&#34;&gt;エントリー条件&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;寄り天 or 寄って上げた後安値更新してくること&lt;/li&gt;
+&lt;li&gt;5分足で2段下げで安値更新してきている状態&lt;/li&gt;
+&lt;li&gt;25MA上で小陰線 or 小陽線など下げ止まりを見せること&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;損切り条件&#34;&gt;損切り条件&lt;/h1&gt;
+&lt;p&gt;下げ止まったと推測されるロウソク足の下ヒゲ（当日安値）を割ってきた時&lt;/p&gt;
+&lt;h1 id=&#34;利確条件&#34;&gt;利確条件&lt;/h1&gt;
+&lt;p&gt;下落途中の揉み合いライン下限到達で利確&lt;/p&gt;
+&lt;h1 id=&#34;パターン&#34;&gt;パターン&lt;/h1&gt;
+&lt;p&gt;①2026/02/02 『3803』&lt;br&gt;
+一度上に上がるもののすぐに折り返してきて、2段下げで25MA上に小陰線のため条件合致。&lt;br&gt;
+800の節目を一瞬割ってきているということも良い状態。&lt;br&gt;
+大陰線出現でも見合ったライン下限到達＋連買いとなったのでここで利確。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/値幅4倍/3803/20260202-5minutes.png&#34; alt=&#34;値幅4倍の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/値幅4倍/3803/20260202-day.png&#34; alt=&#34;値幅4倍の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;②2026/02/19 『4241』&lt;br&gt;
+寄り天で下落して2段差げで25MAで小陽線出現でエントリー。&lt;br&gt;
+もみ合ったラインの下限到達で利確。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/値幅4倍/4241/20260219-5minutes.png&#34; alt=&#34;値幅4倍の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/値幅4倍/4241/20260219-day.png&#34; alt=&#34;値幅4倍の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>日足の青天戦略</title>
+      <link>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E9%9D%92%E5%A4%A9%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Sun, 05 Apr 2026 19:54:26 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E9%9D%92%E5%A4%A9%E6%88%A6%E7%95%A5/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;日足の青天シグナルよりロングする&lt;/b&gt;&lt;br&gt;
+日足で&lt;span style=&#34;color: red;&#34;&gt;連続陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>先物連動スキャ</title>
+      <link>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</link>
+      <pubDate>Sun, 05 Apr 2026 19:22:26 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;先物と連動性の強い銘柄でスキャルピング&lt;/b&gt;&lt;br&gt;
+β値が高い銘柄が先物の上昇・下落に対して反応はするが動意付きが明らかに弱い状態で&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;相対的な弱さ&lt;/span&gt;を利用して逆張りする。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>4/3（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/04/03/</link>
@@ -83,7 +157,8 @@
       
       <guid>http://localhost:1313/posts/log/2026/04/02/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+27,558円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;いつまでこのチャンス全然ない相場が続くのか。&lt;br&gt;
 上昇トレンドが出る気配もないし、下落トレンドかとおもったらバインしてくるし、日経がレンジ＋戦争不安が払拭されないこの時期はずっとこんな感じなのかなあ。&lt;br&gt;
 にしても難しい日々が続く。&lt;br&gt;
