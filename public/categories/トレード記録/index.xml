@@ -6,7 +6,94 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:38:36 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2026 06:50:07 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4/11（土）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/04/10/</link>
+      <pubDate>Sat, 11 Apr 2026 06:50:07 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/04/10/</guid>
+      
+      <description>&lt;p&gt;-111,730円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;一日の最大負け額更新。&lt;br&gt;
+決してティルトモードに入ったわけではないが、自分の考えを否定したくないという欲求によって損切りを遅らせたこと、メンタルがやられたことにより行動すべき所で行動をためらったことがこのような結果に繋がった。&lt;br&gt;
+明確に負けパターンが発覚したのでこれを禁止する。&lt;br&gt;
+今月の利益の半分を吹き飛ばす典型的なコツコツドカンとなってしまっており、このままだと利益が残らないのでこの負けパターンの禁止は徹底すること。&lt;br&gt;
+大勝ちした時も大負けした時もメンタルが逆にぶれないのはなんなんだろう。&lt;br&gt;
+にしてもサンクコスト効果？になってしまっていたな。&lt;/p&gt;
+&lt;h1 id=&#34;気づきと反省&#34;&gt;気づきと反省&lt;/h1&gt;
+&lt;p&gt;QPSホールディングス&lt;br&gt;
+大負けの正体はこのこ。&lt;br&gt;
+空売りで入って負けた。&lt;br&gt;
+なぜ入ったかというとアストロスケールがGU陽線からの上ヒゲで戻しているのを確認したから。&lt;br&gt;
+関連銘柄のこっちも同じ動きするだろうと空売り勝負。&lt;br&gt;
+しかし、グロース指数は陽線続きの状態だった。&lt;br&gt;
+結果、どうなったか？ぶち上げ。&lt;br&gt;
+連動スキャをやるならすぐ下にいかない時点で損切りしないといけないのに、少ししてから追いついてくるパターンだ！こいつは少し行き過ぎるところがあるからな！などと、クソの役にも立たない後付け講釈をつけたためにどんどん損切りが遅れて結果自爆。&lt;br&gt;
+ワンショット54000円の損失だったが、これは半分以下におさえることは余裕でできた。&lt;br&gt;
+無理だあと考えて、であればドテン買いだ！とロングとって下に振られて2万の追加の損失。これが最悪。&lt;br&gt;
+普通に高値圏すぎるし、大陽線2連続で普段だったら絶対に買わない位置で買ってしまっている。&lt;br&gt;
+本当に何をやっているんだろうか。&lt;br&gt;
+これは完全に冷静にトレードできていなかった証拠。&lt;br&gt;
+アストロとの連動を狙ってトレードするのは今回で間違えだったとわかったわけだが、一つルールを加えたい。&lt;br&gt;
+日足の形が良い時は空売り禁止ルールである。&lt;br&gt;
+具体的には、日足が高値切り下げ線ブレイク・25MAブレイク・青天状態の時は空売りをして勝てることの方が少ない気がする。&lt;br&gt;
+最近、高値圏で空売りして勝てていたのは日経がレンジだったのと、個別銘柄も明確にレンジだったので上値が重い展開が続いたから。&lt;br&gt;
+だからテクニカル的に空売りをして天井を狙うことに妙味があったと思う。&lt;br&gt;
+ただ、今は日経も上昇トレンド復活しているし、個別も思いっきりぶち上げ始めたものが多かったのでこの考え方は通用しなくなったと考えるべき。&lt;br&gt;
+引き出しにいれておいて、状況に応じて使い分けるというのはまさにこのこと。&lt;/p&gt;
+&lt;p&gt;KOKUSAI&lt;br&gt;
+これも同じ。&lt;br&gt;
+というかこっちに関してはもっと酷かったな。&lt;br&gt;
+日足の明確なレジスタンスラインはないのに、だいたいこのへんだろうと値ごろ感から空売りしてしまった。&lt;br&gt;
+日経上＋こいつも高値切り下げ線ブレイクかつ出来高上昇中というウルトラ状態で安易な空売りをして追加の損失を被る。&lt;br&gt;
+いかにこういう状況で空売りをするのに合理性がないかがわかる。&lt;/p&gt;
+&lt;p&gt;ユニチカ&lt;br&gt;
+もう何度も書く気はない。&lt;br&gt;
+こいつも同様の理由で死亡した。&lt;br&gt;
+てか、ピンクの下ヒゲ陽線を見てロングできたよねえ。&lt;br&gt;
+あと25MAでの押し目買い狙いも。&lt;br&gt;
+日足の環境認識が上の状態で逆張りロングするのに優位性があるのであって、逆張り空売りは最悪。&lt;br&gt;
+上位足のトレンドに逆らうことの恐ろしさを嫌というほど刻み込まれた一日。&lt;/p&gt;
+&lt;p&gt;ヒトトヒト&lt;br&gt;
+リバウンドを狙おうと思えば狙える場面がいくつもあった。&lt;br&gt;
+大負けしていたのでちまちまとっても仕方ねえや。&lt;br&gt;
+一発で大きく取り返せる考え方が何かないかな？&lt;br&gt;
+などと、うんちの考え方をしてしまったために本来やるべきトレードをやらず。&lt;br&gt;
+自分が本来やるべきことをやらずに美しく勝とうとしすぎていないか？&lt;br&gt;
+いや、Shinkuさんでもないんだからお前には100年早えっつうの。&lt;br&gt;
+泥臭くいこうぜ。&lt;/p&gt;
+&lt;p&gt;QDレーザ&lt;br&gt;
+グロース指数も軒並み強く、主力銘柄が全て上だったのに本来主力のはずのこいつだけ放置されていたのでこれは動意づいてくるのでは？というアイデア。&lt;br&gt;
+いや、秀逸すぎて草。&lt;br&gt;
+500ロットでいいからやらんといけんかったな。&lt;br&gt;
+まあ、一つ引き出しが増えたとしよう。&lt;/p&gt;
+&lt;p&gt;アストロスケール&lt;br&gt;
+こっちの方が考え方は簡単。&lt;br&gt;
+アクセルスペースがS高に迫る上昇＋QPSは高値キープ＋ispaceすら急上昇の状態でアストロスケールが日足青天状態なのにこのまま放置されるわけがないとは思っていた。&lt;br&gt;
+思っていたのに仕込めなかったなあ。&lt;br&gt;
+仕手系の仕掛けを狙う時は仕込めるのにこういう銘柄を仕込むのには躊躇してしまっている。&lt;br&gt;
+だから、ロット落としてチャレンジしようって何回も復習してるじゃん。&lt;br&gt;
+まずは少しずつでいいいから無理せずチャレンジしていこうぜ。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260410-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>11（土）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/04/09/</link>
+      <pubDate>Fri, 10 Apr 2026 06:50:25 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/04/09/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>4/8（水）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/04/08/</link>
@@ -14,7 +101,8 @@
       
       <guid>http://localhost:1313/posts/log/2026/04/08/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;-8,690円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;アメリカとイランの休戦発表でハイパーGU相場。&lt;br&gt;
 いや、まっじでこういう日苦手なんだよなあ。&lt;br&gt;
 ジリジリ上げていく感じで上下にボラがない感じくっそ苦手。&lt;br&gt;
@@ -25,12 +113,22 @@
 ええ、無理です。このこは。&lt;br&gt;
 アイデアも何もなく、苦しい展開が続く。&lt;br&gt;
 こういう日は朝一のショートリバ狙い以外は俺はとれないから、いつも以上に朝の20分に全集中する必要がある。&lt;br&gt;
-Suさんがなにでとっているのかを見てしっかり勉強する必要がある。&lt;/p&gt;
+Suさんがなにでとっているのかを見てしっかり勉強しよう。&lt;/p&gt;
 &lt;h1 id=&#34;気づきと反省&#34;&gt;気づきと反省&lt;/h1&gt;
 &lt;p&gt;ヒトトヒト&lt;br&gt;
 システムエグゼとかいう直近IPOがGDスタートからぶち上げている状況でこいつは大幅GUスタート。&lt;br&gt;
 この連動を捉えるのであれば、寄り凸に期待値があった気がする。&lt;br&gt;
 GU銘柄に特攻するのはかなり勇気がいるけど、日足も青天だし面白いと思った。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/549A/20260408-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/549A/20260408-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;INPEX&lt;br&gt;
 前日安値引け＋大幅GDでこれは寄り凸しようかクソ迷ってた。&lt;br&gt;
 けど見送った。&lt;br&gt;
@@ -44,9 +142,14 @@ GU銘柄に特攻するのはかなり勇気がいるけど、日足も青天だ
 ファンダ要因は無視して考えるようにしよう。&lt;br&gt;
 テクニカルで見て日足のレジサポ転換ラインの4300でしっかり天井つけている。&lt;br&gt;
 利確ラインも日足のテクニカルで。&lt;/p&gt;
-&lt;p&gt;パワーエックス&lt;/p&gt;
-&lt;p&gt;商船三井&lt;/p&gt;
-&lt;p&gt;リファインバース&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/1605/20260408-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/1605/20260408-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
