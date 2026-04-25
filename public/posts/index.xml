@@ -6,7 +6,68 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 23 Apr 2026 17:38:10 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Apr 2026 19:16:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4/24（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/04/24/</link>
+      <pubDate>Sat, 25 Apr 2026 19:16:49 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/04/24/</guid>
+      
+      <description>&lt;p&gt;-117,890円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;もう疲れた。疲れたよ。今月の損益振り出し。&lt;br&gt;
+久しぶりに株に対する自信が完全になくなった。そんな一日。&lt;br&gt;
+この負けのうち、6万円は誤発注によるもの。&lt;br&gt;
+もう半分は強い銘柄の順張りで微損撤退の繰り返しや、普段なら入らないポイントでのエントリーの損切りの積み重ね。&lt;br&gt;
+下落トレンドの逆張り狙いでコツコツ積み重ねるスタイルではなく、順張りで強いものにガンガン乗っていくスタイルに変わろうと3月から模索しているのだが結果として全くうまくいかない。&lt;br&gt;
+てか上を叩くと面白いように負けている。去年の負け続けていた時期みたいな感じ。&lt;br&gt;
+マジでどうしたらいいんだ。&lt;br&gt;
+いやまあ、負けパターンはわかっているんだよ？それは直す。&lt;br&gt;
+でも、今日とかはさ、誤発注がなかったとしても勝てなかった。&lt;br&gt;
+こうしたら勝てたなあとかがよくわからない、だからなえてる。&lt;br&gt;
+順張りしようにも上を叩くと負けるから落ちてくるところを拾うイメージでやらないといけないと思ったけど、これは逆張りじゃね？&lt;br&gt;
+しかも高値更新したらそのままするする上げていくのではなく、思いっきり落としてきてじわじわ上げたり、一気に上げて落としてきたり&amp;hellip;。&lt;br&gt;
+出来高爆発の貸借銘柄で時価総額500億くらいということで、仕手株ではないんだけどアルゴがとんでもなくて、超えたから強い・落ちたから弱い・厚い売り板を突破したから強いとか全部だまし。&lt;br&gt;
+全部信用せずに戦うべきなのか？それでも本当に強いときは置いて行かれるよな。&lt;br&gt;
+どう考えればいいのか？何も光が見えない。&lt;br&gt;
+一つだけ思ったのは、貸借だから上下にすごい動くのかなあというだけ。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;ACSL&lt;br&gt;
+上記の銘柄がこいつのこと。&lt;br&gt;
+一本目がスーパー上髭陽線なのにそこから思いっきり上げていって上昇トレンド。&lt;br&gt;
+この時点で意味不明。&lt;br&gt;
+完全にアルゴに制御されていて本当にやりづらかった。&lt;br&gt;
+トータル収支は結局マイナス1~2万っぽいんだよな。&lt;br&gt;
+これはアルゴが本当に優秀ってことだよな。&lt;br&gt;
+こういう明らかにアルゴに制御されている銘柄は上を叩くと負けるということを学んだ。&lt;br&gt;
+この間、10万勝ちを連続でできたのは小型の信用銘柄なのでそもそも同じようなやり方で勝てると思ったのが間違いだったのかもしれない。&lt;br&gt;
+かといって、こっちは下で拾っていくっていっても下の判断基準がよくわからない。&lt;br&gt;
+つまり、今の自分では手出ししないべきだったのかもしれない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6232/20260424-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6232/20260424-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;ブルーイノベーション&lt;br&gt;
+ACSLと同じでドローン関連の小型信用銘柄。&lt;br&gt;
+連動性が薄れていてこちらも負けた。&lt;br&gt;
+一つ、発想としてあったのはテラドローンが下げ止まって、ACSLは上昇トレンドなのにこいつは下落していて、弱いのは弱いんだけど、日足は上昇トレンドだから5日線あたりにぶん投げ売りが出るなら拾ってみるのありかもって直感的に思った。&lt;br&gt;
+下がらないならホールドしてれば、これ以上下に売ってくるとは考えづらいからな。&lt;br&gt;
+言語化はできていなかったけど、これは面白そうってリアルタイムで考えた中身はこういうこと。&lt;br&gt;
+こういう発想は大事にしたい。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5597/20260424-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>4/23（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/04/23/</link>
@@ -45,28 +106,95 @@
 基本的な部分を忘れるな。&lt;br&gt;
 そして、負けるな。自分に。&lt;br&gt;
 こんなどうしようもないほどダメな人間でも信じてあげられるのは俺だけ。&lt;br&gt;
-さあ、再び立ち上がろうぜ。&lt;/p&gt;
+さあ、立ち上がろうぜ。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
 &lt;p&gt;ブルーイノベーション&lt;br&gt;
 上記の通り。何もいうことはない。&lt;br&gt;
 寄り凸→始値わってくるならぶん投げ→その後に備えるっていう流れができなかった。&lt;br&gt;
 これは自分自身で直さないといけない。&lt;br&gt;
 それだけ。&lt;/p&gt;
-&lt;p&gt;ACSL&lt;/p&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5597/20260423-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5597/20260423-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;ACSL&lt;br&gt;
+スキャルピング気味にいろんなエントリーしてとったんだけど、最悪なのは時間軸長い前提で入った黄色の所。&lt;br&gt;
+高値切り下げ線ブレイク後の押しだから貸借倍率がよいことも加味してエントリーした。&lt;br&gt;
+かなり精神的に削られたけど良い位置で入れているので上昇していった。&lt;br&gt;
+のに、その後の初押しの2200の所で売ってしまった。&lt;br&gt;
+いや、お前さあ、始値くらいまでは戻していくかなあって思って入ってんのになんで逃げてんのまじで？&lt;br&gt;
+時間軸長いトレードそんなにつらい？ねえ、そんなにつらい？ロットも500にしてたのに。&lt;br&gt;
+自分が大負けしている状態だからってトレードの内容を変えちゃうのは悲しいよ。本当に。&lt;br&gt;
+勝てるようにならないよ。いつまでたっても。&lt;br&gt;
+この銘柄は上下にかなりしっかりふってくるし、チャートは崩れていないんだからさ、もうちょっと信じようよ。&lt;br&gt;
+つっら。&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>23（木）のデイトレ結果</title>
+      <title>4/22（水）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/04/22/</link>
       <pubDate>Thu, 23 Apr 2026 17:38:01 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/04/22/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;-56,510円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;朝目が冷めたら9:30。&lt;br&gt;
+あのさ、ユニチカが今日はS安翌日だったのと津田駒の値幅4倍とかめちゃくちゃ盛り上がる確定の日。&lt;br&gt;
+気が抜けている本当に。&lt;br&gt;
+寝坊は死だよ！死！！&lt;br&gt;
+ユニチカ絶対に寄り凸したかったのに。&lt;br&gt;
+そして、みんな爆益なのを悔しがって意味不明なトレードして自滅。&lt;br&gt;
+このままだとまずいぞ。最近、気が抜けている。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;リファインバース&lt;br&gt;
+高値更新してきたのでそのまま上昇していくと考えて入った。&lt;br&gt;
+のに落ちてきたのだからこれは逃げないと。&lt;br&gt;
+なんで様子見してるの？&lt;br&gt;
+順張りの時は損切りをとにかく速攻でしないと死ぬ。&lt;br&gt;
+高値掴みになってしまうのは仕方ないから、その代わり損切りを早くしろ。&lt;/p&gt;
+&lt;p&gt;てか、これさ日足の青天戦略適用可能場面じゃん！&lt;br&gt;
+上げた後にがっつり落としてきた所で切り返して高値更新していくこれ。&lt;br&gt;
+まじかあ。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7375/20260422-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7375/20260422-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;ユニチカ&lt;br&gt;
+高値更新してきた所でロング。&lt;br&gt;
+のにも関わらず、上が重くて押し返される板の値動きを見たけど逃げ遅れて死亡。&lt;br&gt;
+ほんまに何をやっている？あなたは。&lt;br&gt;
+順張りは損切りが全てだっていってんだろ。&lt;br&gt;
+3100の板に何回も跳ね返されたうえで落ちてくる動きがあったんだから、これは3000わったらまずいと判断して速攻で逃げないと。&lt;br&gt;
+俺ってこんなに損切りできない人間だったっけ？&lt;br&gt;
+日に日に損切りを躊躇している気がする。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3103/20260422-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3103/20260422-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;ブルーイノベーション&lt;br&gt;
+高い位置でスキャしてるけど、これACSLが動意づいた後場寄りから攻めないといけなかった。&lt;br&gt;
+明らかに遅れてしまった。&lt;br&gt;
+集中力欠けているなあ。&lt;/p&gt;</description>
       
     </item>
     
@@ -186,7 +314,7 @@
     </item>
     
     <item>
-      <title>4/19（日）のデイトレ結果</title>
+      <title>4/17（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/04/17/</link>
       <pubDate>Sun, 19 Apr 2026 23:16:53 +0900</pubDate>
       
@@ -218,11 +346,11 @@ GDからの下ホリホリ展開。&lt;br&gt;
 株価はフラクタルということをもう少し意識してチャートを分析する癖をつけよう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3444/20260416-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3444/20260417-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3444/20260416-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3444/20260417-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -243,7 +371,7 @@ GDからの下ホリホリ展開。&lt;br&gt;
 順張り上昇トレンドにのっていくトレードを身に着けようとしているわけだが、スキャルピングに徹しすぎるのではなく、今回のようにそれなりの根拠があるなら遅れて動意づく可能性を考慮して、一部は仕込み玉として持つやり方を今後はやっていこう。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/6433/20260416-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6433/20260417-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
