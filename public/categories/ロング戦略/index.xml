@@ -19,14 +19,14 @@
 &lt;ol&gt;
 &lt;li&gt;寄り天 or 寄って上げた後安値更新してくること&lt;/li&gt;
 &lt;li&gt;5分足で2段下げで安値更新してきている状態&lt;/li&gt;
-&lt;li&gt;25MA上で小陰線 or 小陽線など下げ止まりを見せること&lt;/li&gt;
+&lt;li&gt;25MA上で小陰線 or 小陽線など下げ止まりを見せること（第一波と同じくらいの長さの位置で拾う意識）&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;損切り条件&#34;&gt;損切り条件&lt;/h1&gt;
 &lt;p&gt;下げ止まったと推測されるロウソク足の下ヒゲ（当日安値）を割ってきた時&lt;/p&gt;
 &lt;h1 id=&#34;利確条件&#34;&gt;利確条件&lt;/h1&gt;
 &lt;p&gt;下落途中の揉み合いライン下限到達で利確&lt;/p&gt;
 &lt;h1 id=&#34;パターン&#34;&gt;パターン&lt;/h1&gt;
-&lt;p&gt;①2026/02/02 『3803』&lt;br&gt;
+&lt;p&gt;① 2026/02/02 『3803』&lt;br&gt;
 一度上に上がるもののすぐに折り返してきて、2段下げで25MA上に小陰線のため条件合致。&lt;br&gt;
 800の節目を一瞬割ってきているということも良い状態。&lt;br&gt;
 大陰線出現でも見合ったライン下限到達＋連買いとなったのでここで利確。&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;②2026/02/19 『4241』&lt;br&gt;
+&lt;p&gt;② 2026/02/19 『4241』&lt;br&gt;
 寄り天で下落して2段差げで25MAで小陽線出現でエントリー。&lt;br&gt;
 もみ合ったラインの下限到達で利確。&lt;/p&gt;
 &lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
@@ -53,13 +53,9 @@
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;③2026/04/07 『3778』&lt;br&gt;
+&lt;p&gt;③ 2026/04/07 『3778』&lt;br&gt;
 値幅4倍ではないが、2連続S高翌日の貸借銘柄の値動き。&lt;br&gt;
-これも似てないか？&lt;/p&gt;
-&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
-&lt;div style=&#34;text-align: center;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/dailylog/3778/20260407-5minutes2.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
-&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+これも似てないか？&lt;/p&gt;</description>
       
     </item>
     
