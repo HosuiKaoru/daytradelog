@@ -6,45 +6,96 @@
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 12 Apr 2026 23:46:31 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 16:59:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>トレードの改善について 1</title>
-      <link>http://localhost:1313/posts/strategy/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%94%B9%E5%96%841/</link>
-      <pubDate>Sun, 12 Apr 2026 23:46:31 +0900</pubDate>
+      <title>1~4月でわかった自分の課題とその改善策</title>
+      <link>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
+      <pubDate>Sat, 02 May 2026 16:59:19 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/strategy/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%94%B9%E5%96%841/</guid>
+      <guid>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
       
-      <description>&lt;p&gt;最近の俺のトレードについて振り返る。&lt;br&gt;
-一言でいうと、損大利小となっている。&lt;br&gt;
-そしてメンタルによって振り回されるトレードスタイルになっている。&lt;br&gt;
-具体例を出していこう。&lt;br&gt;
-具体的には、パワーエックスの朝一のリバウンド狙いの利確早漏。&lt;br&gt;
-リファインバースは陽線が出ると考えていた日に勝負ができていなかったり、勝負するとしても期待値の下がるタイミングでのみ入っている。&lt;br&gt;
-S安からのリバウンド狙いにひよって参加しない。&lt;br&gt;
-イオンはテクニカル的に空売りエントリーができたのにも関わらず見送っている。&lt;br&gt;
-寄り付きのバババにひよって寄り凸できていないなどなど。&lt;/p&gt;
-&lt;p&gt;また、日足に順張り・分足に逆張りが正義のはずが、日足に逆張り・分足に逆張りになってしまって大きく負けている。&lt;br&gt;
-金曜日のQPS、KOKUSAI、ユニチカなど。&lt;/p&gt;
-&lt;p&gt;何かしらの明確な根拠を持って入ったときであればあるほど、逆に動いたときの損切が認められなくなり、ナンピンまでしたことで死亡。&lt;br&gt;
-具体的には、アストロとの連動を狙ったQPSの青天空売りなど。&lt;/p&gt;
-&lt;p&gt;そして時間軸長めのアイデアを発想しても行動に移せない。&lt;br&gt;
-金曜日のグロース指数への連れ高狙いを期待してアストロ・QDレーザ。&lt;br&gt;
-一日の上げ幅を使い切ったと想定される状況でのリファインバースの空売り。&lt;br&gt;
-スタンダード格下げの悪材料でのユニチカの空売りなどなど。&lt;/p&gt;
-&lt;p&gt;後付けで考えるのではなく、リアルタイムでそれなりに行動できているのに利益額がしょぼいまま終わってしまう日々が続いている。&lt;br&gt;
-これがまぎれもなく利小トレードになってしまっている一番の原因である。&lt;br&gt;
-ではどう改善していくべきか。&lt;/p&gt;
-&lt;p&gt;まず、日足に逆張りトレードは禁止とする。日足が5MA上で上昇トレンド銘柄の空売りを禁止にする。テーマ株で明らかに連動性の強い銘柄のスキャだけ可。&lt;br&gt;
-そして、時間軸長めのアイデアは500株以下で一日一つは実践するルールにする。&lt;br&gt;
-次に、朝一のリバウンド狙いの時は、日足が5MA上で上昇トレンド中は少し強気で持ってみる。具体的には5分足の5MA戻しくらいは狙うということ。&lt;br&gt;
-最後に、根拠を持ってエントリー（これ当たり前）したもののその根拠が否定された瞬間に損切りする。QPSやリファインの2本押して上の否定など。&lt;/p&gt;
-&lt;p&gt;正直にいって、チャートの見方・市場心理の考え方・マーケットの雰囲気の感じ方などは自信を持てるレベルではないが、熟練度の向上は実感できている。&lt;br&gt;
-それにも関わらず、思ったように利益を残せていないでコツコツドカンの状態なのは、技術力ではなく決断力・行動力、まとめるとメンタルに課題がある状態。&lt;br&gt;
-これをどう改善するか。具体的なアクションプランを以下に提示する。&lt;/p&gt;
-&lt;p&gt;リバウンド狙いの利確早漏に関しては朝一ならOCOをセットして意図的に数分目を切ることで対策する。&lt;br&gt;
-時間軸長めのアイデアを発想したときも小ロットでOCOセットしてこっちは見る必要もない。&lt;br&gt;
-そして、逆張りの空売りをしたくなったときは日足が上か下かを声出し確認する。&lt;br&gt;
-損切りを遅らせないためには、カーソルを損切位置におき、こちらもここを割ったら損切するって声出し。それでもできない時は、とりあえず建玉の半分だけ損切りする。  で、損切できたときは「ナイカッツ！そう来ると思ってました！」と自画自賛する。誰もほめてくれないから自分でほめていこう。&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026前期1.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;340&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026前期2.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;600&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;h1 id=&#34;課題&#34;&gt;課題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;損切り合計額が増加傾向にある&lt;/li&gt;
+&lt;li&gt;貸借銘柄の空売りの期待値がマイナスである&lt;/li&gt;
+&lt;li&gt;資金管理が雑になっている&lt;/li&gt;
+&lt;li&gt;根拠の乏しいトレードへ過剰投資している&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;損切りへの対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;ロットを下げる＋適切なin&lt;/span&gt;&lt;br&gt;
+ロットが大きいことが損切りしたくないという気持ちを無意識に助長している傾向あり。&lt;br&gt;
+エントリーを遅らせたことで適切なイグジットができていない傾向あり。&lt;br&gt;
+（寄り凸しないといけないのにひよって様子を見てから高い位置で入るなど）&lt;br&gt;
+適切な位置でエントリーすることでプラン通りの出口戦略を実行できる。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;空売りへの対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;逆張りショート禁止&lt;/span&gt;&lt;br&gt;
+日足上＋分足上の状況で焼かれた。また、誤発注に気づかずに大きな損失を計上した。&lt;br&gt;
+日足が上昇トレンド中は空売りを禁止とする。具体的には、日足が高値更新中 or 5MA上で推移中。&lt;br&gt;
+誤発注はメイン画面に保有証券を配置することで対策する。&lt;br&gt;
+あくまで下落トレンドを前提とした立ち回りとする。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;資金管理への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;ロットの固定化を徹底する&lt;/span&gt;&lt;br&gt;
+これは合計ロット数であり、ナンピン等でこのロットを超える事態があってはならない。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;株価&lt;/th&gt;
+          &lt;th&gt;ロット上限&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1000未満&lt;/td&gt;
+          &lt;td&gt;1500&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3000未満&lt;/td&gt;
+          &lt;td&gt;600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5000未満&lt;/td&gt;
+          &lt;td&gt;300&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10000未満&lt;/td&gt;
+          &lt;td&gt;200&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10000以上&lt;/td&gt;
+          &lt;td&gt;100&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;過剰投資への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;レバレッジ0.5倍を限度とする&lt;/span&gt;&lt;br&gt;
+新戦略の開拓は必須だがコストを減らすためにも上記のルールとする。&lt;br&gt;
+株価が大きいほど勝率が低下傾向にあるので、値嵩株はそもそも言語化できていない戦略の適用を禁止することで対策する。&lt;/p&gt;
+&lt;h1 id=&#34;月ごとの傾向&#34;&gt;月ごとの傾向&lt;/h1&gt;
+&lt;h2 id=&#34;1月&#34;&gt;1月&lt;/h2&gt;
+&lt;p&gt;連動スキャを徹底している。&lt;br&gt;
+ボラの激しい日に損切りも大きくなるが結果として大きな利益が残せている。&lt;br&gt;
+テーマ相場が日足上昇トレンド中に利益を出せている。&lt;br&gt;
+連動性の否定の損切り遅れが大きめの被弾に繋がっている。&lt;br&gt;
+また、低位株の大ロットJCとテーマ相場終了後の連動スキャで損失を計上している。&lt;br&gt;
+損小利大ができている。&lt;/p&gt;
+&lt;h2 id=&#34;2月&#34;&gt;2月&lt;/h2&gt;
+&lt;p&gt;不正取引で大きな利益を獲得し、連動スキャルピングの日足の上昇トレンド中に利益を獲得している。&lt;br&gt;
+しかし、あくまでスキャルピング気味にとっているわけで利幅はとれていない。&lt;br&gt;
+寄り凸日和→上でJC死亡パターンの発現とテーマ相場死亡後の連動狙いで損失を計上。&lt;br&gt;
+日足上＋分足上の状態での逆張りショートで大きく被弾している。&lt;br&gt;
+上のデータだとRR改善されているように見えるが中身を見ると損大利小傾向にある。&lt;br&gt;
+不正取引のおかげでRRよく見えるだけで、これを除くと傾向としては悪くなっていた。&lt;br&gt;
+また、1月と比べてロットが大きくなっていることもわかった。&lt;/p&gt;</description>
       
     </item>
     

@@ -6,17 +6,157 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 01 May 2026 19:35:40 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 16:59:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1（金）のデイトレ結果</title>
+      <title>1~4月でわかった自分の課題とその改善策</title>
+      <link>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
+      <pubDate>Sat, 02 May 2026 16:59:19 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
+      
+      <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026前期1.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;340&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026前期2.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;600&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;h1 id=&#34;課題&#34;&gt;課題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;損切り合計額が増加傾向にある&lt;/li&gt;
+&lt;li&gt;貸借銘柄の空売りの期待値がマイナスである&lt;/li&gt;
+&lt;li&gt;資金管理が雑になっている&lt;/li&gt;
+&lt;li&gt;根拠の乏しいトレードへ過剰投資している&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;損切りへの対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;ロットを下げる＋適切なin&lt;/span&gt;&lt;br&gt;
+ロットが大きいことが損切りしたくないという気持ちを無意識に助長している傾向あり。&lt;br&gt;
+エントリーを遅らせたことで適切なイグジットができていない傾向あり。&lt;br&gt;
+（寄り凸しないといけないのにひよって様子を見てから高い位置で入るなど）&lt;br&gt;
+適切な位置でエントリーすることでプラン通りの出口戦略を実行できる。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;空売りへの対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;逆張りショート禁止&lt;/span&gt;&lt;br&gt;
+日足上＋分足上の状況で焼かれた。また、誤発注に気づかずに大きな損失を計上した。&lt;br&gt;
+日足が上昇トレンド中は空売りを禁止とする。具体的には、日足が高値更新中 or 5MA上で推移中。&lt;br&gt;
+誤発注はメイン画面に保有証券を配置することで対策する。&lt;br&gt;
+あくまで下落トレンドを前提とした立ち回りとする。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;資金管理への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;ロットの固定化を徹底する&lt;/span&gt;&lt;br&gt;
+これは合計ロット数であり、ナンピン等でこのロットを超える事態があってはならない。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;株価&lt;/th&gt;
+          &lt;th&gt;ロット上限&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1000未満&lt;/td&gt;
+          &lt;td&gt;1500&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3000未満&lt;/td&gt;
+          &lt;td&gt;600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5000未満&lt;/td&gt;
+          &lt;td&gt;300&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10000未満&lt;/td&gt;
+          &lt;td&gt;200&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10000以上&lt;/td&gt;
+          &lt;td&gt;100&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;過剰投資への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;レバレッジ0.5倍を限度とする&lt;/span&gt;&lt;br&gt;
+新戦略の開拓は必須だがコストを減らすためにも上記のルールとする。&lt;br&gt;
+株価が大きいほど勝率が低下傾向にあるので、値嵩株はそもそも言語化できていない戦略の適用を禁止することで対策する。&lt;/p&gt;
+&lt;h1 id=&#34;月ごとの傾向&#34;&gt;月ごとの傾向&lt;/h1&gt;
+&lt;h2 id=&#34;1月&#34;&gt;1月&lt;/h2&gt;
+&lt;p&gt;連動スキャを徹底している。&lt;br&gt;
+ボラの激しい日に損切りも大きくなるが結果として大きな利益が残せている。&lt;br&gt;
+テーマ相場が日足上昇トレンド中に利益を出せている。&lt;br&gt;
+連動性の否定の損切り遅れが大きめの被弾に繋がっている。&lt;br&gt;
+また、低位株の大ロットJCとテーマ相場終了後の連動スキャで損失を計上している。&lt;br&gt;
+損小利大ができている。&lt;/p&gt;
+&lt;h2 id=&#34;2月&#34;&gt;2月&lt;/h2&gt;
+&lt;p&gt;不正取引で大きな利益を獲得し、連動スキャルピングの日足の上昇トレンド中に利益を獲得している。&lt;br&gt;
+しかし、あくまでスキャルピング気味にとっているわけで利幅はとれていない。&lt;br&gt;
+寄り凸日和→上でJC死亡パターンの発現とテーマ相場死亡後の連動狙いで損失を計上。&lt;br&gt;
+日足上＋分足上の状態での逆張りショートで大きく被弾している。&lt;br&gt;
+上のデータだとRR改善されているように見えるが中身を見ると損大利小傾向にある。&lt;br&gt;
+不正取引のおかげでRRよく見えるだけで、これを除くと傾向としては悪くなっていた。&lt;br&gt;
+また、1月と比べてロットが大きくなっていることもわかった。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>5/1（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/05/01/</link>
       <pubDate>Fri, 01 May 2026 19:35:40 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/05/01/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+43,310円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;GW前最終日。&lt;br&gt;
+テーマもなくなってきていて相場も閑散としてきているのを感じる。&lt;br&gt;
+GW中に今までのトレードの全振り返りを実施するので、その上で自分の改善点が明確化するまでは引き続きショボロットでわかるところだけを続ける。&lt;br&gt;
+んだが、なんかこんなしょぼいと思ってたやり方でもまともな利益残せてるじゃんって思った。&lt;br&gt;
+一日10万円とらないとって考えすぎていたけど、年初は1日2万とれれば最高って思ってたのだからこれでもかなり上出来じゃないか？&lt;br&gt;
+Shinkuさんやナユタンさん、らんまるさんを見て感覚がバグっていたけど今の俺にとってはこれでも十分すぎるくらいの利益だよな。&lt;br&gt;
+もうちょっと自分のわかる所だけをトレードするスタイルを信じてみていいのではないだろうか？&lt;/p&gt;
+&lt;p&gt;個別のトレードとしては久しぶりに内容が良かったと思う。&lt;br&gt;
+ACSLはテラドローン＋グロース指数の2つのGOサインの所だけ勝負出来ていたし、ユニチカのリバウンド狙いは大分前からちゃんと指して待った上でショートリバで利確できていたし、津田駒の2本押して上、場中決算銘柄もチャートレで一瞬値動きが発生しそうなタイミングでのみエントリーしていた。&lt;br&gt;
+場中決算に関してだけは実力によるものとはいえないと思うのでなんとも言えないが、損切りをするべきときにできていたし、後場はテンション落とせていたしと、かなり良かったと思う。&lt;br&gt;
+まあ、結果から見るともっと含み益を伸ばさないといけない場面はあったし、場中決算に関しても考え方はあったと思うが、条件揃うまで待つ→損切りポイントきたら損切りができたのはよかった。&lt;br&gt;
+ひとえにロットの少なさと寄り付いてからの値動きで利益が確保できたからだと思うが、とりあえずこのスタイルで続けていく。&lt;br&gt;
+最悪ノートレでも全然いいくらいの気持ちで望まないといけない。&lt;br&gt;
+今日もエントリーしたいなあと思ってクリック寸前までいったけど、これは根拠薄いぞと判断してエントリーしなかったことも数回あった。&lt;br&gt;
+まだまだ冷静に自分をコントロールできている状態とはいえない。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;ACSL&lt;br&gt;
+テラドローンが大幅GUスタートでそのままぶち上げていったのでこいつを横を見る投資法でスキャ。&lt;br&gt;
+ただアルゴがかなり凶悪なのを考慮して本当にいけると判断したポイントでのみエントリーした。&lt;br&gt;
+具体的には朝一のテラドローンの連買い・グロース指数上＋テラドローン高値更新・テラドローン張り付きそう＋グロース指数上＋2本押して上など。&lt;br&gt;
+そんなことせずとも寄って下げ止まった＋テラドローンが強いのを確認してロングエントリーして後は引っ張るだけが一番強いんだろうが。&lt;br&gt;
+まあそれができないわけです。&lt;br&gt;
+ヒーハイストとブルーイノベーションによって痛い目にあわされてきたからね。&lt;br&gt;
+まあでもあの時と違うのは時価総額・貸借銘柄・寄って連売になっていないことなど。&lt;br&gt;
+そう考えたらテラドローンが張り付くのを既定路線と考えて後からじっくり上げてくるプランも考えることはできた。&lt;br&gt;
+こういうのをせめて100株だけでもチャレンジしてきたいね。&lt;br&gt;
+朝一に仕込めていたら、安値更新しない限りは引っ張れたわけだし。&lt;br&gt;
+こういうのを500→1000→2000とできるようになっていかないといけないわけだけどそれはすぐにできるようになる必要はない。&lt;br&gt;
+あまりにも生き急いだトレードをしすぎてきているのが感情の乱れに繋がってきたと自覚した。&lt;br&gt;
+だからこそ、一歩一歩進んでいくことをモットーにやっていこう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6232/20260501-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6232/20260501-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;このトレードできたでしょ委員会&#34;&gt;このトレードできたでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;エア・ウォーターの踏み上げ狙いのロングの考え方。&lt;br&gt;
+悪材料でぶち下げだけどS安に張り付かずにリバウンドしたのを狙う。&lt;br&gt;
+確定足ベースでエントリーして損切りはタイトに。（踏み上げ狙いだから下にふる動き自体があってはいけないので）&lt;br&gt;
+陽線1本狙う考え方。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4088/20260501-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
@@ -27,9 +167,32 @@
       
       <guid>http://localhost:1313/posts/log/2026/04/30/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+13,770円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;自分の負けトレードの分析とメンタル管理について結論が出るまではクソしょぼロットでマジでわかる所だけやると決めた初日。&lt;br&gt;
+まあ、いい所で入れていてもしょぼ利確を繰り返してこんな感じに。&lt;br&gt;
+まあ、特にいうことはない。&lt;br&gt;
+ユニチカとACSLでなんとか微益とったくらい。&lt;br&gt;
+しばらくこんな感じになると思う。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;信越化学工業&lt;br&gt;
+決算出てPTS爆下げからのまさかのGU気配スタート。&lt;br&gt;
+これは面白いと思っていて、2本押して上を予想してエントリー。&lt;br&gt;
+ただ、これはよろしくない。&lt;br&gt;
+なにがよくないかというと、下げ止まっていない段階で勝手に予想してエントリーしているから。&lt;br&gt;
+2本押して上戦略は確定足ベースで考えるはずなのに未確定の状態で期待先行のトレードをしてしまっている。&lt;br&gt;
+こういう一つ一つのトレードが自分の利益を削っているのだと反省しなければならない。&lt;br&gt;
+一日1万円このようなトレードを削るだけで一ヶ月では20万円の損失回避になるのだから。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4063/20260430-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4063/20260430-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
       
     </item>
     
@@ -788,47 +951,6 @@ Suさんの収支表を見て実践してみたけど想像以上に効果あっ
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;http://localhost:1313/images/dailylog/3103/20260413-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
 &lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>トレードの改善について 1</title>
-      <link>http://localhost:1313/posts/strategy/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%94%B9%E5%96%841/</link>
-      <pubDate>Sun, 12 Apr 2026 23:46:31 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/strategy/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%94%B9%E5%96%841/</guid>
-      
-      <description>&lt;p&gt;最近の俺のトレードについて振り返る。&lt;br&gt;
-一言でいうと、損大利小となっている。&lt;br&gt;
-そしてメンタルによって振り回されるトレードスタイルになっている。&lt;br&gt;
-具体例を出していこう。&lt;br&gt;
-具体的には、パワーエックスの朝一のリバウンド狙いの利確早漏。&lt;br&gt;
-リファインバースは陽線が出ると考えていた日に勝負ができていなかったり、勝負するとしても期待値の下がるタイミングでのみ入っている。&lt;br&gt;
-S安からのリバウンド狙いにひよって参加しない。&lt;br&gt;
-イオンはテクニカル的に空売りエントリーができたのにも関わらず見送っている。&lt;br&gt;
-寄り付きのバババにひよって寄り凸できていないなどなど。&lt;/p&gt;
-&lt;p&gt;また、日足に順張り・分足に逆張りが正義のはずが、日足に逆張り・分足に逆張りになってしまって大きく負けている。&lt;br&gt;
-金曜日のQPS、KOKUSAI、ユニチカなど。&lt;/p&gt;
-&lt;p&gt;何かしらの明確な根拠を持って入ったときであればあるほど、逆に動いたときの損切が認められなくなり、ナンピンまでしたことで死亡。&lt;br&gt;
-具体的には、アストロとの連動を狙ったQPSの青天空売りなど。&lt;/p&gt;
-&lt;p&gt;そして時間軸長めのアイデアを発想しても行動に移せない。&lt;br&gt;
-金曜日のグロース指数への連れ高狙いを期待してアストロ・QDレーザ。&lt;br&gt;
-一日の上げ幅を使い切ったと想定される状況でのリファインバースの空売り。&lt;br&gt;
-スタンダード格下げの悪材料でのユニチカの空売りなどなど。&lt;/p&gt;
-&lt;p&gt;後付けで考えるのではなく、リアルタイムでそれなりに行動できているのに利益額がしょぼいまま終わってしまう日々が続いている。&lt;br&gt;
-これがまぎれもなく利小トレードになってしまっている一番の原因である。&lt;br&gt;
-ではどう改善していくべきか。&lt;/p&gt;
-&lt;p&gt;まず、日足に逆張りトレードは禁止とする。日足が5MA上で上昇トレンド銘柄の空売りを禁止にする。テーマ株で明らかに連動性の強い銘柄のスキャだけ可。&lt;br&gt;
-そして、時間軸長めのアイデアは500株以下で一日一つは実践するルールにする。&lt;br&gt;
-次に、朝一のリバウンド狙いの時は、日足が5MA上で上昇トレンド中は少し強気で持ってみる。具体的には5分足の5MA戻しくらいは狙うということ。&lt;br&gt;
-最後に、根拠を持ってエントリー（これ当たり前）したもののその根拠が否定された瞬間に損切りする。QPSやリファインの2本押して上の否定など。&lt;/p&gt;
-&lt;p&gt;正直にいって、チャートの見方・市場心理の考え方・マーケットの雰囲気の感じ方などは自信を持てるレベルではないが、熟練度の向上は実感できている。&lt;br&gt;
-それにも関わらず、思ったように利益を残せていないでコツコツドカンの状態なのは、技術力ではなく決断力・行動力、まとめるとメンタルに課題がある状態。&lt;br&gt;
-これをどう改善するか。具体的なアクションプランを以下に提示する。&lt;/p&gt;
-&lt;p&gt;リバウンド狙いの利確早漏に関しては朝一ならOCOをセットして意図的に数分目を切ることで対策する。&lt;br&gt;
-時間軸長めのアイデアを発想したときも小ロットでOCOセットしてこっちは見る必要もない。&lt;br&gt;
-そして、逆張りの空売りをしたくなったときは日足が上か下かを声出し確認する。&lt;br&gt;
-損切りを遅らせないためには、カーソルを損切位置におき、こちらもここを割ったら損切するって声出し。それでもできない時は、とりあえず建玉の半分だけ損切りする。  で、損切できたときは「ナイカッツ！そう来ると思ってました！」と自画自賛する。誰もほめてくれないから自分でほめていこう。&lt;/p&gt;</description>
       
     </item>
     
