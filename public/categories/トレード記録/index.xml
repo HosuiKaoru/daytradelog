@@ -6,17 +6,118 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 21 May 2026 23:02:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 May 2026 00:13:44 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>21（木）のデイトレ結果</title>
+      <title>5/22（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/05/22/</link>
+      <pubDate>Fri, 22 May 2026 00:13:44 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/05/22/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;FIG
+朝一の75MA割れ大陰線がきたら入ろうと考えていたら、連売りでちょうどそのポイントに到達。
+ここでビビリをかまし、エントリー見送り。
+からのリバッてプラ転したのを見てから追撃ロング。
+結果、逆にふられてしっかり損切り。
+アホ。
+朝一に関してだけは、逆張りの方が圧倒的に優位性あるのを知っていて、エントリーポイントに来たのに行動しないという落ち。
+自分がエントリーしたところはむしろ利確ポイント。
+日足が青天だからドテン空売りしなかったのはよかったけど、考えていたポイントに来たなら入らないと。
+連売りが寄ってすぐはりつけられて死ぬとしてもPTSで投げればいいやん。
+あの時のアルゴ暴走のユニチカの連売りの時と同じでビビリ。
+これをなくすためにロット制限を今月からかけているのにまったく。
+わかった。次からはロット制限ではなく、100株でエントリーしよう。
+100なら値幅とっても大した利益にはならないけど、成功体験を積むことが大事だもんな。
+自分の弱さを責めても仕方ない。
+この弱さに向き合って改善に努めよう。&lt;/p&gt;
+&lt;p&gt;安川電機
+川崎重工にNvidiaとフィジ協業の材料が出て、特買い気配でファナックも特買い気配の中、比較的早くよりついていたこいつにロング。
+この時、先物も強かったし、日足も押し目陽線つけた翌日なのでかなりいいと思った。
+エントリーポイントとしては、5分足の一本目がコマになり2本目が陽線になりそうで高値更新しそうなところでロングした。
+結果、逆にふられて大きめに被弾。
+まず、エントリーした根拠はしっかりしていたと思う。
+でもタイミングが違う。
+やるとしたら寄り凸だし、そのままストレートに上げていかなかったのでそれは同値撤退になるはず。&lt;/p&gt;
+&lt;p&gt;FIG
+新しくチャレンジしたやり方のくせにロットが大きすぎた。
+新しいやり方は上限の1/3以内なのを忘れていた。
+これは必ず守ること。&lt;/p&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;QPS
+グロース上+アストロがGU→大陽線をみて、QPSロング。
+したけど、思ったように反応がすぐなかったので逃げた。
+こういうトレードを少し長い時間軸で見れるようになると大きく値幅がとれるようになる。
+今回は5MA上で上昇し続けている状況だったので、こういう時は引っ張るようにしよう。
+こういう時のためのロット制限だからな。
+あまり目先の値動きにびびりすぎず、急落のリバ狙いとかアルゴの振幅狙いを除いて少し時間軸を伸ばしていくことをもっと意識しよう。
+それでも怖いとなったら100株でトレードする。
+それすらもビビったときは買った前提でペーパートレードは必ずしよう。
+焦らず目の前の一歩を大切に。&lt;/p&gt;
+&lt;p&gt;メディアリンクスのクロオク&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>5/21（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/05/21/</link>
       <pubDate>Thu, 21 May 2026 23:02:25 +0900</pubDate>
       
       <guid>http://localhost:1313/posts/log/2026/05/21/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+16,746円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;振り返るとよーくわかったんだけど、マジで自信ある根拠のあるポイントだけで勝負しないとダメ。&lt;br&gt;
+FOMOトレやお手つきトレード、エビデンスのないトレードとかで損失を積み重ねまくっている。&lt;br&gt;
+それと、QDのガラみたいな特大チャンスの時は細かく目先の利確を優先させずにひたすら引っ張るトレードをしないとダメだ。&lt;br&gt;
+前よりはそれでも引っ張る意識を今日は持てたけどね。&lt;br&gt;
+特に自分の傾向として寄り付いてから30分の激しい値動きの時にFOMOトレ、お手つき、根拠薄いトレードをして損失を出して、だんだん自分のやるべきことだけに集中しないと！って意識を変えることでコツコツ損失を返済する一日が多い。&lt;br&gt;
+てか、ほぼほぼこのパターン。&lt;br&gt;
+寄り付いてからの値動きは本当に自信のあるポイント・状況だけで勝負しないとダメ。&lt;br&gt;
+むしろ、QDみたいなので一日中動いている銘柄で細かくとれる場面がたくさんあったのだから、あまり豪快にとろうとしすぎないことだよマジ。&lt;br&gt;
+結局、2段上げ・チャートレ・指数連動・アルゴ読みがちゃんとできていれば利益はしっかり出ているのだから変なことだけはしないこと。&lt;br&gt;
+マジこれよ。&lt;br&gt;
+やってる時は根拠持って入っているつもりでも振り返ると本当になんで？ってなるトレードが多い。&lt;br&gt;
+入る前から無根拠トレードはなかったので明日のトレード禁止にはしないけど、期待値低いと考えたトレードをしないことをとにかく考える。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;アストロ&lt;br&gt;
+リバウンド狙いで待つ位置はピンクなのに黄色で入る始末。&lt;br&gt;
+黄色も確かにサポートだから跳ねる可能性は全然あったけど、こういうFOMO気味に入るのはやめよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260521-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260521-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;QDレーザ&lt;br&gt;
+高値切り下げ線ブレイク＋出来高増加の建玉はふざけた利確を挟まずに5MA上推移ガチホでいいんすよ。&lt;br&gt;
+リファインみたいな銘柄じゃないんだから。&lt;br&gt;
+それと、2段上げ狙いのトレードは落下を受け止める形での指値を禁止にしよう。&lt;br&gt;
+2本で下げ止まったのを確認してからじゃないと、一回巻き込まれた時の代償が大きすぎるからな。&lt;br&gt;
+最後の第五波に関してもあそこまで市場参加者ってビビるんだって思った。もっと引っ張ってよかったよ。&lt;br&gt;
+ハイボラのときこそ自分のテクニカル視点を冷静に分析して立ち回る必要がある。&lt;br&gt;
+リバウンドするポイントもほぼほぼドンピシャであてられたしね。ビビって入らなかったけど。&lt;br&gt;
+低ロットでも値幅がでる銘柄では利益がしっかり出ていることを学んでいる最中なので、あともう少し建玉を長く保有する意識を持てば収支がさらに改善出来ると思う。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6613/20260521-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6613/20260521-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;FIG&lt;br&gt;
+当日高値で一旦跳ね返されると想定した空売り。&lt;br&gt;
+売り禁状態だから新規売りが入ってきづらい状態なのでそもそもこれはよくない。&lt;br&gt;
+そｒねいグロース指数が上でマネゲ銘柄に資金入っている状況だったのでマクロ分析も向かい風要因だった。&lt;br&gt;
+甘いトレードはなくしていこう。&lt;/p&gt;</description>
       
     </item>
     
