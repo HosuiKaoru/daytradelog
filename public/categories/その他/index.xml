@@ -6,7 +6,52 @@
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 02 May 2026 16:59:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 15:59:49 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5月の課題とその改善策</title>
+      <link>http://localhost:1313/posts/strategy/5%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
+      <pubDate>Sat, 30 May 2026 15:59:49 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/5%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
+      
+      <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026051.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;650&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026052.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;750&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;h1 id=&#34;課題&#34;&gt;課題&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;FOMO・根拠の薄いトレード&lt;/li&gt;
+&lt;li&gt;損切り遅延&lt;/li&gt;
+&lt;li&gt;早漏利確&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;FOMO・根拠の薄いトレードへの対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;根拠を声に出す/大型のスキャ禁止&lt;/span&gt;&lt;br&gt;
+基本的に急騰・急落の瞬間に発生しやすい焦ったトレード。&lt;br&gt;
+行動を掻き立てられる状況の時だからこそ、物理的に声に出すことで今の思考をアウトプットし冷静さを維持する狙い。&lt;br&gt;
+急落のリバウンド狙いの時はテクニカル的な根拠が必須だし、急騰の波乗りの場合は逃げ足の早さが必要。&lt;br&gt;
+これらをちゃんと口に出して「なぜ入るのか？」を一瞬確認する手間を惜しまないこと。&lt;br&gt;
+大型銘柄のスキャでなんとなく取ろうとしてやられるパターンが多いのでそもそもこれを禁止にすることで対策。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;損切り遅延への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;遅れて反応してくるのは禁止&lt;/span&gt;&lt;br&gt;
+ここまで来たからリバるだろうから貫かれても様子見・指数の連れ上げにタイムラグがあるから様子見←これらを禁止とする。&lt;br&gt;
+自分の自信のあるポイントでエントリーしたからこそそこが簡単に割ってくる場合は異常事態なので撤退する。&lt;br&gt;
+指数の連れ上げにタイムラグがあるパターンの値動きは取ることが難しいのでこれはそもそも捨てる。&lt;br&gt;
+基本的には反応が敏感に発生しやすい状況でのエントリーのはずなので逆行した際はすぐに投げること。&lt;br&gt;
+アルゴが多少戻してくれるタイミングを待つことがそもそものナンセンス。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;早漏利確への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;100株のみ早漏利確OK。残りは狙いの位置まで待つ。&lt;/span&gt;&lt;br&gt;
+早漏利確といっても本当にただビビってしまっただけの時とある程度先に抜けた方がいい場合があるため、&lt;br&gt;
+ビビってしまった時をなくすために100株は早めに利益確定をして、残りをチャート・板読みでの目標値で行うこととする。&lt;br&gt;
+また、自信のあるポイントで入ってしっかり予想通りの値動きをしたのであれば利確を指しておいて他の銘柄を見ることも有効。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>1~4月でわかった自分の課題とその改善策</title>
       <link>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
