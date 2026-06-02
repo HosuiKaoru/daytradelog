@@ -6,7 +6,21 @@
     <description>Recent content in トレード記録 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 01 Jun 2026 14:50:38 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2026 19:45:24 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/02/</link>
+      <pubDate>Tue, 02 Jun 2026 19:45:24 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/02/</guid>
+      
+      <description>&lt;p&gt;-14,390円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6/1（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/01/</link>
@@ -14,16 +28,60 @@
       
       <guid>http://localhost:1313/posts/log/2026/06/01/</guid>
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
-&lt;p&gt;武蔵精密・太陽誘電・村田製作所全てでボコボコにされた。&lt;br&gt;
-プライム中型から大型のスキャは無理。二度とやらん。&lt;br&gt;
-絶対にアルゴに負ける。&lt;br&gt;
-スキャではなくチャート勝負で時間軸を最低でも15分くらい伸ばした戦い方をしないと殺されると学んだ。&lt;br&gt;
-マッジでくっそ。後場で一気にやられた。途中でトレードも雑になったし&amp;hellip;。&lt;br&gt;
-月初から嫌な始まり方。久しぶりに少し熱くなってしまった。&lt;/p&gt;
+      <description>&lt;p&gt;-37,490円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;前場はやることない中なんとかいつものグロース指数の連動狙いとかリバウンド狙いで1.6万円の利益。&lt;br&gt;
+やることないなあと思いながら後場を迎えたら、大型がボラあったのでやってみるか！と思い立ってスキャ開始。&lt;br&gt;
+永遠に死亡。無限に死亡。アルゴに一方的に蹂躙される。&lt;br&gt;
+しんどすぎ。&lt;br&gt;
+結局、グロース・スタンダードだけ触ってたらそれなりの利益が残った一日だっただけに。&lt;br&gt;
+プライム大型はスキャ無理だからチャートベースのデイトレじゃないと一切勝てないと学んだ。&lt;br&gt;
+月初から嫌な始まり方。久しぶりに少し熱くなってしまった。&lt;br&gt;
+切り替えるしかない。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;p&gt;太陽誘電&lt;/p&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;アストロスケール&lt;br&gt;
+グロース指数下＋日足が押し目に向かいそうな陰線になる可能性の高い状況だったのでショートエントリー。&lt;br&gt;
+こういう状況の時に逆張りロングは簡単に貫かれると知っていたので逆に空売りでエントリーした。&lt;br&gt;
+学んだことを活かせているのでかなりよかったけど、ロットはこれもっとはれた。&lt;br&gt;
+結果、300しか入れなかったから早めの利確に留まってしまったし、一日通して引っ張る考え方がこれは必要だった。&lt;br&gt;
+QPSも全く同じ状況だったので、こっちも両方ショートいれれたな。&lt;br&gt;
+次からはこの考え方が適用出来る時に空売りエントリーして予想通りガラッたら長く引っ張る考え方を適用すること。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260601-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260601-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;武蔵精密&lt;br&gt;
+後場寄りのガラを押し安値で拾ったのが貫かれて損切りまではまあ仕方ない。&lt;br&gt;
+でも、その後、逆に弱いと判断して空売りエントリーしたのを担がれて損切り→ガラの流れが本当によくない。&lt;br&gt;
+プライムアルゴ銘柄の場合、追撃ショートはマッジで難しいのでちゃんとリバった所で入るか、リバった後に改めて下がるタイミングで入るか。&lt;br&gt;
+チャートだけ見たらマッジで簡単に見えるんだけどな。先物が下なのに陽線をつけたから上昇していくと思ったけど、プライムの場合は基本的にチャートで個別で考えないといけないっぽいな。&lt;br&gt;
+グロースの指数連動みたいにわかりやすく動くことがマッジでないのでこの考え方は適用してはいけない。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7220/20260601-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7220/20260601-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;太陽誘電&lt;br&gt;
+後場から陰線連続で75MAを割ってくるタイミングでショートリバ狙い。&lt;br&gt;
+のはずなのに、指値待ちせずにリバった所でエントリー。&lt;br&gt;
+遅れてしまった所でエントリーしたのが本当に反省。リバってからエントリーはあれだけダメってわかってたのに。&lt;br&gt;
+朝のアストロはちゃんと指値待ちできていたのに&amp;hellip;。何をやっているんだか。&lt;br&gt;
+そしてその後、先物とチャートを見てスキャを試みて死亡。&lt;br&gt;
+だから大型のスキャを禁止するって今月のルールがあっただろ！&lt;br&gt;
+ボケ！&lt;br&gt;
+なんで期待値低いことをやってしまうの？収支がマイ転してしまったから？だよね？&lt;br&gt;
+チャートレ除いて絶対に触らない。絶対に。&lt;/p&gt;</description>
       
     </item>
     
