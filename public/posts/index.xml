@@ -6,9 +6,62 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:45:24 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2026 13:30:55 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2（火）のデイトレ結果</title>
+      <title>6/4（木）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/04/</link>
+      <pubDate>Thu, 04 Jun 2026 13:30:55 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/04/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;最近グロース指数が全く活気がなくて本当にやりづらい日が続く。&lt;br&gt;
+なんとか無駄打ちトレードを減らす意識でなんとか被弾せずにおえた一日。&lt;br&gt;
+チャートレで勝負した場面があったけどまたうまくいかず。本当に指数の雰囲気がよくないなあ。&lt;br&gt;
+場中に強い動きをしてほしいのにそれが全然なくて厳しい日が続く。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>6/3（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/03/</link>
+      <pubDate>Wed, 03 Jun 2026 08:23:18 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/03/</guid>
+      
+      <description>&lt;p&gt;-9,410円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;しっかりマイナス→しっかりプラ転→マイ転→トントンな一日。&lt;br&gt;
+しっかりプラ転した後に、実現損益のプラスを担保にQDで高値切り下げ線ブレイクロングのチャートレにロット上限いっぱいはいった。&lt;br&gt;
+戻しは一本までと決めていたのに2本目が上にいかなかったのを見てすぐに投げないといけなかったのに一瞬様子見したらガラッた。&lt;br&gt;
+こういう瞬間的な判断の遅れが被弾学を増やしてしまったのでこれは反省しなければいけない。&lt;br&gt;
+あと、高値更新後の5MA戻しのリバウンド狙いは期待値ないって知ってんのに反射でやって、ナンピンもいれてしまった。&lt;br&gt;
+これ完全に禁止トレードにしないと体が反射で入りたくなってしまっているのでやってはいけないトレードにいれないとな。&lt;br&gt;
+夜間PTSでも堀田丸正で上ヒゲにばっかりなって微損が積み重なってしまって、うまくいかず。&lt;br&gt;
+最近、夜間PTSも値動き悪いし思ったように伸びないなあ。なんかむずくなってる。&lt;br&gt;
+今月ムズい日々が続く。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;フィックスターズ&lt;br&gt;
+高値更新後の5MAピンポイントリバ狙いなのに、貫かれたら損切りせずに反射でナンピン入れてしまった。&lt;br&gt;
+今日の実現損益がプラスだったから甘い判断のトレードをしてしまった。&lt;br&gt;
+こういう酷いトレードを記述して定期的に見返すことで脳にブレーキを入れるようにしないとな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260603-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260603-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>6/2（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/02/</link>
       <pubDate>Tue, 02 Jun 2026 19:45:24 +0900</pubDate>
       
@@ -16,8 +69,65 @@
       
       <description>&lt;p&gt;-14,390円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;ボラがない上に指数も激弱でチャンスと思えた場面がほっとんどなかった1日。&lt;br&gt;
+いつものアストロとかQDを朝に触ってとったりとられたりの1日。&lt;br&gt;
+前場は負けていて後場にコツコツ少しだけ返済して終了。&lt;br&gt;
+やばいトレードとかはしてないしチャンスを逃した場面もほぼなかったと思う。てか、チャンスがなかった。&lt;br&gt;
+まあこんな日もあるとわりきれるとして、追加で本当にイラついたことがあったので少しここで吐露させてほしい。&lt;br&gt;
+今、二輪の免許を取りに行ってるんだけど今日は予約が18時半だと思っていた。のに、17時半だったらしい。&lt;br&gt;
+いや、ラインに届いた時間表見たら一番上が18時半になってたからそう思うやん?&lt;br&gt;
+日にちごとではなく、教習の種類ごとにまとめてるとかクソすぎだろ。&lt;br&gt;
+なんで、この日は何時～これとこれって書かずにわざわざ遠い位置に学科とシュミレーションを離して書いてるんだよクソが。&lt;br&gt;
+シンプルに一番上に書いてある+日にちはあってたらその時間だと勘違いすんだろうが。&lt;br&gt;
+この勘違いにより、わざわざ遠いところまで電車+バスできたのにとんぼ返りだし、しかもキャンセル料が4400円とか終わってんだろ。&lt;br&gt;
+なんでこんなことでそれなりのお金をとられなきゃいけないんだよ。マジで。&lt;br&gt;
+しかも現金限定とか、これ絶対申告してない料金だろ。&lt;br&gt;
+いや、わかってるよ。自分の確認不足のせいだってことはさ。&lt;br&gt;
+でも、さすがにUI的に不親切だし、お金もとりすぎだし、かなりイラッとした。&lt;br&gt;
+時間立てば立つほどイライラしてくるタイプのやつ。&lt;br&gt;
+マジなんなん?ほんまに?なにしてんの?宝水?&lt;br&gt;
+なんかやっちゃいけないトレードかましてくっそ被弾した時と同じくらいの腹のムカつき。&lt;br&gt;
+ウワァアアアアアアアアアアアアアアアアアア💢&lt;br&gt;
+1時間程度経過したら機嫌は直りましたとさ。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;アストロ&lt;br&gt;
+昨日ガラ+大幅GDスタートで一本目のロウソク足は待ってから、グロース指数が下ヒゲつけたのを確認してロング。&lt;br&gt;
+今までの反省を活かして下値リスク低くなったタイミングでちゃんとロットはって入ったがグロース指数が陰線+逆行下落したので損切り。&lt;br&gt;
+からの、下ヒゲをつけて高値更新した。&lt;br&gt;
+これは、仕方ないかな。&lt;br&gt;
+損切りが特別遅らせたわけでもないし。&lt;br&gt;
+でも、その後グロースが陽線になりそうなのを確認してもう一回入り直さないといけなかった。&lt;br&gt;
+そうしたらこのトレードトータルではマイナスになってないからね。&lt;br&gt;
+一回ダメだったからカットになっても同じ考えが適用できるなら再度入り直さないといけなかったな。&lt;br&gt;
+これは反省案件。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260602-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/186A/20260602-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;QPS&lt;br&gt;
+アストロの連動で買おうと叩くと反対売買アルゴが発動してくる仕様を忘れてしまっていた。&lt;br&gt;
+結果、いい位置で入れずにリバウンド狙いで結果損切りに。&lt;br&gt;
+持ってたら利確はできたんだけど、この銘柄の場合はワンテンポ遅らせないといけないことを考慮できていなかった。&lt;br&gt;
+次からはこの銘柄特有の癖としてワンテンポ遅らせたタイミングでのエントリーを適用する。&lt;/p&gt;
+&lt;p&gt;QDレーザ&lt;br&gt;
+下落のリバウンド狙い。&lt;br&gt;
+下げ止まり感が出てきたし、グロース指数の連続陰線だっのが陽線さえつければ上に一回飛ぶと考えてリスクリワードいいと判断してロング。&lt;br&gt;
+この考え方は悪くなかったけど、いつもの連動狙いくらい損切りをタイトにしすぎた。&lt;br&gt;
+この考え方を使うならグロースが大陰線とかこの銘柄特有の弱さを感じない限り、いい位置ではいれたのだからゆっくり買い下がるくらいのやり方じゃないといけなかった。やったことないやり方だけど。&lt;br&gt;
+同じ状況がきたら、環境認識はバッチリだったので100株打診からの100追加2回まででやってみようかな。&lt;br&gt;
+そして、第3波のしっかりめの急落のリバ狙いは自分の狙っていた位置より20tickくらい上で跳ねてしまった。&lt;br&gt;
+これは結構自信あるポイントだったので300を、ちらして配置して待ってたんだけど仕方ない。&lt;br&gt;
+狙いはよかった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6613/20260602-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
