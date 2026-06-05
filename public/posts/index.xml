@@ -6,7 +6,20 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 04 Jun 2026 13:30:55 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2026 17:46:52 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6/5（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/05/</link>
+      <pubDate>Fri, 05 Jun 2026 17:46:52 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/05/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6/4（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/04/</link>
@@ -20,7 +33,44 @@
 チャートレで勝負した場面があったけどまたうまくいかず。本当に指数の雰囲気がよくないなあ。&lt;br&gt;
 場中に強い動きをしてほしいのにそれが全然なくて厳しい日が続く。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;テラスカイ&lt;br&gt;
+2段上げ狙いのロングだが、ここは最初にエントリーした100だけで損切り or 利確を判断する必要があった。&lt;br&gt;
+下落した所で反射的に100株追加したことがよくなかった。&lt;br&gt;
+チャートレの時は確定足ベースでのみ考えること。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3915/20260604-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3915/20260604-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;フィックスターズ&lt;br&gt;
+関連銘柄のテラスカイが寄って急騰の状態でこいつがしっかりGDスタート＋日足が5MA上にいる状態なので連れ高狙いの寄り凸&lt;br&gt;
+ちゃんと寄り凸したのはよかったけど、こいつの癖的にあげる時は想定の3倍は急騰するので、もっと待つ必要があった。&lt;br&gt;
+せめて最初の100株は3000円の手前で一回利確するくらい余裕を持って考えるべき。それくらい癖が悪い。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260604-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260604-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;地盤ネット&lt;br&gt;
+S安からのリバウンド狙い&lt;br&gt;
+寄りそうな場面で一瞬目をきっていた時に寄ってしまって絶好の機会を逃してしまった。&lt;br&gt;
+これは初回にしか期待値がないので、寄りそうなタイミングの時はしっかり初動で入って一瞬の急騰で捌くようにしよう。&lt;/p&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;村田 or 太陽誘電のクロオクショート&lt;br&gt;
+明らかにモメンタムが弱まっていたことと、引けにかけて売られていたことと地合いが弱いことを加味してクロオクは手仕舞い売りがくると思ってショートの考え方。&lt;br&gt;
+これはあっていて、実際に村田はPTSで少し割安な状態だったけど空売りを入れてクロオクで少しとることができた。&lt;br&gt;
+でも、太陽誘電もこっちでもそうだけど、クロオクに入る前に一つ空売り入るのはいいと思った。&lt;br&gt;
+クロオクは引け注文だけ見てうまくいくパターンの方が圧倒的に少ないので、こういうスイング勢がポジションを動かしてきたくなる場面で勝負するのが期待値あるのかもしれないと思った。&lt;/p&gt;</description>
       
     </item>
     
