@@ -6,7 +6,33 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:59:24 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2026 15:36:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6/10（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/10/</link>
+      <pubDate>Wed, 10 Jun 2026 15:36:13 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/10/</guid>
+      
+      <description>&lt;p&gt;+34,350円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;今日はおそらく指数弱いだろうなあと思ったら案の定。&lt;br&gt;
+イラン戦争の時と似たような指数の値動きだからな。&lt;br&gt;
+夜間でのリバしかないっていうのはかなりうざい。&lt;br&gt;
+あの時みたいに無限に先物の動きを予想して殺される展開だけはゴメンだと思って本当に自分の中でいけると思えたタイミングのみスキャ。&lt;br&gt;
+でもほとんど太陽誘電のスキャナんだよなあ。&lt;br&gt;
+太陽誘電の損失を被ったトレードももっと指値の位置を考えて入れば5万円超えも狙えた。&lt;br&gt;
+というか、スキャがしんどすぎる。ボラがないと。&lt;br&gt;
+太陽誘電が明らかにモメンタム弱っていたのを見て空売り仕込んで後場の下落を取るみたいなデイトレードができるようにならないといけないと思うんだけど、日足に完全に逆張り状態だからやりたくなかったんだよな。&lt;br&gt;
+村田とかに比べても相対的に強かったし。&lt;br&gt;
+とりあえず大型が一部ボラあるだけでグロースがこんな調子だとやれることがなくなってしまう。連動狙いとか今完全に死んでる手法になってるし。&lt;br&gt;
+あ！そうだ！今日はリバウンド狙いで一つ気づきがあって、これは取り入れる必要性がかなりあるって感じたものがあったのだった。&lt;br&gt;
+リバウンド狙いのブラッシュアップをしよう。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6/9（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/09/</link>
@@ -16,8 +42,53 @@
       
       <description>&lt;p&gt;+43,350円&lt;/p&gt;
 &lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;後場もボラティリティがかなり激しかった一日。&lt;br&gt;
+太陽誘電と村田製作所はやばすぎないか。&lt;br&gt;
+あの位置からS高までいくのかよ。半端ないな。&lt;br&gt;
+いつも触っていたアストロがあまりにも弱かったこととグロース指数が死んでいたことで仕方なく動いていた大型を触ったけど怖すぎるわ。&lt;br&gt;
+ボラティリティ半端なさすぎるし板読みなんか到底ないし、アルゴも遥かに凶悪だし。&lt;br&gt;
+でも、太陽誘電は後場一の急騰を逆張りショートしたら今までなら死んでいたので逆にロングで入ったけど、ガチホでよかったんかい。&lt;br&gt;
+後場一の急騰を逆張りショートしたくなる場面でロングした場合はガチホする方がよさそうだな。&lt;br&gt;
+言語化はムズいけど日足の5MA下にいる場合でモメンタムがでた場合に、最低でも日足の5MAでは下落するだろうみたいな安易な空売りをしたくなった場合に5MAをぶち破ってきたタイミングでロングをガチホする戦略かな？&lt;br&gt;
+KOKUSAIの時もそうだったけど後場一の急騰で高値キープできた時はマジで空売り焼いてくる値動きが発生するから、これはアルゴなのかな？&lt;br&gt;
+よく観察してみよう。&lt;br&gt;
+一回だけ値幅4倍銘柄で戻り売りの位置でロングしてしまったのが反省点なのでこれはよく振り返ろう。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;フィックスターズ&lt;br&gt;
+先物？感応度が高そうだったのとアストロが死んでてやることがなかったので、こいつで先物のリバウンドのタイミングを見計らってロングのスキャを回転したけど見事に削られまくった。&lt;br&gt;
+今、考えると古河でスキャルピングをしようとしまくって負けたあの時と同じことをしとったな。アホやん。&lt;br&gt;
+こういうのはやってはいけない。&lt;br&gt;
+てか先物って本当にリバるかどうかなんて全くわからないのだから、シンプルにフィックスターズ単体のチャートでド底狙いの位置を考えて現値との距離を踏まえて指値待ちをするっていうのが取るべき行動だった。&lt;br&gt;
+明日以降は先物の本格リバいでここだ！って決めつけて永遠に損切りになるトレードは禁止にしよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260609-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3687/20260609-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;CINC&lt;br&gt;
+値幅四倍の時は下落の第三波＋25MAでのリバ狙いをしなきゃいけないのに、なんで戻り高値の所でロングしてるんだ？&lt;br&gt;
+こういう位置では拾わないこと。&lt;br&gt;
+にしても、値幅4倍でS高にいくとは恐ろしいな。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4378/20260609-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4378/20260609-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;TDK&lt;br&gt;
+太陽誘電や村田が上ヒゲつけていたタイミングで連動狙いの空売りを何度もエントリーして永遠に上へのディレクショナルアルゴに殺された。&lt;br&gt;
+最後の最後にやっと下落した所でドテン買いを入れて少しだけ取り返せたけど、トータルだと大幅マイナスのスキャ。&lt;br&gt;
+シンプルに5分足は上昇トレンドだったことと、牽引銘柄が化物みたいなモメンタムがついていた状態だったこと、そしてコイツ自体に明らかに上へのアルゴが入っていたことを加味して、普通なら空売り入れたくなる or 損切りしたくなる場面で入るスキャで永遠に往復取ることができると学んだ。&lt;br&gt;
+大型プライムでこういうアルゴが入っている場合はちゃんと方向取りと合わせたポジションでのスキャをしないと無限に殺されると学んだのでこれは明日以降活かしていこう。&lt;/p&gt;</description>
       
     </item>
     
