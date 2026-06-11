@@ -6,7 +6,21 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 10 Jun 2026 15:36:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Jun 2026 20:28:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6/11（木）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/11/</link>
+      <pubDate>Thu, 11 Jun 2026 20:28:13 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/11/</guid>
+      
+      <description>&lt;p&gt;+15,393円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6/10（水）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/10/</link>
@@ -19,17 +33,50 @@
 &lt;p&gt;今日はおそらく指数弱いだろうなあと思ったら案の定。&lt;br&gt;
 イラン戦争の時と似たような指数の値動きだからな。&lt;br&gt;
 夜間でのリバしかないっていうのはかなりうざい。&lt;br&gt;
-あの時みたいに無限に先物の動きを予想して殺される展開だけはゴメンだと思って本当に自分の中でいけると思えたタイミングのみスキャ。&lt;br&gt;
-でもほとんど太陽誘電のスキャナんだよなあ。&lt;br&gt;
-太陽誘電の損失を被ったトレードももっと指値の位置を考えて入れば5万円超えも狙えた。&lt;br&gt;
+あの時みたいに無限に先物の動きを予想して殺される展開だけはゴメンだと思ってそういうトレードは一回やってやめれた。&lt;br&gt;
+太陽誘電の損失を被ったトレードをもっと指値の位置を考えて入れば5万円超えも狙えた。&lt;br&gt;
 というか、スキャがしんどすぎる。ボラがないと。&lt;br&gt;
 太陽誘電が明らかにモメンタム弱っていたのを見て空売り仕込んで後場の下落を取るみたいなデイトレードができるようにならないといけないと思うんだけど、日足に完全に逆張り状態だからやりたくなかったんだよな。&lt;br&gt;
 村田とかに比べても相対的に強かったし。&lt;br&gt;
 とりあえず大型が一部ボラあるだけでグロースがこんな調子だとやれることがなくなってしまう。連動狙いとか今完全に死んでる手法になってるし。&lt;br&gt;
-あ！そうだ！今日はリバウンド狙いで一つ気づきがあって、これは取り入れる必要性がかなりあるって感じたものがあったのだった。&lt;br&gt;
-リバウンド狙いのブラッシュアップをしよう。&lt;/p&gt;
+大型を触らざるをえない状況なのが本当に嫌だ。グロース頼むって。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;太陽誘電&lt;br&gt;
+朝一の陰線の下ヒゲ狙いのロング。&lt;br&gt;
+前日の安値の位置ビチビチで待たないとダメだったな。ワンテンポ早く入ってしまったのでアルゴの振幅にビビって損切りになった。&lt;br&gt;
+これはオーバーキルされた可能性もあるので損切りは間違えてないと思うけど、指値待ちの位置をもっと自信の持てるポイントに絞ろう。&lt;br&gt;
+特に寄ってまもない激しい時間帯ならなおさら。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6976/20260610-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6976/20260610-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;QPS研究所&lt;br&gt;
+2500円割れは根拠が重なっていたので2483で指値待ちした。&lt;br&gt;
+少し飲み込まれて2460くらいまで落ちた後に15分くらいかけてリバウンドした。&lt;br&gt;
+これねえ、瞬間的に下ヒゲになることばっかり考えてしまうのがよくないよな。&lt;br&gt;
+俺のリバウンド狙いあるあるなんだけど数秒で上に戻す動きじゃないならカットしてるけど、多少波を捉えて持ってみるやり方にしていかないと値幅とれないよなあ。&lt;br&gt;
+しかも、ほとんどド底で入れているわけだからな。&lt;br&gt;
+まあ、ただ2本理論を考えると指値の位置はもう少し下に設定すべきではあったんだけど。&lt;br&gt;
+こういう波の振幅になるイメージを持ったトレードをしていくためにロットおさえて、チャートのみでトレードするやり方をチャレンジしてみよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/464A/20260610-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/464A/20260610-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
+&lt;p&gt;FIGの板見て思ったことだけど、フムフムて1tickずつ上がっていく動き＋チャートの状態がいい時はさっさと入って、上が軽くふわっと飛ぶタイミングがその後来るので、そこで利確する板読みの考え。&lt;br&gt;
+あのフムフム状態はいい状態なんだな。&lt;/p&gt;</description>
       
     </item>
     
