@@ -6,7 +6,63 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 11 Jun 2026 20:28:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jun 2026 21:00:19 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6/12（金）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/12/</link>
+      <pubDate>Fri, 12 Jun 2026 21:00:19 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/12/</guid>
+      
+      <description>&lt;p&gt;+60,122円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;高値引け+大幅GUスタートが多くて中々やりづらい1日。&lt;br&gt;
+なぜこんなに利益がとれたのかというと太陽誘電にかなり粘着して跳ねる可能性の高いタイミングでのスキャしたから。&lt;br&gt;
+大型のスキャは禁止してたんだけど、それは根拠が曖昧な状況で繰り返し入って殺されるパターンが多かったから。&lt;br&gt;
+根拠持てたタイミングでのみ最小ロットで損切り意識強くして1日通して観察してやってみた。&lt;br&gt;
+たまたまかもしれないが、抜けたら一気に崩れる or 一瞬戻して強くリバルとテクニカル根拠持てるところで指値ビチビチでやったらなんとか利益が残った。&lt;br&gt;
+ただやっぱり一瞬で1万円前後動くので自分のリスク許容度ではかなりしんどい。&lt;br&gt;
+本当に自信のあるポイントでのみやる。&lt;br&gt;
+逆にいうと、引っ張るトレードなんか絶対できないし、損切りが遅れたら終わる。&lt;br&gt;
+下手にボラがあるだけに損切りしようと思っても助かるかも？って考えが間違った助かり方をする場面も今後出てきそうだと思った。&lt;br&gt;
+マジでチャート単体で考えてトレンドに順張り・クラッシュで逆張りのどちらかが伸びる場面でのみのエントリーを徹底すること。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;大真空&lt;br&gt;
+大幅GU相場だったが、日本電波が全く寄り付いていない状態でこいつが先に寄り付いていたのでロング。&lt;br&gt;
+が、逆行させられ少し待って様子を見るも下落の勢いが止まらなかったので損切りとなった。&lt;br&gt;
+まず、このやり方をやるのであれば寄り凸しないといけないし、寄ってすぐに上にいくパターンではないので一本目が陰線になったタイミングで損切りになるよな。&lt;br&gt;
+これ4月にぶちくらったブルーイノベーションとヒーハイストの負け方と根本的には同じ性質の大負けパターンをしちゃってるよな。&lt;br&gt;
+久しぶりにこんなトレードをしてしまったのでこれは反省しないといけない。&lt;br&gt;
+先物も上昇していたし気配差の寄り凸に気づくのに遅れたので、遅く入っちゃったとしてもその後の損切りは爆速で行う必要があった。&lt;br&gt;
+反射で少しだけナンピン入れたのがよくなさすぎる。&lt;br&gt;
+次からはまず寄り凸を徹底すること。そして、気づくのに遅れて入る場合はロットを落とし、損切り速度を俊足にすること。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6962/20260612-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6962/20260612-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;村田製作所&lt;br&gt;
+下落トレンド中の先物との乖離を狙ったスキャ。&lt;br&gt;
+村田のアルゴはマッジで手が合わなさすぎるからもう辞める。絶対やめる。&lt;br&gt;
+二度と触らん。&lt;/p&gt;
+&lt;p&gt;太陽誘電&lt;br&gt;
+日足の高値更新後の2段上げ狙いのチャートレ。&lt;br&gt;
+一回入った後に損切りになってしまったトレードなのに、やっぱ陽線になりそうって考えて高い所でもう一回入って無駄に損失を積み重ねてしまった。&lt;br&gt;
+チャートレは確定足ベースでのトレード手法なので当該足の確定前にもう一度入り直すなんてことはあってはならない。&lt;br&gt;
+あと、GDからの寄り底上昇の日は機能しやすいけど、こういうモメンタム弱っているときとか寄り天系の日はあんまし機能しづらい気がするんだが。&lt;br&gt;
+あんまり2段上げ狙いのチャートレに期待値が見いだせなくなってきている昨今。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6976/20260612-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6/11（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/11/</link>
