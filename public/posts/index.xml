@@ -6,9 +6,32 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:11:48 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 17:38:44 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>16（火）のデイトレ結果</title>
+      <title>6/17（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/06/17/</link>
+      <pubDate>Wed, 17 Jun 2026 17:38:44 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/06/17/</guid>
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;日経レンジ相場。&lt;br&gt;
+非常にまずいことが発生した。&lt;br&gt;
+今日は3トレードしかできず、一回舐めたトレードをしたのを回収できずに死亡。&lt;br&gt;
+これはsbi証券のシステムによって取引停止状態になってしまった。&lt;br&gt;
+いや、この仕様はしらんて。&lt;br&gt;
+なんですか？スイープ口座のお金が拘束されるみたいなクソルール。&lt;br&gt;
+こういうのを防ぐために俺は証券会社に振込入金していたのに、勝手にスイープ口座に移されてこれが適用されるのかよ。&lt;br&gt;
+マジで萎え。&lt;br&gt;
+だけど、反省しないといけないトレードはあるからそれだけ反省するか。&lt;br&gt;
+本質的には機能のイビデンと同じような考え方で負けてしまったので反省しないといけないな。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>6/16（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/06/16/</link>
       <pubDate>Tue, 16 Jun 2026 18:11:48 +0900</pubDate>
       
@@ -40,18 +63,28 @@
 今回はその中でそんなにGUせずにアルゴビンビン銘柄を選択するとすると必然的に古河電工だった。&lt;br&gt;
 で、こいつは先物が寄ってからの急騰の煽り儲けて寄ってから6分くらいで2000円あげた。&lt;br&gt;
 次回からは、変な気配でないことと当日のβ値もふまえて銘柄を選択するようにする。&lt;br&gt;
-タラレバだけど古河電工に入ってたら今日は15万勝ちとれた。&lt;/p&gt;
-&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+タラレバだけど古河電工に入ってたら今日は15万勝ちとれた。&lt;br&gt;
+今日は総括の方に反省トレード内容を書いたのでこれで終わり。&lt;/p&gt;
 &lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
 &lt;p&gt;AIメカ&lt;br&gt;
 朝一の急落のリバ狙いはとれたなぁ。&lt;br&gt;
 S高つけた日の剥がれた位置での揉み合いでのピンポイントの位置+朝一の急落だったのでこれはチャレンジする価値があった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6227/20260616-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6227/20260616-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;JX金属&lt;br&gt;
 テクニカルポイントでのピンポイントリバ狙い。&lt;/p&gt;
-&lt;p&gt;イビデン&lt;br&gt;
-新高値更新からの二段上げ狙い。&lt;/p&gt;
-&lt;p&gt;太陽誘電&lt;br&gt;
-新高値更新からの二段上げ狙い。&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5016/20260616-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
       
     </item>
     
