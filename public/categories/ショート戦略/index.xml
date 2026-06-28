@@ -6,7 +6,20 @@
     <description>Recent content in ショート戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 05 Apr 2026 19:22:26 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jun 2026 14:26:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>クロージングオークション戦略</title>
+      <link>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</link>
+      <pubDate>Sun, 28 Jun 2026 14:26:13 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</guid>
+      
+      <description>&lt;p&gt;&lt;b&gt;引け注文で値が飛ぶ可能性があると判断した時に24分30秒以降に仕込む&lt;/b&gt;&lt;br&gt;
+米国指数・先物・関連銘柄の気配・関連銘柄の寄ってからの値動きを総合的に判断し、&lt;br&gt;
+&lt;span style=&#34;color: red;&#34;&gt;「寄り付き値の段階での歪み」&lt;/span&gt;を狙う。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>先物連動スキャ</title>
       <link>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</link>
