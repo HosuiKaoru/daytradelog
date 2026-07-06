@@ -6,7 +6,21 @@
     <description>Recent content in Posts on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 05 Jul 2026 16:57:35 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jul 2026 18:03:54 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7/6（月）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/07/06/</link>
+      <pubDate>Mon, 06 Jul 2026 18:03:54 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/07/06/</guid>
+      
+      <description>&lt;p&gt;+63,920円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>6月の課題とその改善策</title>
       <link>http://localhost:1313/posts/strategy/6%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
@@ -14,7 +28,12 @@
       
       <guid>http://localhost:1313/posts/strategy/6%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
       
-      <description>&lt;h1 id=&#34;課題&#34;&gt;課題&lt;/h1&gt;
+      <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/reflection/2026061.png&#34; alt=&#34;反省点&#34; width=&#34;700&#34; height=&#34;1050&#34;&gt;
+&lt;/div&gt;
+&lt;/div&gt;  
+&lt;h1 id=&#34;課題&#34;&gt;課題&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;入るべきじゃない場面で入って自滅するトレードが多くなっている&lt;/li&gt;
 &lt;li&gt;チャンスだと思っても入れていない or FOMO気味にエントリーが早い&lt;/li&gt;
@@ -45,7 +64,7 @@
 &lt;h1 id=&#34;7月どうする&#34;&gt;7月どうする？&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;大型中心の監視銘柄に変更する（新興に全くボラがないため）&lt;/li&gt;
-&lt;li&gt;そのためにとにかく当日強いものに入って順張りを引っ張るトレードスタイルに挑戦&lt;/li&gt;
+&lt;li&gt;とにかく当日強いものに入って順張りを引っ張るトレードスタイルに挑戦（Cis式）&lt;/li&gt;
 &lt;li&gt;朝一のリバウンド狙いのチャンスを逃さないように前日準備を必ず毎日行う&lt;/li&gt;
 &lt;li&gt;無計画なナンピンを一度もしないことを目標にする&lt;/li&gt;
 &lt;li&gt;指値での注文をベースにする&lt;/li&gt;
