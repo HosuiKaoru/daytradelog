@@ -6,7 +6,67 @@
     <description>Recent content on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 06 Jul 2026 18:03:54 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2026 15:53:05 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7/7（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/07/07/</link>
+      <pubDate>Tue, 07 Jul 2026 15:53:05 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/log/2026/07/07/</guid>
+      
+      <description>&lt;p&gt;+4,600円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;日経平均ひたすらダラダラ下げ続けてたいしてリバウンドもこない地獄相場。&lt;br&gt;
+かなりお金減っている人が多い印象。&lt;br&gt;
+前までは下に強く落としてきたあとも早めに上に戻っていった半導体関連だが、かなり雰囲気悪い。&lt;br&gt;
+にしても、今日は朝一の方向感結構あってたんだけどな。&lt;br&gt;
+含み益も伸ばそうと頑張ったんだけどな。ボラ激しすぎて一歩早い感じが噛み合わずに対して利益取れず。&lt;br&gt;
+6桁も可能だっただけにかなり悔しい。&lt;br&gt;
+大型やってるんだからこのボラに対応できるようにならないといけないな。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;SUMCO&lt;br&gt;
+これなあ、朝一の急落の75MA割れ＋前日の押し安値意識した位置で指値で拾ったんだけど、反対売買アルゴの暴走で貫かれ連売りに。&lt;br&gt;
+さすがにさすがに？リバウンド来るだろう。ということで100株だけ戦略的ナンピン。&lt;br&gt;
+最初に入った建玉の位置が高かったため、リバったけどトントンくらいで撤退になった。&lt;br&gt;
+これねえ、難しいんだけど、この銘柄の強さが失われつつあったこととGDスタートだったから距離がさすがに近かったんだよね。おそらく。&lt;br&gt;
+75MA割れ＋押し安値ラインビチビチしか意識してなかったけど、前日までの朝一の巨大ロウソク足を参考に値幅をイメージしとかないとダメだった。&lt;br&gt;
+そうすると、ちょうど連売りの位置くらいで拾えたんだよな。&lt;br&gt;
+この考え方が抜け落ちていたのでちゃんとこれも踏まえたうえでの指値の位置にすること。&lt;br&gt;
+そして、結局弱いわけだし指数も弱かったからさすがにリバはこれで終わりだろうと思ってショート。&lt;br&gt;
+したんだけど、まさかの始値まで上げてきて（この段階では先物が陽線だった）いやいや損切り。&lt;br&gt;
+そのあと何回かショート入り直して結局トータルではトントンなんだけど、上ヒゲ陰線の所で追撃はおいていかれたし、陽線のあとの戻り売り狙いのショートは一瞬躊躇したらもう下がってしまったし。&lt;br&gt;
+判断が一瞬遅くなってしまっていたんだよな。朝一の急落に関しては判断はできていたけど早まったし。&lt;br&gt;
+考え方はバッチリハマっていたんだけどどうもエントリーが噛み合わずに利益が残らなかった。&lt;br&gt;
+対策としては、朝一の急落拾いは値幅を想定しておくこと・その後の判断に関してはLCラインを設定して入れる場面が来たら躊躇なく入ること。&lt;br&gt;
+おちおちしてたらおいていかれるので、とにかく目線はいいから速度を意識しないとダメだと学んだ。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260707-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260707-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;村田製作所&lt;br&gt;
+場中のとんでもない急落のりば狙いは難しかったとしても、その後の陽線の戻り売り狙いのショートはいれたかったな。&lt;br&gt;
+一気に200株入れるのが難しいとしても、LCラインを決めて100株ずつスライスで入れていく考えが持てればこの戻り売りは取れたと思う。&lt;br&gt;
+ボラある時じゃないと難しいね。&lt;br&gt;
+そして、後場の値動きで何回か触りたくなったけど本当に触らなくて正解。この銘柄は相性悪すぎるから。&lt;br&gt;
+ピンポイントで狙える時以外は触らぬが吉。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6981/20260707-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6981/20260707-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>7/6（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/07/06/</link>
