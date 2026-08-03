@@ -6,13 +6,16 @@
     <description>Recent content in ロング戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 28 Jun 2026 14:26:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <lastBuildDate>Sun, 28 Jun 2026 14:26:13 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%83%AD%E3%83%B3%E3%82%B0%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>クロージングオークション戦略</title>
       <link>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</link>
       <pubDate>Sun, 28 Jun 2026 14:26:13 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;引け注文で値が飛ぶ可能性があると判断した時に15時24分30秒以降に仕込む&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -22,8 +25,8 @@
       <title>値幅4倍銘柄での立ち回り</title>
       <link>http://localhost:1313/posts/strategy/%E5%80%A4%E5%B9%854%E5%80%8D%E9%8A%98%E6%9F%84/</link>
       <pubDate>Sun, 05 Apr 2026 21:31:34 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%80%A4%E5%B9%854%E5%80%8D%E9%8A%98%E6%9F%84/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;値幅4倍銘柄特有の値動きの癖を利用する&lt;/b&gt;&lt;/p&gt;
 &lt;h1 id=&#34;エントリー条件&#34;&gt;エントリー条件&lt;/h1&gt;
@@ -74,8 +77,8 @@
       <title>日足の青天戦略</title>
       <link>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E9%9D%92%E5%A4%A9%E6%88%A6%E7%95%A5/</link>
       <pubDate>Sun, 05 Apr 2026 19:54:26 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E9%9D%92%E5%A4%A9%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;日足の青天シグナルよりロングする&lt;/b&gt;&lt;br&gt;
 日足で&lt;span style=&#34;color: red;&#34;&gt;連続陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
@@ -86,8 +89,8 @@
       <title>先物連動スキャ</title>
       <link>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</link>
       <pubDate>Sun, 05 Apr 2026 19:22:26 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;先物と連動性の強い銘柄でスキャルピング&lt;/b&gt;&lt;br&gt;
 β値が高い銘柄が先物の上昇・下落に対して反応はするが動意付きが明らかに弱い状態で&lt;br&gt;
@@ -99,8 +102,8 @@
       <title>寄り凸戦略</title>
       <link>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%87%B8/</link>
       <pubDate>Fri, 20 Mar 2026 20:16:24 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%87%B8/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;寄り前気配値の歪みの是正を狙う&lt;/b&gt;&lt;br&gt;
 米国指数・先物・関連銘柄の気配・関連銘柄の寄ってからの値動きを総合的に判断し、&lt;br&gt;
@@ -112,8 +115,8 @@
       <title>連動スキャ</title>
       <link>http://localhost:1313/posts/strategy/%E9%80%A3%E5%8B%95%E3%82%B9%E3%82%AD%E3%83%A3/</link>
       <pubDate>Sun, 15 Feb 2026 15:49:28 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E9%80%A3%E5%8B%95%E3%82%B9%E3%82%AD%E3%83%A3/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;同セクターの連動を利用し、牽引銘柄の値動きに合わせて&lt;span style=&#34;color: red;&#34;&gt;連動銘柄のスキャ&lt;/span&gt;をする&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -123,8 +126,8 @@
       <title>場中決算の攻略法</title>
       <link>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</link>
       <pubDate>Sun, 15 Feb 2026 11:06:22 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%A0%B4%E4%B8%AD%E6%B1%BA%E7%AE%97/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;場中決算で暴走したアルゴの&lt;span style=&#34;color: red;&#34;&gt;平均回帰&lt;/span&gt;を狙う戦略&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -134,8 +137,8 @@
       <title>不正銘柄の攻略法</title>
       <link>http://localhost:1313/posts/strategy/%E4%B8%8D%E6%AD%A3/</link>
       <pubDate>Wed, 07 Jan 2026 22:48:36 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E4%B8%8D%E6%AD%A3/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;不正取引によって生まれる市場の歪みを狙う&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -192,8 +195,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>日足の反転戦略</title>
       <link>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</link>
       <pubDate>Wed, 03 Dec 2025 17:04:26 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E6%97%A5%E8%B6%B3%E3%81%AE%E5%8F%8D%E8%BB%A2%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;日足の反転シグナルよりロングする&lt;/b&gt;&lt;br&gt;
 日足で&lt;span style=&#34;color: red;&#34;&gt;反発陽線が出やすい状況&lt;/span&gt;で5分足でエントリーポイントを探る。&lt;/p&gt;</description>
@@ -204,8 +207,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>PTS戦略</title>
       <link>http://localhost:1313/posts/strategy/pts/</link>
       <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/pts/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;ストップ安2連続目の銘柄に逆張りロング&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -215,8 +218,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>リバウンド戦略（デイ）</title>
       <link>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</link>
       <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;反転ポイントを狙ってロング&lt;/b&gt;&lt;br&gt;
 ショート勢の&lt;span style=&#34;color: red;&#34;&gt;「利確」&lt;/span&gt;とロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバ狙い」&lt;/span&gt;による一時的な相場の上昇ポイントを探る。&lt;/p&gt;
@@ -270,8 +273,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>チャートパターン</title>
       <link>http://localhost:1313/posts/strategy/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
       <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+
       
       <description>&lt;p&gt;・上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有効なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;br&gt;
 ・明確なトレンドを&lt;span style=&#34;color: red;&#34;&gt;否定&lt;/span&gt;する形を狙う&lt;/p&gt;</description>
@@ -282,8 +285,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>高速イナゴ戦略</title>
       <link>http://localhost:1313/posts/strategy/inago/</link>
       <pubDate>Sun, 17 Aug 2025 14:11:17 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/inago/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
 大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
@@ -294,8 +297,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>Vジェネレート戦略</title>
       <link>http://localhost:1313/posts/strategy/oshimegai/</link>
       <pubDate>Sun, 17 Aug 2025 12:24:53 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/oshimegai/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;GUした注目銘柄の押し目でロング&lt;/b&gt;&lt;br&gt;
 注目銘柄の&lt;span style=&#34;color: red;&#34;&gt;「相対的安さ」&lt;/span&gt;によるリバウンド勢の買い圧力を利用する&lt;/p&gt;</description>
@@ -306,8 +309,8 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       <title>寄り付き戦略</title>
       <link>http://localhost:1313/posts/strategy/gd/</link>
       <pubDate>Wed, 13 Aug 2025 18:37:22 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/gd/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;大幅にGDした銘柄の寄り付きロング&lt;/b&gt;&lt;/p&gt;</description>
       

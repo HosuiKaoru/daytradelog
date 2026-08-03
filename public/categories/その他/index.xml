@@ -6,13 +6,16 @@
     <description>Recent content in その他 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:50:41 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <lastBuildDate>Sun, 12 Jul 2026 20:50:41 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>順張りトレードの極意</title>
       <link>http://localhost:1313/posts/strategy/%E9%A0%86%E5%BC%B5%E3%82%8A%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%A5%B5%E6%84%8F/</link>
       <pubDate>Sun, 12 Jul 2026 20:50:41 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E9%A0%86%E5%BC%B5%E3%82%8A%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E3%81%AE%E6%A5%B5%E6%84%8F/</guid>
+
       
       <description>&lt;p&gt;この記事は私が一番に習得したい順張りトレードのその極意についてまとめたものである。&lt;br&gt;
 書籍・ブログ等から得たヒントを乱雑にまとめたものになるので、定期的に見直して潜在意識に刷り込むこと。&lt;/p&gt;
@@ -48,8 +51,8 @@
       <title>6月の課題とその改善策</title>
       <link>http://localhost:1313/posts/strategy/6%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
       <pubDate>Sun, 05 Jul 2026 16:57:35 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/6%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
+
       
       <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
@@ -100,8 +103,8 @@
       <title>5月の課題とその改善策</title>
       <link>http://localhost:1313/posts/strategy/5%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
       <pubDate>Sat, 30 May 2026 15:59:49 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/5%E6%9C%88%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
+
       
       <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
@@ -175,8 +178,8 @@
       <title>1~4月でわかった自分の課題とその改善策</title>
       <link>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</link>
       <pubDate>Sat, 02 May 2026 16:59:19 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/1~4%E6%9C%88%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%87%AA%E5%88%86%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%81%9D%E3%81%AE%E6%94%B9%E5%96%84%E7%AD%96/</guid>
+
       
       <description>&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
@@ -211,34 +214,34 @@
 &lt;span style=&#34;color: red;&#34;&gt;ロットの固定化を徹底する&lt;/span&gt;&lt;br&gt;
 これは合計ロット数であり、ナンピン等でこのロットを超える事態があってはならない。&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;株価&lt;/th&gt;
-          &lt;th&gt;ロット上限&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1000未満&lt;/td&gt;
-          &lt;td&gt;1500&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3000未満&lt;/td&gt;
-          &lt;td&gt;600&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5000未満&lt;/td&gt;
-          &lt;td&gt;300&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;10000未満&lt;/td&gt;
-          &lt;td&gt;200&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;10000以上&lt;/td&gt;
-          &lt;td&gt;100&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;株価&lt;/th&gt;
+					&lt;th&gt;ロット上限&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;1000未満&lt;/td&gt;
+					&lt;td&gt;1500&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;3000未満&lt;/td&gt;
+					&lt;td&gt;600&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;5000未満&lt;/td&gt;
+					&lt;td&gt;300&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;10000未満&lt;/td&gt;
+					&lt;td&gt;200&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;10000以上&lt;/td&gt;
+					&lt;td&gt;100&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;b&gt;&lt;u&gt;過剰投資への対策&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
 &lt;span style=&#34;color: red;&#34;&gt;レバレッジ0.5倍を限度とする&lt;/span&gt;&lt;br&gt;
@@ -267,8 +270,8 @@
       <title>米国株・日本株　連動銘柄</title>
       <link>http://localhost:1313/posts/strategy/%E7%B1%B3%E5%9B%BD%E6%A0%AA%E9%80%A3%E5%8B%95/</link>
       <pubDate>Wed, 01 Apr 2026 19:48:23 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E7%B1%B3%E5%9B%BD%E6%A0%AA%E9%80%A3%E5%8B%95/</guid>
+
       
       <description>&lt;ol&gt;
 &lt;li&gt;285A キオクシア　　ー　　SNDK サンディスク&lt;/li&gt;
@@ -282,8 +285,8 @@
       <title>生き残りのディーリング</title>
       <link>http://localhost:1313/posts/strategy/dealing/</link>
       <pubDate>Sun, 19 Oct 2025 12:34:59 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/dealing/</guid>
+
       
       <description>&lt;p&gt;お金で幸せになりたいのなら、幸せになる方法で、お金を増やさねばなりません。&lt;br&gt;
 相場でお金を儲けるにも、幸福感の味わえるやり方を見つける必要があります。&lt;br&gt;
@@ -356,8 +359,8 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
       <title>けむ。の板読みデイトレード術</title>
       <link>http://localhost:1313/posts/strategy/kemu/</link>
       <pubDate>Thu, 25 Sep 2025 17:03:48 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/kemu/</guid>
+
       
       <description>&lt;p&gt;バイブルと言えるような本に出会った。&lt;br&gt;
 大海原のどちらに進めがいいか見当もつかずにもがいていた自分が最近決めた方角が間違ってないと後押ししてくれるような本。&lt;br&gt;
@@ -419,8 +422,8 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
       <title>やってはいけないトレード</title>
       <link>http://localhost:1313/posts/strategy/reflection/</link>
       <pubDate>Wed, 03 Sep 2025 21:21:04 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/reflection/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;&lt;u&gt;負けパターン&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -443,8 +446,8 @@ Aの仕掛けで相場が上がったのではなく、Aの仕掛けをきっか
       <title>二階堂さんのデイトレ戦略</title>
       <link>http://localhost:1313/posts/strategy/nikaido/</link>
       <pubDate>Wed, 03 Sep 2025 00:16:38 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/nikaido/</guid>
+
       
       <description>&lt;p&gt;&lt;a href=&#34;https://xn--4kq3du32a4k4d27e.com/&#34;&gt;二階堂さんのサイト&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;トレードで勝てるようになったきっかけは何か&#34;&gt;トレードで勝てるようになったきっかけは何か？&lt;/h1&gt;
@@ -514,8 +517,8 @@ a. 板が薄い銘柄はぶん投げが出ると急落するので基本的に�
       <title>自分ルール</title>
       <link>http://localhost:1313/posts/strategy/myrulue/</link>
       <pubDate>Mon, 18 Aug 2025 22:22:56 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/myrulue/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;ルール&lt;/b&gt;&lt;/p&gt;
 &lt;ol&gt;

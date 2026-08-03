@@ -6,13 +6,16 @@
     <description>Recent content in ショート戦略 on デイトレード戦略と日々の記録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 28 Jun 2026 14:26:13 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <lastBuildDate>Sun, 28 Jun 2026 14:26:13 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>クロージングオークション戦略</title>
       <link>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</link>
       <pubDate>Sun, 28 Jun 2026 14:26:13 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E3%82%AF%E3%83%AD%E3%82%AA%E3%82%AF/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;引け注文で値が飛ぶ可能性があると判断した時に15時24分30秒以降に仕込む&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -22,8 +25,8 @@
       <title>先物連動スキャ</title>
       <link>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</link>
       <pubDate>Sun, 05 Apr 2026 19:22:26 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%85%88%E7%89%A9%E9%80%A3%E5%8B%95/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;先物と連動性の強い銘柄でスキャルピング&lt;/b&gt;&lt;br&gt;
 β値が高い銘柄が先物の上昇・下落に対して反応はするが動意付きが明らかに弱い状態で&lt;br&gt;
@@ -35,8 +38,8 @@
       <title>寄り凸戦略</title>
       <link>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%87%B8/</link>
       <pubDate>Fri, 20 Mar 2026 20:16:24 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%87%B8/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;寄り前気配値の歪みの是正を狙う&lt;/b&gt;&lt;br&gt;
 米国指数・先物・関連銘柄の気配・関連銘柄の寄ってからの値動きを総合的に判断し、&lt;br&gt;
@@ -48,8 +51,8 @@
       <title>連動スキャ</title>
       <link>http://localhost:1313/posts/strategy/%E9%80%A3%E5%8B%95%E3%82%B9%E3%82%AD%E3%83%A3/</link>
       <pubDate>Sun, 15 Feb 2026 15:49:28 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E9%80%A3%E5%8B%95%E3%82%B9%E3%82%AD%E3%83%A3/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;同セクターの連動を利用し、牽引銘柄の値動きに合わせて&lt;span style=&#34;color: red;&#34;&gt;連動銘柄のスキャ&lt;/span&gt;をする&lt;/b&gt;&lt;/p&gt;</description>
       
@@ -59,8 +62,8 @@
       <title>寄り売り戦略</title>
       <link>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%A3%B2%E3%82%8A%E6%88%A6%E7%95%A5/</link>
       <pubDate>Sun, 01 Feb 2026 20:59:43 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%AF%84%E3%82%8A%E5%A3%B2%E3%82%8A%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;過熱感のある銘柄で特定の条件が揃ったら寄り成り売りショート&lt;/b&gt;&lt;br&gt;
 寄らずS高という熱狂の翌日に、&lt;br&gt;
@@ -72,8 +75,8 @@
       <title>天井ショート戦略</title>
       <link>http://localhost:1313/posts/strategy/%E5%A4%A9%E4%BA%95%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</link>
       <pubDate>Sun, 01 Feb 2026 15:44:21 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%A4%A9%E4%BA%95%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;市場参加者の注目度が半端ない上昇トレンド銘柄の天井を狙っちゃおう作戦&lt;/b&gt;&lt;br&gt;
 中長期勢の利確売りを発端にした&lt;span style=&#34;color: red;&#34;&gt;「アルゴのぶち下げからの恐怖の売り」&lt;/span&gt;を利用する&lt;/p&gt;</description>
@@ -84,8 +87,8 @@
       <title>GDショート戦略</title>
       <link>http://localhost:1313/posts/strategy/obreakshort/</link>
       <pubDate>Mon, 10 Nov 2025 22:51:57 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/obreakshort/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;大幅GD時の寄り凸勢が全員含み損になる瞬間にショート&lt;/b&gt;&lt;br&gt;
 デイトレロング勢の&lt;span style=&#34;color: red;&#34;&gt;「リバウンド期待の崩壊」&lt;/span&gt;による損切りバケツリレーの初動を狙う&lt;/p&gt;</description>
@@ -96,8 +99,8 @@
       <title>チャートパターン</title>
       <link>http://localhost:1313/posts/strategy/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</link>
       <pubDate>Sun, 07 Sep 2025 09:25:53 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+
       
       <description>&lt;p&gt;・上位足のトレンドの継続が確認できる&lt;span style=&#34;color: red;&#34;&gt;「有効なチャートパターン」&lt;/span&gt;出現で流れに乗る&lt;br&gt;
 ・明確なトレンドを&lt;span style=&#34;color: red;&#34;&gt;否定&lt;/span&gt;する形を狙う&lt;/p&gt;</description>
@@ -108,8 +111,8 @@
       <title>台形戦略</title>
       <link>http://localhost:1313/posts/strategy/%E5%8F%B0%E5%BD%A2%E6%88%A6%E7%95%A5/</link>
       <pubDate>Thu, 07 Aug 2025 21:59:55 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/%E5%8F%B0%E5%BD%A2%E6%88%A6%E7%95%A5/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;5分足の高値圏のレンジ下抜け確定でショート&lt;/b&gt;&lt;br&gt;
 まだ上がると考えていた市場参加者が&lt;span style=&#34;color: red;&#34;&gt;「一気に含み損になる瞬間」&lt;/span&gt;の焦った売りを利用する&lt;/p&gt;</description>
@@ -120,8 +123,8 @@
       <title>戻り売り戦略</title>
       <link>http://localhost:1313/posts/strategy/sell-on-rallies/</link>
       <pubDate>Sat, 26 Jul 2025 00:32:24 +0900</pubDate>
-      
       <guid>http://localhost:1313/posts/strategy/sell-on-rallies/</guid>
+
       
       <description>&lt;p&gt;&lt;b&gt;明確な下落後の戻しでショート&lt;/b&gt;&lt;br&gt;
 損切りできていない&lt;span style=&#34;color: red;&#34;&gt;「戻ったら売ろう勢」&lt;/span&gt;の売り圧を利用する&lt;/p&gt;</description>
