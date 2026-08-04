@@ -2,7 +2,7 @@ title = "デイトレード戦略と日々の記録"
 baseURL = 'https://xn--pbty99adk8a.com/'
 
 # This is what goes in <html lang="">
-languageCode = 'ja-jp'
+locale = 'ja-jp'
 
 # This defines how dates are formatted
 defaultContentLanguage = "ja"
@@ -48,9 +48,8 @@ theme = "hugo-blog-awesome"
 		ordered = false # generates <ul> instead of <ol>
 
 [params]
-  sitename = "宝水香のホームページ"
+  sitename = "宝水香のトレード日誌"
   defaultColor = "light"
-  description = "デイトレード戦略と日々の記録"
   mainSections = ['posts']
   toc = true
   tocOpen = false
@@ -59,10 +58,9 @@ theme = "hugo-blog-awesome"
   rssFeedDescription = "summary"
 
 [params.author]
-    avatar = "obito.png" 
-    intro = "宝水香のホームページ"
+    avatar = "enndou.png" 
+    intro = "宝水香のトレード日誌"
     name = "Kaoru Hosui" 
-    description = "デイトレード戦略と日々の記録"
   
 [params.webmanifest] 
   name = "Kaoru Hosui"

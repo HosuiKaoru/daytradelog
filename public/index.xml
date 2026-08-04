@@ -8,8 +8,56 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Mon, 03 Aug 2026 13:28:23 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 16:18:48 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/4（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/08/04/</link>
+      <pubDate>Tue, 04 Aug 2026 16:18:48 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/08/04/</guid>
+
+      
+      <description>&lt;p&gt;+17,390円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;最近、本当にやれることがない。というか、チャンスと思える場面が少なすぎる。&lt;br&gt;
+キオクシアの朝のリバウンドは狙えたと思う。&lt;br&gt;
+資金力ないのでキオクシアのボラに冷静に立ち向かうことができないから入らないんですけど、まあ考え方はよかったということで。&lt;br&gt;
+面白いかも？って思ったのはSUMCOの空売りかな。&lt;br&gt;
+日足の超きれいなレジサポラインあたりで揉み合って、そこから先物が下落してチャートが崩れてくるタイミングで入るのは結構いいんじゃないか？&lt;br&gt;
+この銘柄嫌いなんだけどねw&lt;br&gt;
+SUMCOだけ見てたら入れたんだろうけど、色々監視してた中でいけんじゃね？ってふわって思ったくらいだったので遅れてしまった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260804-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;250&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260804-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;350&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;三菱重工業&lt;br&gt;
+やることがあまりにもなさすぎて場中決算のこいつになんとなくで逆張りショート。無事死亡。&lt;br&gt;
+4000の節目突破で一旦の反応があるかと思ったら普通に担がれた。&lt;br&gt;
+まあ、別にこれで損切りしてるならいいんだけどここでナンピンして助かろうとしたこの行動がクソムーブ。&lt;br&gt;
+ロットも自然と大きくなってしまっている。こういうことやってるから負けるんだよな。マジで。&lt;br&gt;
+結果、微損になってるけど絶対あかん。想定内のナンピンではなかったから。&lt;br&gt;
+場中決算は下落している時のリバウンド狙いだけは一つ考え方があってそこそこ自信持てるけど、それ以外はからっきしダメ。&lt;br&gt;
+なのに、ロット少し入れて取ろうとするこの魂胆がわろし。本当に。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7011/20260804-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/7011/20260804-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;300&#34; height=&#34;500&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/3（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/08/03/</link>

@@ -1,5 +1,4 @@
 +++
-date = '{{ .Date }}'
 draft = false
 toc = false
 categories = ['トレード記録']
