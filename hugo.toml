@@ -29,7 +29,7 @@ theme = "hugo-blog-awesome"
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines
   [services.googleAnalytics]
-    id = '' # G-MEASUREMENT_ID
+    id = 'G-45N8JN2Q3K' # G-MEASUREMENT_ID
 
 # To enable Disqus comments, provide Disqus Shortname below.
 # To disable Disqus comments, simply leave the field empty or remove the next two lines
@@ -49,6 +49,7 @@ theme = "hugo-blog-awesome"
 
 [params]
   sitename = "宝水香のトレード日誌"
+  description = "デイトレード戦略と日々の記録"
   defaultColor = "light"
   mainSections = ['posts']
   toc = true
@@ -59,6 +60,7 @@ theme = "hugo-blog-awesome"
 
 [params.author]
     avatar = "enndou.png" 
+    description = "デイトレード戦略と日々の記録"
     intro = "宝水香のトレード日誌"
     name = "Kaoru Hosui" 
   
