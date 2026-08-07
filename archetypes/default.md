@@ -1,4 +1,5 @@
 +++
+date = '{{ .Date }}'
 draft = false
 toc = false
 categories = ['トレード記録']
@@ -10,6 +11,9 @@ title = '{{ now.Format "2" }}（{{ index (dict "Sunday" "日" "Monday" "月" "Tu
 
 
 # 反省
+
+
+# 良いトレード  
 
 
 # このトレード出来たでしょ？委員会
