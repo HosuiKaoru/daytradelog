@@ -204,18 +204,7 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
     </item>
     
     <item>
-      <title>PTS戦略</title>
-      <link>http://localhost:1313/posts/strategy/pts/</link>
-      <pubDate>Sun, 26 Oct 2025 14:12:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/strategy/pts/</guid>
-
-      
-      <description>&lt;p&gt;&lt;b&gt;ストップ安2連続目の銘柄に逆張りロング&lt;/b&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>リバウンド戦略（デイ）</title>
+      <title>リバウンド戦略</title>
       <link>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</link>
       <pubDate>Tue, 09 Sep 2025 21:58:37 +0900</pubDate>
       <guid>http://localhost:1313/posts/strategy/%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5/</guid>
@@ -226,18 +215,22 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
 &lt;h1 id=&#34;自立反発とは&#34;&gt;自立反発とは&lt;/h1&gt;
 &lt;p&gt;明確な節目割れや大陰線などの急落が発生することで価格が一時的に下に歪む。&lt;br&gt;
 →市場参加者の損切り注文が成行と指値注文の両方が発生。&lt;br&gt;
-→この成り行きを受け止めた後、一時的に売り板のほうが厚くなると、大口の買い戻しに利用され一時的に上に吹っ飛ぶ。&lt;br&gt;
+→この成り行き注文発生後、新規の売り手の数が一気に減ることで需給が一時的に転換し、株価が戻る。&lt;br&gt;
 （逆指値を狩ってから上に戻すアルゴもこの動きを助長）&lt;/p&gt;
+&lt;h1 id=&#34;リバウンドする際に注目する指標とその優先順位&#34;&gt;リバウンドする際に注目する指標とその優先順位&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;前日の安値、日足の明確なサポート、日足の25MA、出来高、節目、現値からの距離、時間帯&lt;/li&gt;
+&lt;li&gt;前日の高値・終値、分足の明確なサポート、先物、ロウソク足の形、日足の5MA、日足の出来高帯&lt;/li&gt;
+&lt;li&gt;分足の75MA割れ、分足の25MA&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;気づき&#34;&gt;気づき&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;強い成り行き売りを受け止め、少ない成り行き買いで上にいく動きは反転サイン。理想は成り行き売りのほうが成り行き買いより多い状況で陽線となること。ショート勢からすると力を使い果たしたために利確を考えねばならず、ロング勢からするとまだ力を残している状態。明らかに力関係が逆転し始めると考えられる場面。&lt;/li&gt;
-&lt;li&gt;出来高が増加している状態がうまくいきやすい。&lt;/li&gt;
 &lt;li&gt;急落からの節目&amp;quot;割れ&amp;quot;を拾いにいく意識が大切&lt;/li&gt;
 &lt;li&gt;厚い買い板の下で買うとド底狙いがしやすい&lt;/li&gt;
-&lt;li&gt;5分足の陰線と同じ長さの陰線が続くことが多い。&lt;/li&gt;
+&lt;li&gt;5分足の陰線は同じ長さの陰線が続くことが多い。&lt;/li&gt;
 &lt;li&gt;下落中のどこかでフェイントの井上を挟んでいると尚良し。&lt;/li&gt;
-&lt;li&gt;しっかりめの下落トレンド＋下ヒゲ＋5MA上確定陽線（実態は小さめ）が出たら最高。&lt;/li&gt;
 &lt;li&gt;反転上昇時に一度下に降ってくるような下ヒゲ陽線が出現するとより上値が軽くなり、上昇が続きやすい。&lt;/li&gt;
+&lt;li&gt;自分は保有時間が短すぎる癖があるので、当該5分足とその次の5分足までを目安に保有すること。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;反発しやすいポイント&#34;&gt;反発しやすいポイント&lt;/h1&gt;
 &lt;h2 id=&#34;大幅gu日足の5ma25ma&#34;&gt;大幅GU＋日足の5MA(25MA)&lt;/h2&gt;
@@ -290,29 +283,6 @@ S安水準までPTSの方は瞬間的に歪んでいて、ここまでの巨大�
       
       <description>&lt;p&gt;&lt;b&gt;大口の買い注文が入ったら追随ロング&lt;/b&gt;&lt;br&gt;
 大口の売買に反応する&lt;span style=&#34;color: red;&#34;&gt;「個人トレーダーの追随」&lt;/span&gt;の勢いを利用する&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Vジェネレート戦略</title>
-      <link>http://localhost:1313/posts/strategy/oshimegai/</link>
-      <pubDate>Sun, 17 Aug 2025 12:24:53 +0900</pubDate>
-      <guid>http://localhost:1313/posts/strategy/oshimegai/</guid>
-
-      
-      <description>&lt;p&gt;&lt;b&gt;GUした注目銘柄の押し目でロング&lt;/b&gt;&lt;br&gt;
-注目銘柄の&lt;span style=&#34;color: red;&#34;&gt;「相対的安さ」&lt;/span&gt;によるリバウンド勢の買い圧力を利用する&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>寄り付き戦略</title>
-      <link>http://localhost:1313/posts/strategy/gd/</link>
-      <pubDate>Wed, 13 Aug 2025 18:37:22 +0900</pubDate>
-      <guid>http://localhost:1313/posts/strategy/gd/</guid>
-
-      
-      <description>&lt;p&gt;&lt;b&gt;大幅にGDした銘柄の寄り付きロング&lt;/b&gt;&lt;/p&gt;</description>
       
     </item>
     
