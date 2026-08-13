@@ -8,32 +8,129 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Mon, 10 Aug 2026 22:39:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:40:33 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>11（火）のデイトレ結果</title>
+      <title>8/13（木）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/08/13/</link>
+      <pubDate>Thu, 13 Aug 2026 18:40:33 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/08/13/</guid>
+
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>8/12（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/08/12/</link>
+      <pubDate>Wed, 12 Aug 2026 14:52:57 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/08/12/</guid>
+
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;ホンマにやれることがない。ここまでぼらないとしんどいのか。&lt;br&gt;
+もうこういう相場なんだな。&lt;br&gt;
+ただ、後場寄りはチャンスが発生していたのか。クソ。&lt;br&gt;
+フーデリ稼働いってしまっていたよ。マジ。&lt;br&gt;
+数少ないチャンスをものにしないと収益上げられないので、今日みたいに値切ってたらダメ。&lt;br&gt;
+しっかり反省しよう。&lt;/p&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;p&gt;サンコール&lt;br&gt;
+S高翌日。&lt;br&gt;
+PTSより上＋日足の形が良い＋光関連というテーマド真ん中銘柄ということでこれは寄り凸チャンスだったなあ。&lt;br&gt;
+レバ1倍くらいの1000株で勝負する価値は全然あった。&lt;br&gt;
+その後のアルゴの振り落としを拾う形で入ってスキャで抜いたけど、ちゃんと寄り凸して値幅取らないとな。&lt;br&gt;
+これは負けたとしてもRR悪くない局面だったと思うだけに非常に勿体ない。&lt;br&gt;
+最近、決算でS高つけた翌日は三菱マテリアルもそうだけど一回上を狙いにいく動きがでている気がする。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;SUMCO&lt;br&gt;
+前日高値付近+出来高増加を見てこれは空売りのチャンスだったと思うなあ。&lt;br&gt;
+チキってしまっている。&lt;br&gt;
+もちろんトレンド転換までは狙うものじゃないので、押し目形成への戻りを狙う考え方だけど。&lt;br&gt;
+こういう数少ない小チャンスを取りに行かないと。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260812-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/3436/20260812-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>8/10（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/08/10/</link>
       <pubDate>Mon, 10 Aug 2026 22:39:35 +0900</pubDate>
       <guid>http://localhost:1313/posts/log/2026/08/10/</guid>
 
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+34,420円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
 &lt;p&gt;これが夏枯れ相場というやつか。&lt;br&gt;
 今までのは違ってこれが本当の夏枯れ。&lt;br&gt;
-9時30分過ぎてからのボラが明らかに少ない。
-上に、10時以降はもうバーコード。
-こんなんで取れるわけないな。まじで。
-寄り付きに全リソースをいれないとアカン。
-ポカリさんは場中決算でとっててさすがだし、らんまるさんは安定していて、シンクさんはもはやキモい。
-俺もあの人たちみたいにいつかなれるのか?
-なりてぇぇぇぇぇ。マジで。絶対なる!
-SUMCOで小チャンスといっていいかわからんが細かくとれそうなポイントはあったのでこれは振り返ろう。&lt;/p&gt;
-&lt;p&gt;AIメカテック
-寄り付いてからの全体の値動き的に決算で大幅GDスタートのこいつの寄り凸はチャンスと思った。
-ただ、寄り値ではなく5分足の出来高帯&lt;/p&gt;
+9時30分過ぎてからのボラが明らかに少ない。&lt;br&gt;
+上に、10時以降はもうバーコード。&lt;br&gt;
+こんなんで取れるわけないな。まじで。&lt;br&gt;
+寄り付きに全リソースをいれないとアカン。&lt;br&gt;
+ポカリさんは場中決算でとっててさすがだし、らんまるさんは安定していて、シンクさんはもはやキモい。&lt;br&gt;
+俺もあの人たちみたいにいつかなれるのか?&lt;br&gt;
+なりてぇぇぇぇぇ。マジで。絶対なる!&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;AIメカテック&lt;br&gt;
+寄り付いてからの全体の値動き的に決算で大幅GDスタートのこいつの寄り凸はチャンスと思った。&lt;br&gt;
+ただ、寄り値ではなく5分足の出来高帯サポートがある位置に指していたので、寄り値より少し下に指してたらまさかのド底に。&lt;br&gt;
+ド底すぎて半分しか約定せず、くっそ。&lt;br&gt;
+寄りの時点でチャンスなんだから、寄りでも100株はいれておこう。次からは。&lt;br&gt;
+このワンチャンスでとれただけだったけど、とりあえず少しでも乗れたのはよかった。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6227/20260810-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6227/20260810-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;SWCC&lt;br&gt;
+光関連が軒並み気配がよかったのと米国株も動意づいていたので、フジクラとか古河とか精工技研とかかな？と思って忘れてた。&lt;br&gt;
+けど、SWCCシンプルにチャンスだったんか。&lt;br&gt;
+日足もいい形だったのと、分足の出来高も見ると順張りの考え方に合致していたので、これは朝一狙わないといけなかった。&lt;br&gt;
+少し注目度が落ちるテーマ株を狙うという考え方は結構いい。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5805/20260810-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5805/20260810-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;イビデン&lt;br&gt;
+今日めちゃめちゃ強く動いていたこいつが先物の下落に過剰に反応して落ちてきた場面。&lt;br&gt;
+20000割れ＋分足の25MAへのファーストタッチという条件も揃っていたので、これはリバ狙いというより押し目買いの考え方で入れたな。&lt;br&gt;
+ファーストタッチ＋複数条件が揃っていた時は入っていきたい。&lt;br&gt;
+もし、入ってたら引っ張るだけ引っ張りたいけど、最近は上昇トレンドが一日続くケースの方が少ないので直近高値を目標にしてそこに届かないようならさっさと逃げるくらいのイメージで決済かな。&lt;/p&gt;</description>
       
     </item>
     
