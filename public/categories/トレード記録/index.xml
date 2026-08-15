@@ -8,8 +8,22 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Thu, 13 Aug 2026 18:40:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:56:41 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89%E8%A8%98%E9%8C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15（土）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/08/14/</link>
+      <pubDate>Fri, 14 Aug 2026 20:56:41 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/08/14/</guid>
+
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/13（木）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/08/13/</link>
@@ -17,10 +31,56 @@
       <guid>http://localhost:1313/posts/log/2026/08/13/</guid>
 
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;+18,710円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;夏枯れではあるのだが、それなりにボラのあった日。&lt;br&gt;
+そして半導体関連がこんなにジリジリ上げ続ける感じは懐かしさを感じる。&lt;br&gt;
+まあ、乗れるわけないんだけどね。今は逆張りしか考えてないから。&lt;br&gt;
+今日はたまたま勝ててるだけで、中身は悪かった。&lt;br&gt;
+甘い取引を繰り返してたまたま助かったケースが何個かあったのでしっかり再発防止策を練らないと危険。&lt;br&gt;
+一寸先は闇なんだから、なんとなくエントリーだけは絶対にしてはいかんぞ。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;KOKUSAI&lt;br&gt;
+寄ってからの急騰＋9000の節目突破ということで一回は下への揺さぶりがあると思って逆張り空売り。&lt;br&gt;
+したら思いっきり担がれて、さすがに？と思ってナンピンして一時は助かった場面もあったけど、9000割れまでいくと思ってホールドしてたら継続して強かったので損切りに。&lt;br&gt;
+かなり危ないトレードだった。&lt;br&gt;
+寄ってからの急騰の逆張りをするとしても根拠が節目突破だけではさすがに薄すぎる。&lt;br&gt;
+まあ、100歩譲ってその根拠で入ったとしてもド天井じゃない限りは速攻できらないと危険。&lt;br&gt;
+寄ってからの急騰の逆張りショートはどこまでつれていかれるかわからないし、今回みたいに上に何かしらのレジスタンスみたいな根拠がある状況じゃない時はなおさら損切りラインを決められないのでどうしても値ごろ感からの空売りになってしまう。&lt;br&gt;
+つまり、今回はエントリーしてはいけないということ。&lt;br&gt;
+次からはこのような根拠での急騰の逆張りショートは禁止にする。&lt;br&gt;
+必ず、日足や分足での強力なレジスタンスや根拠を必須とする。&lt;br&gt;
+しばらく持ってたら利確できたじゃんみたいな考えだけは絶対に持ってはいけない。&lt;br&gt;
+甘い取引をしたとしかと反省すること。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6525/20260813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6525/20260813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;フジクラ&lt;br&gt;
+2段上げのチャートレ狙いでロングしたら下がり始め、一気に下がりナンピン、その上で急落したのでさらにナンピンして結果トントンで逃げた。&lt;br&gt;
+これもかなり危険なトレード。&lt;br&gt;
+2段上げ狙いが崩れた所で一回カットしないといけない。&lt;br&gt;
+のに、できなかった。&lt;br&gt;
+KOKUSAIの方もそうだけど、さすがにやりすぎじゃない？ラインをさらにぶっ飛んだ時にさすがにやりすぎすぎでしょでカットよりナンピンのほうが期待値が高いと判断してしまってこういう行動に繋がっている。&lt;br&gt;
+けど、本当のトレンドだった時は一発でやられる典型的なコツコツドカンになってしまうので、絶対にあかん。&lt;br&gt;
+そもそも、逆張りをするタイミングはやりすぎだろで入るわけで、自分の入ったポイント付近で反応がなくて貫かれた時点でおかしいと判断しないといけないし、貫かれまくっているのであればそこは甘い位置ということ。&lt;br&gt;
+フジクラの方はトレードの根拠を途中で移したのが悪かった。分足の2段上げ狙いは期待値がなさそうって自分の中でなっていたのに懲りずにエントリーしたのは反省しないといけない。&lt;br&gt;
+次からは分足の2段上げ狙いで入る場合は場中決算・材料・出来高爆発の場合に限定しよう。&lt;br&gt;
+そして、KOKUSAIやフジクラみたいなオーバーシュートするアルゴが入っている銘柄の場合は通常の逆張りポイントの2歩後ろを意識しよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5803/20260813-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5803/20260813-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
