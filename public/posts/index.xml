@@ -8,8 +8,22 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Mon, 24 Aug 2026 14:44:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:29:17 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8/25（火）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/08/25/</link>
+      <pubDate>Tue, 25 Aug 2026 18:29:17 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/08/25/</guid>
+
+      
+      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>8/24（月）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/08/24/</link>
@@ -41,39 +55,29 @@ SNSではデイトレ論争が繰り広げられているけどそんなこと�
 太陽誘電が貫かれてしまったのもそうだけど、やっぱりいきすぎたからその戻りが発生するのであって、まだいきすぎていないポイントでしょうもないテクニカル指標みたいなのを頼りに指値を入れるから飲み込まれる。&lt;br&gt;
 ちゃんといきすぎたかどうか？を考えるのが重要。いきすぎたからみんなが投げたくなって一時的に反転するってことだから。&lt;br&gt;
 指値を入れる位置をもっと工夫しよう。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260824-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/5985/20260824-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;ティアフォー&lt;br&gt;
 後場の最後の下落のリバウンド狙いをしたけど、これもサンコールと同じ反省内容。&lt;br&gt;
 後場だしサポートっぽい所でリバウンドするんじゃね？って考えてしまった。&lt;br&gt;
 ここを割って少し下に走ったポイントで拾わないとな。&lt;br&gt;
 とにかく綺麗に反発するパターンは捨てて、うざい反発をするパターンを狙うようにしよう。&lt;/p&gt;
-&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
-&lt;p&gt;FIG&lt;br&gt;
-朝から狙っていた位置でちゃんと指値を指しておいて、5MAまでの計画的な利確ができてOK。&lt;br&gt;
-こういうのを増やしていきたい。&lt;/p&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
-&lt;p&gt;GO&lt;br&gt;
-朝一の2本理論＋出来高帯サポート＋日足の5MAということでここは指しておきたかった。&lt;br&gt;
-監視に入っていないのでまあ絶対に気づけなかったんだけど。&lt;br&gt;
-こういう小チャンスをなんとか見つけて細かく利益を積み重ねていくしかない。&lt;/p&gt;
-&lt;p&gt;村田製作所&lt;br&gt;
-全体が上昇している中で先物の下落に素直に反応した村田で高値での空売りをするべきだった。&lt;br&gt;
-自分は太陽誘電を選択してしまって、これは今日強かったのと癖が悪いとのことで一回追い出されてしまった。そこからガラ。&lt;br&gt;
-相対的に弱かった村田で狙うべきだった。&lt;br&gt;
-ちゃんと直近数日のレンジの高値まで引き付けたポイントで綺麗に狙うことができたんだけどな。&lt;/p&gt;
-&lt;p&gt;ANAP&lt;br&gt;
-朝一の連売りからの一瞬の板のオーバーシュート狙いの指値。&lt;br&gt;
-これは取りたかったなあ。&lt;br&gt;
-150割れまで想定してしまって指値をケチったらおいていかれてしまった。&lt;br&gt;
-これってどうするべきだったんだろう？連売に特攻するにしては少し高いかな？と思ってもうちょっと割安になるタイミングを狙ったんだけど。&lt;br&gt;
-にしても、その後の高値更新のタイミングの順張りでは入らないとな。&lt;br&gt;
-おいていかれたから終わり。ではなくて、次のチャンスがあれば高くても入れるようにならんとアカン。&lt;/p&gt;
-&lt;p&gt;ユニチカ&lt;br&gt;
-後場寄りの急落で明確な出来高帯サポートライン到達のショートリバ狙い。&lt;br&gt;
-これは気づけてたら絶対に入りたかったポイント。&lt;br&gt;
-こういうのをコツコツ積み重ねる努力をしないといけない。&lt;br&gt;
-せっかく監視銘柄に入っていたんだから、ちゃんとどこまできたら狙おうというのはふわっと考えておかないとな。&lt;br&gt;
-監視銘柄に入れてるだけじゃ意味がない。&lt;br&gt;
-ちゃんと、チャンスとなるポイントを事前に考えておくこと。&lt;/p&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/593A/20260824-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/593A/20260824-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
