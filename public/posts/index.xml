@@ -8,8 +8,23 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Fri, 04 Sep 2026 11:30:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:55:47 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/7（月）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/09/07/</link>
+      <pubDate>Mon, 07 Sep 2026 00:55:47 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/09/07/</guid>
+
+      
+      <description>&lt;p&gt;+48,410円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
+&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+      
+    </item>
+    
     <item>
       <title>9/4（金）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/09/04/</link>
@@ -17,10 +32,53 @@
       <guid>http://localhost:1313/posts/log/2026/09/04/</guid>
 
       
-      <description>&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+      <description>&lt;p&gt;-22,122円&lt;/p&gt;
+&lt;h1 id=&#34;総括&#34;&gt;総括&lt;/h1&gt;
+&lt;p&gt;自動運転相場終了。&lt;br&gt;
+にしてもこんな感じでゆるく終わるとは想像できなかった。&lt;br&gt;
+空売りの天井狙いするくらいだったらひたすらロングで狙いまくる方がいいということにこの相場で気づけたので次に活かしたいと思った。&lt;br&gt;
+個人的なトレードとしては甘い取引をしまくってしまったのを反省しなければならない日だった。&lt;br&gt;
+それにチャンスはあったのに気づけなかったのも反省しなければならない。&lt;br&gt;
+無駄なトレードをしてしまって細かい損失を積み上げてしまったのもよくなかった。&lt;br&gt;
+勝てなかったとしても1万円以内の負けに抑えられたはずだったからな。&lt;/p&gt;
 &lt;h1 id=&#34;反省&#34;&gt;反省&lt;/h1&gt;
-&lt;h1 id=&#34;良いトレード&#34;&gt;良いトレード&lt;/h1&gt;
-&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;</description>
+&lt;p&gt;三菱商事&lt;br&gt;
+日足チャートの形がよかったのと出来高も上昇傾向だったので朝一の大陰線戦略でいけると思って勝負した。&lt;br&gt;
+けど、入る位置が高すぎた。&lt;br&gt;
+前日の押し安値で拾ったけどここを割って下に加速したあたりで拾うべきだった。&lt;br&gt;
+サポートで入るんじゃなくて、サポート割れ加速で入るべきだからね。&lt;br&gt;
+にしてもこんなに弱いとは思わなかったけど。&lt;br&gt;
+入る位置はピンクくらいにすべきだったな。&lt;br&gt;
+そこから、4900円の節目を盾にして計画的な買い下がりもする感じで。&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/8058/20260904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/8058/20260904-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;このトレード出来たでしょ委員会&#34;&gt;このトレード出来たでしょ？委員会&lt;/h1&gt;
+&lt;p&gt;三井E&amp;amp;S寄り凸&lt;br&gt;
+名村造船との気配差の寄り凸&lt;br&gt;
+朝刊に造船関連のニュースが出てた。&lt;br&gt;
+でもあの時みたいに明らかな感じではなかったので微妙かと思ったが、小ロットで入ってみたかった。&lt;br&gt;
+米市場と先物も上昇していたのでリスクは低かったと思う。&lt;/p&gt;
+&lt;p&gt;ダイナミックマッププラットフォームの日足の青天戦略&lt;br&gt;
+マジで気づかなきゃいけなかった。&lt;br&gt;
+青天いける状態ならちゃんと意識するようにしよう。&lt;br&gt;
+WBに記入したのでちゃんと前日準備で意識すること。&lt;br&gt;
+明らかにこいつだけ異質な動き方してたからこそ、この戦略したかった&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/336A/20260904-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/336A/20260904-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;</description>
       
     </item>
     
