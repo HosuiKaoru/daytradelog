@@ -10,10 +10,4 @@ title = '{{ now.Format "2" }}（{{ index (dict "Sunday" "日" "Monday" "月" "Tu
 # 総括
 
 
-# 反省
-
-
-# 良いトレード  
-
-
-# このトレード出来たでしょ？委員会
+# 　振り返り
