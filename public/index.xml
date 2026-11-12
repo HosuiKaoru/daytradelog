@@ -8,8 +8,87 @@
     <language>ja-jp</language>
     
     
-    <lastBuildDate>Tue, 10 Nov 2026 20:24:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:53:23 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11/12（木）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/11/12/</link>
+      <pubDate>Thu, 12 Nov 2026 09:53:23 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/11/12/</guid>
+
+      
+      <description>&lt;p&gt;+58,000円&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;日経がついに力つきた。そんな一日。&lt;br&gt;
+この激リバの反動の下げはどこかで来ると思ってたのだが、今日は結構明確にそれを感じれた。&lt;br&gt;
+弱さを感じたというか。&lt;br&gt;
+言語化するとすると、前場は昨日みたいに寄ってから急落してから上目指す展開だったけど、昨日みたいに高値をぐんぐん更新していく感じがなかった。&lt;br&gt;
+次に、後場GDして昨日は急騰していたんだけど、今日は素直に下に突っ込んでいったのが弱さを感じさせた。&lt;br&gt;
+そこで、個別のチャートも崩れたしね。&lt;br&gt;
+ただ、弱いからすぐポジションを組むというのは良くないと思った。&lt;br&gt;
+やっぱり突っ込んだ位置で組むのではなくて、チャートで戻りの部分でポジション組み始めるイメージ。&lt;br&gt;
+後場だしね。&lt;br&gt;
+それで、安値更新している間は放置して出来高増加してきたり、下げ止まりをチャートや相対性を考えて雰囲気でって感じなんだろう。&lt;br&gt;
+てか、そう思うなら指数ショートでよくね？って思ったけどそれは違う。&lt;br&gt;
+指数より相対弱いものを仕込むことで指数よりもパフォーマンスを狙えるという明確な利点があるし。&lt;br&gt;
+あと、指数がどうなるかは予測の域を出ないのでパチンコであり、根拠の中では第一優先にすべきではないということ。&lt;br&gt;
+個別の動きが今までの流れから見て弱さを感じる＋チャートが崩れる＋戻しでポジション構築→指数が横横でも勝ち・下落なら大勝ち・上げなら微負けって感じかな。&lt;br&gt;
+相対性をとにかく意識ですね。&lt;br&gt;
+今日でいうと、明らかにイビデン・太陽誘電・アドバンテストが弱かったから、こいつらを後場にポジション作りたかったね。&lt;/p&gt;
+&lt;p&gt;イビデン&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4062/20261112-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/4062/20261112-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;太陽誘電&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6976/20261112-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6976/20261112-day.png&#34; alt=&#34;デイトレ記録の日足&#34; width=&#34;200&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;日足&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;アドバンテスト&lt;/p&gt;
+&lt;div style=&#34;display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px;&#34;&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/dailylog/6857/20261112-5minutes.png&#34; alt=&#34;デイトレ記録の5分足&#34; width=&#34;400&#34; height=&#34;600&#34;&gt;
+&lt;p style=&#34;margin-top: 5px; font-size: 0.9em; color: #555;&#34;&gt;5分足&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>11/11（水）のデイトレ結果</title>
+      <link>http://localhost:1313/posts/log/2026/11/11/</link>
+      <pubDate>Wed, 11 Nov 2026 09:52:02 +0900</pubDate>
+      <guid>http://localhost:1313/posts/log/2026/11/11/</guid>
+
+      
+      <description>&lt;p&gt;+30,310円&lt;/p&gt;
+&lt;h1 id=&#34;振り返り&#34;&gt;振り返り&lt;/h1&gt;
+&lt;p&gt;久しぶりにやらかしてしまった。&lt;br&gt;
+何をって? そう、寝坊です。&lt;br&gt;
+オワタ of オワタです。&lt;br&gt;
+結果論ですけど、まあ寄り見てても取れるのたぶんなかったかな。&lt;br&gt;
+そんな一日。&lt;/p&gt;
+&lt;p&gt;日経はこんなに強いんだね。&lt;br&gt;
+一つ気付いたことというか思ったことなんだけど、こうやってトレンドが個別でも指数でもしっかりでてるの久しぶりだけどきっかけは6万のレンジ下抜けな気がする。&lt;br&gt;
+あそこで、レンジが終わったことで指数や個別にようやく順張りの優位性が表れたって感じ。&lt;br&gt;
+だから今は下落トレンドの逆張りトレードは危険なんだろうな。&lt;br&gt;
+場中に強いものに乗っていくトレードがついに火を吹く感じかな?&lt;br&gt;
+結局、地合いにあわせてトレードスタイルを変えていくしかないので、意固地に固執するのではなく、柔軟に変化することの大切さを学びました。&lt;br&gt;
+個別のトレードで特にチャンスと思ったのはなし。&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>11/10（火）のデイトレ結果</title>
       <link>http://localhost:1313/posts/log/2026/11/10/</link>
